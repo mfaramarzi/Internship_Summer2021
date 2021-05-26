@@ -1,0 +1,254 @@
+{
+    "tests": [
+        {
+            "case": 1,
+            "input": "RH Xp",
+            "output": "False"
+        },
+        {
+            "case": 2,
+            "input": "X4b9r99oPLM luVS oNBGqyA",
+            "output": "False"
+        },
+        {
+            "case": 3,
+            "input": "1ncFM gpq29lywv",
+            "output": "False"
+        },
+        {
+            "case": 4,
+            "input": " J0fsNDV7Ld56oxs55rCp",
+            "output": "False"
+        },
+        {
+            "case": 5,
+            "input": "OrhOffB0r6kSDlwhRx fKD",
+            "output": "False"
+        },
+        {
+            "case": 6,
+            "input": " hEjg54EieTjv6pn5DG",
+            "output": "False"
+        },
+        {
+            "case": 7,
+            "input": "   ",
+            "output": "True"
+        },
+        {
+            "case": 8,
+            "input": "lBQ",
+            "output": "False"
+        },
+        {
+            "case": 9,
+            "input": "7 OtCvX",
+            "output": "False"
+        },
+        {
+            "case": 10,
+            "input": "1lea",
+            "output": "False"
+        },
+        {
+            "case": 11,
+            "input": "8tCc2L5O",
+            "output": "False"
+        },
+        {
+            "case": 12,
+            "input": " QALPU",
+            "output": "False"
+        },
+        {
+            "case": 13,
+            "input": "w",
+            "output": "True"
+        },
+        {
+            "case": 14,
+            "input": "2uJgS9I8GLV",
+            "output": "False"
+        },
+        {
+            "case": 15,
+            "input": "X7o8vhlpvD8lD",
+            "output": "False"
+        },
+        {
+            "case": 16,
+            "input": "s",
+            "output": "True"
+        },
+        {
+            "case": 17,
+            "input": "R 7KK1wanPBAjXexzOr",
+            "output": "False"
+        },
+        {
+            "case": 18,
+            "input": "PzIxSM9 irAtF",
+            "output": "False"
+        },
+        {
+            "case": 19,
+            "input": "Cv",
+            "output": "False"
+        },
+        {
+            "case": 20,
+            "input": "xE3nVTBBj0QksbQwiOmPK",
+            "output": "False"
+        },
+        {
+            "case": 21,
+            "input": " ",
+            "output": "True"
+        },
+        {
+            "case": 22,
+            "input": "1MCF1gI",
+            "output": "False"
+        },
+        {
+            "case": 23,
+            "input": "uiKzG",
+            "output": "False"
+        },
+        {
+            "case": 24,
+            "input": "YzOJfGhUsfhR",
+            "output": "False"
+        },
+        {
+            "case": 25,
+            "input": "R80u22XBFN",
+            "output": "False"
+        },
+        {
+            "case": 26,
+            "input": "4KT9TRNh7yHJ3y",
+            "output": "False"
+        },
+        {
+            "case": 27,
+            "input": "a",
+            "output": "True"
+        },
+        {
+            "case": 28,
+            "input": "Q19CmvfMbHpf",
+            "output": "False"
+        },
+        {
+            "case": 29,
+            "input": "0 sQola BKVWKE",
+            "output": "False"
+        },
+        {
+            "case": 30,
+            "input": "4WnckuA4Jf ZnTytXi",
+            "output": "False"
+        },
+        {
+            "case": 31,
+            "input": "eWRFlfPDfCz",
+            "output": "False"
+        },
+        {
+            "case": 32,
+            "input": "tMp",
+            "output": "False"
+        },
+        {
+            "case": 33,
+            "input": "a A a",
+            "output": "True"
+        },
+        {
+            "case": 34,
+            "input": "V J T42MLyU8Z DNKFC",
+            "output": "False"
+        },
+        {
+            "case": 35,
+            "input": "TacocaT",
+            "output": "True"
+        },
+        {
+            "case": 36,
+            "input": "0 KYeGnFO4cB6 JHMkP",
+            "output": "False"
+        },
+        {
+            "case": 37,
+            "input": "YRA0XLxAolIPW O",
+            "output": "False"
+        },
+        {
+            "case": 38,
+            "input": "9u5XVn4RFEpJ6",
+            "output": "False"
+        },
+        {
+            "case": 39,
+            "input": "CqVNDq",
+            "output": "False"
+        },
+        {
+            "case": 40,
+            "input": "gzlMSJhmvxzBjz",
+            "output": "False"
+        },
+        {
+            "case": 41,
+            "input": "Ynfa",
+            "output": "False"
+        },
+        {
+            "case": 42,
+            "input": "1nySoac7hYRjm1NAh",
+            "output": "False"
+        },
+        {
+            "case": 43,
+            "input": "IlcPE9RgC w7HeC",
+            "output": "False"
+        },
+        {
+            "case": 44,
+            "input": "01PtOiSTf4sm  ",
+            "output": "False"
+        },
+        {
+            "case": 45,
+            "input": "1al09r4o  sSol",
+            "output": "False"
+        },
+        {
+            "case": 46,
+            "input": "tacoCAT",
+            "output": "True"
+        },
+        {
+            "case": 47,
+            "input": "SsYz",
+            "output": "False"
+        },
+        {
+            "case": 48,
+            "input": "A",
+            "output": "True"
+        },
+        {
+            "case": 49,
+            "input": "j14l24ZvVs3v4auEMfX",
+            "output": "False"
+        },
+        {
+            "case": 50,
+            "input": "faz ",
+            "output": "False"
+        }
+    ]
+}

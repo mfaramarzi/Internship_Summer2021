@@ -1,0 +1,254 @@
+{
+    "tests": [
+        {
+            "case": 1,
+            "input": "20\n1000 879\n446 843\n160 369\n257 26\n852 611\n210 891\n913 448\n103 325\n245 972\n231 874\n559 469\n304 248\n199 192\n984 298\n14 171\n475 192\n674 497\n621 34\n748 813\n905 421\n",
+            "output": "impossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\n514.0 45.0\n276.0 28.0\nimpossible\n641.0 343.0\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\n663.0 242.0\n"
+        },
+        {
+            "case": 2,
+            "input": "4\n296 152\n541 902\n508 185\n903 631\n",
+            "output": "224.0 72.0\nimpossible\nimpossible\n767.0 136.0\n"
+        },
+        {
+            "case": 3,
+            "input": "10\n795 250\n536 679\n621 234\n78 276\n917 666\n798 392\n897 336\n31 238\n969 375\n996 306\n",
+            "output": "impossible\nimpossible\nimpossible\nimpossible\nimpossible\n595.0 203.0\nimpossible\nimpossible\n672.0 297.0\n651.0 345.0\n"
+        },
+        {
+            "case": 4,
+            "input": "6\n517 337\n307 863\n395 708\n188 78\n282 949\n285 607\n",
+            "output": "427.0 90.0\nimpossible\nimpossible\n133.0 55.0\nimpossible\nimpossible\n"
+        },
+        {
+            "case": 5,
+            "input": "8\n191 944\n850 804\n990 3\n25 46\n851 221\n812 61\n398 847\n779 325\n",
+            "output": "impossible\n827.0 23.0\nimpossible\nimpossible\n536.0 315.0\nimpossible\nimpossible\n552.0 227.0\n"
+        },
+        {
+            "case": 6,
+            "input": "18\n315 396\n447 660\n367 587\n256 56\n476 834\n494 450\n236 869\n332 48\n47 985\n476 521\n328 347\n755 835\n281 994\n353 292\n935 151\n683 959\n472 714\n848 843\n",
+            "output": "impossible\nimpossible\nimpossible\n156.0 100.0\nimpossible\n472.0 22.0\nimpossible\n190.0 142.0\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\n543.0 392.0\nimpossible\nimpossible\nimpossible\n"
+        },
+        {
+            "case": 7,
+            "input": "8\n689 538\n885 739\n185 979\n915 778\n219 597\n390 909\n999 58\n616 573\n",
+            "output": "impossible\n812.0 73.0\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\n"
+        },
+        {
+            "case": 8,
+            "input": "12\n573 983\n756 241\n356 350\n167 346\n246 535\n719 516\n963 603\n529 409\n250 500\n540 60\n815 350\n576 943\n",
+            "output": "impossible\nimpossible\n353.0 3.0\nimpossible\nimpossible\nimpossible\n783.0 180.0\n469.0 60.0\nimpossible\n300.0 240.0\nimpossible\nimpossible\n"
+        },
+        {
+            "case": 9,
+            "input": "13\n82 492\n263 11\n330 285\n507 188\n191 501\n105 962\n853 556\n703 754\n894 695\n221 661\n457 543\n702 109\n652 847\n",
+            "output": "impossible\n137.0 126.0\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\n"
+        },
+        {
+            "case": 10,
+            "input": "7\n11 218\n737 774\n587 166\n702 613\n84 309\n500 483\n147 307\n",
+            "output": "impossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\n"
+        },
+        {
+            "case": 11,
+            "input": "15\n569 795\n184 619\n180 967\n577 438\n912 508\n8 174\n521 250\n291 777\n898 891\n214 887\n456 757\n835 967\n311 984\n901 695\n133 169\n",
+            "output": "impossible\nimpossible\nimpossible\nimpossible\n710.0 202.0\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\n798.0 103.0\nimpossible\n"
+        },
+        {
+            "case": 12,
+            "input": "13\n817 951\n743 835\n342 903\n753 220\n520 41\n421 687\n917 534\n220 569\n491 778\n181 846\n2 219\n934 138\n181 919\n",
+            "output": "impossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\n536.0 398.0\nimpossible\n"
+        },
+        {
+            "case": 13,
+            "input": "20\n511 130\n665 687\n721 366\n569 579\n799 41\n1 432\n522 382\n29 918\n395 981\n595 470\n460 599\n532 229\n991 71\n971 678\n774 210\n119 995\n259 375\n811 289\n504 548\n809 699\n",
+            "output": "impossible\nimpossible\nimpossible\nimpossible\n420.0 379.0\nimpossible\n452.0 70.0\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\n531.0 460.0\nimpossible\n492.0 282.0\nimpossible\nimpossible\n550.0 261.0\nimpossible\n754.0 55.0\n"
+        },
+        {
+            "case": 14,
+            "input": "2\n916 67\n287 844\n",
+            "output": "impossible\nimpossible\n"
+        },
+        {
+            "case": 15,
+            "input": "16\n242 708\n429 230\n570 140\n369 31\n856 962\n65 119\n417 840\n837 536\n465 794\n547 141\n620 940\n925 834\n3 707\n49 819\n954 894\n487 469\n",
+            "output": "impossible\nimpossible\n355.0 215.0\n200.0 169.0\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\n344.0 203.0\nimpossible\nimpossible\nimpossible\nimpossible\n924.0 30.0\n478.0 9.0\n"
+        },
+        {
+            "case": 16,
+            "input": "19\n102 584\n5 378\n835 484\n278 711\n91 35\n682 288\n85 355\n20 314\n455 751\n728 995\n368 375\n362 971\n123 794\n53 806\n826 167\n654 368\n294 570\n297 832\n488 168\n",
+            "output": "impossible\nimpossible\nimpossible\nimpossible\n63.0 28.0\n485.0 197.0\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\n511.0 143.0\nimpossible\nimpossible\n328.0 160.0\n"
+        },
+        {
+            "case": 17,
+            "input": "9\n470 157\n517 127\n389 322\n304 25\n966 728\n24 165\n797 430\n754 421\n421 753\n",
+            "output": "impossible\n322.0 195.0\nimpossible\nimpossible\n847.0 119.0\nimpossible\nimpossible\nimpossible\nimpossible\n"
+        },
+        {
+            "case": 18,
+            "input": "15\n730 550\n753 228\n196 151\n420 157\n389 93\n393 406\n372 780\n432 696\n242 472\n343 284\n128 157\n637 73\n432 428\n843 55\n48 691\n",
+            "output": "640.0 90.0\nimpossible\nimpossible\nimpossible\n241.0 148.0\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\n355.0 282.0\n430.0 2.0\n449.0 394.0\nimpossible\n"
+        },
+        {
+            "case": 19,
+            "input": "18\n938 715\n196 912\n22 835\n379 811\n124 609\n600 212\n457 417\n359 184\n216 697\n274 319\n92 792\n911 636\n739 808\n817 632\n316 331\n257 134\n532 870\n703 63\n",
+            "output": "impossible\nimpossible\nimpossible\nimpossible\nimpossible\n406.0 194.0\n437.0 20.0\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\n383.0 320.0\n"
+        },
+        {
+            "case": 20,
+            "input": "6\n765 423\n120 902\n749 8\n562 327\n576 895\n217 72\n",
+            "output": "594.0 171.0\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\n"
+        },
+        {
+            "case": 21,
+            "input": "9\n133 185\n406 412\n628 368\n335 443\n367 185\n752 292\n582 853\n799 215\n180 908\n",
+            "output": "impossible\nimpossible\n498.0 130.0\nimpossible\n276.0 91.0\n522.0 230.0\nimpossible\n507.0 292.0\nimpossible\n"
+        },
+        {
+            "case": 22,
+            "input": "14\n648 548\n220 890\n170 498\n360 312\n968 989\n407 527\n721 203\n535 448\n326 84\n410 718\n230 851\n704 31\n24 578\n18 983\n",
+            "output": "598.0 50.0\nimpossible\nimpossible\n336.0 24.0\nimpossible\nimpossible\n462.0 259.0\nimpossible\n205.0 121.0\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\n"
+        },
+        {
+            "case": 23,
+            "input": "17\n726 850\n686 930\n699 356\n974 282\n30 984\n957 748\n831 480\n744 37\n54 51\n546 285\n215 285\n264 218\n632 158\n292 902\n196 77\n997 458\n859 543\n",
+            "output": "impossible\nimpossible\nimpossible\n628.0 346.0\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\n241.0 23.0\n395.0 237.0\nimpossible\nimpossible\nimpossible\n701.0 158.0\n"
+        },
+        {
+            "case": 24,
+            "input": "1\n522 481\n",
+            "output": "impossible\n"
+        },
+        {
+            "case": 25,
+            "input": "1\n491 292\n",
+            "output": "impossible\n"
+        },
+        {
+            "case": 26,
+            "input": "7\n155 470\n115 645\n439 62\n961 595\n918 774\n130 87\n958 589\n",
+            "output": "impossible\nimpossible\nimpossible\n778.0 183.0\n846.0 72.0\nimpossible\nimpossible\n"
+        },
+        {
+            "case": 27,
+            "input": "8\n880 609\n157 899\n602 656\n298 287\n766 178\n156 923\n846 948\n391 830\n",
+            "output": "impossible\nimpossible\nimpossible\nimpossible\n472.0 294.0\nimpossible\nimpossible\nimpossible\n"
+        },
+        {
+            "case": 28,
+            "input": "7\n911 232\n330 127\n673 361\n794 658\n511 1000\n105 883\n617 700\n",
+            "output": "impossible\nimpossible\n517.0 156.0\n726.0 68.0\nimpossible\nimpossible\nimpossible\n"
+        },
+        {
+            "case": 29,
+            "input": "1\n973 354\n",
+            "output": "impossible\n"
+        },
+        {
+            "case": 30,
+            "input": "6\n758 817\n225 146\n603 203\n727 836\n651 129\n682 289\n",
+            "output": "impossible\nimpossible\n403.0 200.0\nimpossible\n390.0 261.0\nimpossible\n"
+        },
+        {
+            "case": 31,
+            "input": "15\n96 962\n574 570\n747 95\n739 225\n735 589\n588 246\n921 823\n779 603\n108 649\n359 889\n311 210\n605 185\n230 478\n609 203\n375 44\n",
+            "output": "impossible\n572.0 2.0\n421.0 326.0\n482.0 257.0\n662.0 73.0\n417.0 171.0\n872.0 49.0\n691.0 88.0\nimpossible\nimpossible\nimpossible\n395.0 210.0\nimpossible\n406.0 203.0\nimpossible\n"
+        },
+        {
+            "case": 32,
+            "input": "3\n962 864\n867 34\n336 855\n",
+            "output": "913.0 49.0\nimpossible\nimpossible\n"
+        },
+        {
+            "case": 33,
+            "input": "2\n350 405\n79 987\n",
+            "output": "impossible\nimpossible\n"
+        },
+        {
+            "case": 34,
+            "input": "3\n161 957\n768 176\n926 835\n",
+            "output": "impossible\n472.0 296.0\nimpossible\n"
+        },
+        {
+            "case": 35,
+            "input": "6\n720 508\n931 173\n739 256\n674 387\n234 945\n125 409\n",
+            "output": "614.0 106.0\n552.0 379.0\nimpossible\nimpossible\nimpossible\nimpossible\n"
+        },
+        {
+            "case": 36,
+            "input": "17\n799 742\n831 45\n92 880\n851 579\n268 295\n792 662\n156 527\n309 919\n700 135\n350 258\n961 304\n85 293\n943 17\n153 170\n785 599\n865 463\n701 957\n",
+            "output": "impossible\n438.0 393.0\nimpossible\n715.0 136.0\nimpossible\n727.0 65.0\nimpossible\nimpossible\nimpossible\n304.0 46.0\nimpossible\nimpossible\n480.0 463.0\nimpossible\n692.0 93.0\n664.0 201.0\nimpossible\n"
+        },
+        {
+            "case": 37,
+            "input": "14\n348 37\n453 256\n194 874\n106 145\n229 593\n314 393\n192 136\n497 871\n55 285\n553 358\n569 691\n904 831\n728 893\n95 855\n",
+            "output": "impossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\n164.0 28.0\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\n"
+        },
+        {
+            "case": 38,
+            "input": "6\n910 924\n727 421\n324 313\n728 937\n539 780\n545 824\n",
+            "output": "impossible\n574.0 153.0\nimpossible\nimpossible\nimpossible\nimpossible\n"
+        },
+        {
+            "case": 39,
+            "input": "4\n910 73\n908 808\n547 26\n609 925\n",
+            "output": "impossible\n858.0 50.0\nimpossible\nimpossible\n"
+        },
+        {
+            "case": 40,
+            "input": "17\n581 704\n291 935\n408 985\n868 799\n630 529\n858 336\n583 655\n532 672\n250 484\n343 919\n204 696\n858 465\n198 247\n362 232\n446 556\n291 890\n254 386\n",
+            "output": "impossible\nimpossible\nimpossible\nimpossible\nimpossible\n597.0 261.0\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\n297.0 65.0\nimpossible\nimpossible\nimpossible\n"
+        },
+        {
+            "case": 41,
+            "input": "19\n549 235\n781 434\n889 202\n226 100\n820 635\n191 679\n976 4\n843 568\n979 849\n63 200\n844 169\n609 976\n468 364\n293 991\n496 935\n241 694\n51 328\n715 599\n477 538\n",
+            "output": "392.0 157.0\nimpossible\nimpossible\n163.0 63.0\nimpossible\nimpossible\n490.0 486.0\nimpossible\n914.0 65.0\nimpossible\nimpossible\nimpossible\n416.0 52.0\nimpossible\nimpossible\nimpossible\nimpossible\n657.0 58.0\nimpossible\n"
+        },
+        {
+            "case": 42,
+            "input": "1\n42 536\n",
+            "output": "impossible\n"
+        },
+        {
+            "case": 43,
+            "input": "20\n757 964\n426 329\n160 770\n322 289\n562 959\n671 852\n253 791\n62 174\n840 593\n981 679\n911 56\n757 829\n102 930\n441 647\n768 433\n322 738\n784 824\n566 132\n913 337\n926 682\n",
+            "output": "impossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\n830.0 151.0\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\n349.0 217.0\n625.0 288.0\n804.0 122.0\n"
+        },
+        {
+            "case": 44,
+            "input": "10\n730 358\n772 551\n573 995\n0 235\n983 322\n225 136\n293 93\n105 876\n844 548\n821 173\n",
+            "output": "544.0 186.0\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\n193.0 100.0\nimpossible\n696.0 148.0\n497.0 324.0\n"
+        },
+        {
+            "case": 45,
+            "input": "11\n413 283\n405 794\n926 835\n300 875\n55 909\n373 531\n121 427\n992 780\n113 893\n602 932\n522 960\n",
+            "output": "348.0 65.0\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\n886.0 106.0\nimpossible\nimpossible\nimpossible\n"
+        },
+        {
+            "case": 46,
+            "input": "4\n956 441\n217 684\n647 431\n914 74\n",
+            "output": "impossible\nimpossible\n539.0 108.0\n494.0 420.0\n"
+        },
+        {
+            "case": 47,
+            "input": "1\n490 743\n",
+            "output": "impossible\n"
+        },
+        {
+            "case": 48,
+            "input": "2\n775 970\n758 723\n",
+            "output": "impossible\nimpossible\n"
+        },
+        {
+            "case": 49,
+            "input": "15\n634 214\n991 326\n490 705\n518 975\n882 585\n194 392\n514 206\n142 680\n467 382\n390 211\n404 491\n889 508\n416 727\n427 343\n904 180\n",
+            "output": "424.0 210.0\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\n360.0 154.0\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\n385.0 42.0\n542.0 362.0\n"
+        },
+        {
+            "case": 50,
+            "input": "19\n346 311\n1000 639\n753 290\n14 389\n252 959\n486 404\n405 112\n396 999\n977 608\n71 226\n223 876\n369 652\n611 170\n791 44\n313 911\n691 363\n819 830\n53 412\n936 118\n",
+            "output": "impossible\nimpossible\nimpossible\nimpossible\nimpossible\n445.0 41.0\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\nimpossible\n527.0 164.0\nimpossible\nimpossible\n527.0 409.0\n"
+        }
+    ]
+}

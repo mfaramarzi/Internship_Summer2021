@@ -1,0 +1,254 @@
+{
+    "tests": [
+        {
+            "case": 1,
+            "input": "804047277",
+            "output": "False"
+        },
+        {
+            "case": 2,
+            "input": "999961",
+            "output": "True"
+        },
+        {
+            "case": 3,
+            "input": "84838413",
+            "output": "False"
+        },
+        {
+            "case": 4,
+            "input": "3",
+            "output": "True"
+        },
+        {
+            "case": 5,
+            "input": "457083013",
+            "output": "False"
+        },
+        {
+            "case": 6,
+            "input": "28942323",
+            "output": "False"
+        },
+        {
+            "case": 7,
+            "input": "779501033",
+            "output": "False"
+        },
+        {
+            "case": 8,
+            "input": "927487655",
+            "output": "False"
+        },
+        {
+            "case": 9,
+            "input": "660448231",
+            "output": "True"
+        },
+        {
+            "case": 10,
+            "input": "999983",
+            "output": "True"
+        },
+        {
+            "case": 11,
+            "input": "999979",
+            "output": "True"
+        },
+        {
+            "case": 12,
+            "input": "344186944",
+            "output": "False"
+        },
+        {
+            "case": 13,
+            "input": "105172351",
+            "output": "False"
+        },
+        {
+            "case": 14,
+            "input": "52930112",
+            "output": "False"
+        },
+        {
+            "case": 15,
+            "input": "323584698",
+            "output": "False"
+        },
+        {
+            "case": 16,
+            "input": "212788596",
+            "output": "False"
+        },
+        {
+            "case": 17,
+            "input": "379092398",
+            "output": "False"
+        },
+        {
+            "case": 18,
+            "input": "948578118",
+            "output": "False"
+        },
+        {
+            "case": 19,
+            "input": "5",
+            "output": "True"
+        },
+        {
+            "case": 20,
+            "input": "76936602",
+            "output": "False"
+        },
+        {
+            "case": 21,
+            "input": "1",
+            "output": "False"
+        },
+        {
+            "case": 22,
+            "input": "777192407",
+            "output": "False"
+        },
+        {
+            "case": 23,
+            "input": "7",
+            "output": "True"
+        },
+        {
+            "case": 24,
+            "input": "89607990",
+            "output": "False"
+        },
+        {
+            "case": 25,
+            "input": "638689664",
+            "output": "False"
+        },
+        {
+            "case": 26,
+            "input": "457678792",
+            "output": "False"
+        },
+        {
+            "case": 27,
+            "input": "929949936",
+            "output": "False"
+        },
+        {
+            "case": 28,
+            "input": "313231557",
+            "output": "False"
+        },
+        {
+            "case": 29,
+            "input": "17",
+            "output": "True"
+        },
+        {
+            "case": 30,
+            "input": "731559549",
+            "output": "False"
+        },
+        {
+            "case": 31,
+            "input": "595020869",
+            "output": "False"
+        },
+        {
+            "case": 32,
+            "input": "392769624",
+            "output": "False"
+        },
+        {
+            "case": 33,
+            "input": "934824549",
+            "output": "False"
+        },
+        {
+            "case": 34,
+            "input": "329714335",
+            "output": "False"
+        },
+        {
+            "case": 35,
+            "input": "556829212",
+            "output": "False"
+        },
+        {
+            "case": 36,
+            "input": "828491955",
+            "output": "False"
+        },
+        {
+            "case": 37,
+            "input": "153928044",
+            "output": "False"
+        },
+        {
+            "case": 38,
+            "input": "133126825",
+            "output": "False"
+        },
+        {
+            "case": 39,
+            "input": "892915457",
+            "output": "False"
+        },
+        {
+            "case": 40,
+            "input": "906141146",
+            "output": "False"
+        },
+        {
+            "case": 41,
+            "input": "168604131",
+            "output": "False"
+        },
+        {
+            "case": 42,
+            "input": "60995177",
+            "output": "False"
+        },
+        {
+            "case": 43,
+            "input": "113",
+            "output": "True"
+        },
+        {
+            "case": 44,
+            "input": "2",
+            "output": "True"
+        },
+        {
+            "case": 45,
+            "input": "741266426",
+            "output": "False"
+        },
+        {
+            "case": 46,
+            "input": "3656938",
+            "output": "False"
+        },
+        {
+            "case": 47,
+            "input": "211120279",
+            "output": "True"
+        },
+        {
+            "case": 48,
+            "input": "528929825",
+            "output": "False"
+        },
+        {
+            "case": 49,
+            "input": "9384545",
+            "output": "False"
+        },
+        {
+            "case": 50,
+            "input": "536095140",
+            "output": "False"
+        }
+    ]
+}

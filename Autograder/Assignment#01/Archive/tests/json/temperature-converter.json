@@ -1,0 +1,254 @@
+{
+    "tests": [
+        {
+            "case": 1,
+            "input": "-21.653934956379786 C",
+            "output": "-21.6539 degree(s) C is equal to -6.9771 degree(s) F"
+        },
+        {
+            "case": 2,
+            "input": "32.56148696813585 C",
+            "output": "32.5615 degree(s) C is equal to 90.6107 degree(s) F"
+        },
+        {
+            "case": 3,
+            "input": "-29.00654224440067 C",
+            "output": "-29.0065 degree(s) C is equal to -20.2118 degree(s) F"
+        },
+        {
+            "case": 4,
+            "input": "88.90931853532757 F",
+            "output": "88.9093 degree(s) F is equal to 31.6163 degree(s) C"
+        },
+        {
+            "case": 5,
+            "input": "42.165608651943174 F",
+            "output": "42.1656 degree(s) F is equal to 5.6476 degree(s) C"
+        },
+        {
+            "case": 6,
+            "input": "4.874329058098496 C",
+            "output": "4.8743 degree(s) C is equal to 40.7738 degree(s) F"
+        },
+        {
+            "case": 7,
+            "input": "89.07413211657553 F",
+            "output": "89.0741 degree(s) F is equal to 31.7079 degree(s) C"
+        },
+        {
+            "case": 8,
+            "input": "32.884761893309175 F",
+            "output": "32.8848 degree(s) F is equal to 0.4915 degree(s) C"
+        },
+        {
+            "case": 9,
+            "input": "33.038039521832154 F",
+            "output": "33.0380 degree(s) F is equal to 0.5767 degree(s) C"
+        },
+        {
+            "case": 10,
+            "input": "-21.547978137240182 C",
+            "output": "-21.5480 degree(s) C is equal to -6.7864 degree(s) F"
+        },
+        {
+            "case": 11,
+            "input": "85.91903987142172 F",
+            "output": "85.9190 degree(s) F is equal to 29.9550 degree(s) C"
+        },
+        {
+            "case": 12,
+            "input": "5.04581235834663 C",
+            "output": "5.0458 degree(s) C is equal to 41.0825 degree(s) F"
+        },
+        {
+            "case": 13,
+            "input": "63.730226888355205 F",
+            "output": "63.7302 degree(s) F is equal to 17.6279 degree(s) C"
+        },
+        {
+            "case": 14,
+            "input": "54.87190302077498 F",
+            "output": "54.8719 degree(s) F is equal to 12.7066 degree(s) C"
+        },
+        {
+            "case": 15,
+            "input": "69.07164406436692 F",
+            "output": "69.0716 degree(s) F is equal to 20.5954 degree(s) C"
+        },
+        {
+            "case": 16,
+            "input": "11.645990631277915 F",
+            "output": "11.6460 degree(s) F is equal to -11.3078 degree(s) C"
+        },
+        {
+            "case": 17,
+            "input": "39.74214318738194 C",
+            "output": "39.7421 degree(s) C is equal to 103.5359 degree(s) F"
+        },
+        {
+            "case": 18,
+            "input": "-30.82248517290398 C",
+            "output": "-30.8225 degree(s) C is equal to -23.4805 degree(s) F"
+        },
+        {
+            "case": 19,
+            "input": "31.888487660787305 C",
+            "output": "31.8885 degree(s) C is equal to 89.3993 degree(s) F"
+        },
+        {
+            "case": 20,
+            "input": "60.62232562559511 F",
+            "output": "60.6223 degree(s) F is equal to 15.9013 degree(s) C"
+        },
+        {
+            "case": 21,
+            "input": "-27.417311020377184 C",
+            "output": "-27.4173 degree(s) C is equal to -17.3512 degree(s) F"
+        },
+        {
+            "case": 22,
+            "input": "22.398151651409478 C",
+            "output": "22.3982 degree(s) C is equal to 72.3167 degree(s) F"
+        },
+        {
+            "case": 23,
+            "input": "69.18286753355447 F",
+            "output": "69.1829 degree(s) F is equal to 20.6571 degree(s) C"
+        },
+        {
+            "case": 24,
+            "input": "33.54817672153466 C",
+            "output": "33.5482 degree(s) C is equal to 92.3867 degree(s) F"
+        },
+        {
+            "case": 25,
+            "input": "14.265103970609449 F",
+            "output": "14.2651 degree(s) F is equal to -9.8527 degree(s) C"
+        },
+        {
+            "case": 26,
+            "input": "-1.1268110457408014 C",
+            "output": "-1.1268 degree(s) C is equal to 29.9717 degree(s) F"
+        },
+        {
+            "case": 27,
+            "input": "-30.13451992872726 C",
+            "output": "-30.1345 degree(s) C is equal to -22.2421 degree(s) F"
+        },
+        {
+            "case": 28,
+            "input": "93.04829485796088 F",
+            "output": "93.0483 degree(s) F is equal to 33.9157 degree(s) C"
+        },
+        {
+            "case": 29,
+            "input": "-7.003192706871168 C",
+            "output": "-7.0032 degree(s) C is equal to 19.3943 degree(s) F"
+        },
+        {
+            "case": 30,
+            "input": "34.93110615484406 C",
+            "output": "34.9311 degree(s) C is equal to 94.8760 degree(s) F"
+        },
+        {
+            "case": 31,
+            "input": "32.76606461938994 F",
+            "output": "32.7661 degree(s) F is equal to 0.4256 degree(s) C"
+        },
+        {
+            "case": 32,
+            "input": "41.43846784782125 F",
+            "output": "41.4385 degree(s) F is equal to 5.2436 degree(s) C"
+        },
+        {
+            "case": 33,
+            "input": "95.10218053604986 F",
+            "output": "95.1022 degree(s) F is equal to 35.0568 degree(s) C"
+        },
+        {
+            "case": 34,
+            "input": "-33.07861540127647 C",
+            "output": "-33.0786 degree(s) C is equal to -27.5415 degree(s) F"
+        },
+        {
+            "case": 35,
+            "input": "58.412762224783584 F",
+            "output": "58.4128 degree(s) F is equal to 14.6738 degree(s) C"
+        },
+        {
+            "case": 36,
+            "input": "81.28530894891016 F",
+            "output": "81.2853 degree(s) F is equal to 27.3807 degree(s) C"
+        },
+        {
+            "case": 37,
+            "input": "30.86683167016423 C",
+            "output": "30.8668 degree(s) C is equal to 87.5603 degree(s) F"
+        },
+        {
+            "case": 38,
+            "input": "20.278266387103848 F",
+            "output": "20.2783 degree(s) F is equal to -6.5121 degree(s) C"
+        },
+        {
+            "case": 39,
+            "input": "77.60992695298171 F",
+            "output": "77.6099 degree(s) F is equal to 25.3388 degree(s) C"
+        },
+        {
+            "case": 40,
+            "input": "-18.007796585966123 C",
+            "output": "-18.0078 degree(s) C is equal to -0.4140 degree(s) F"
+        },
+        {
+            "case": 41,
+            "input": "44.46075710328876 F",
+            "output": "44.4608 degree(s) F is equal to 6.9226 degree(s) C"
+        },
+        {
+            "case": 42,
+            "input": "1.053968564018104 F",
+            "output": "1.0540 degree(s) F is equal to -17.1922 degree(s) C"
+        },
+        {
+            "case": 43,
+            "input": "-21.925466403650997 C",
+            "output": "-21.9255 degree(s) C is equal to -7.4658 degree(s) F"
+        },
+        {
+            "case": 44,
+            "input": "7.902358433956486 C",
+            "output": "7.9024 degree(s) C is equal to 46.2242 degree(s) F"
+        },
+        {
+            "case": 45,
+            "input": "87.05569674745801 F",
+            "output": "87.0557 degree(s) F is equal to 30.5865 degree(s) C"
+        },
+        {
+            "case": 46,
+            "input": "28.322202487328518 F",
+            "output": "28.3222 degree(s) F is equal to -2.0432 degree(s) C"
+        },
+        {
+            "case": 47,
+            "input": "-39.18856326313595 C",
+            "output": "-39.1886 degree(s) C is equal to -38.5394 degree(s) F"
+        },
+        {
+            "case": 48,
+            "input": "17.66879336414746 F",
+            "output": "17.6688 degree(s) F is equal to -7.9618 degree(s) C"
+        },
+        {
+            "case": 49,
+            "input": "20.35274336626378 F",
+            "output": "20.3527 degree(s) F is equal to -6.4707 degree(s) C"
+        },
+        {
+            "case": 50,
+            "input": "-1.291282124875579 C",
+            "output": "-1.2913 degree(s) C is equal to 29.6757 degree(s) F"
+        }
+    ]
+}

@@ -1,0 +1,254 @@
+{
+    "tests": [
+        {
+            "case": 1,
+            "input": "https://www.edx.org/course/programming-in-c-pointers-and-memory-management",
+            "output": "www.edx.org"
+        },
+        {
+            "case": 2,
+            "input": "https://www.toptal.com/developers/sorting-algorithms",
+            "output": "www.toptal.com"
+        },
+        {
+            "case": 3,
+            "input": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            "output": "www.youtube.com"
+        },
+        {
+            "case": 4,
+            "input": "https://web.stanford.edu/~boyd/cvxbook/",
+            "output": "web.stanford.edu"
+        },
+        {
+            "case": 5,
+            "input": "http://en.cppreference.com/w/c",
+            "output": "en.cppreference.com"
+        },
+        {
+            "case": 6,
+            "input": "ftp://ftp21.example.BIZ/index/folder/a.txt",
+            "output": "ftp21.example.biz"
+        },
+        {
+            "case": 7,
+            "input": "http://cs229.stanford.edu/section/cs229-prob.pdf",
+            "output": "cs229.stanford.edu"
+        },
+        {
+            "case": 8,
+            "input": "https://www.ntu.edu.sg/home/ehchua/programming/#Cpp",
+            "output": "www.ntu.edu.sg"
+        },
+        {
+            "case": 9,
+            "input": "https://piazza.com",
+            "output": "piazza.com"
+        },
+        {
+            "case": 10,
+            "input": "http://www.cs.ucl.ac.uk/staff/d.barber/brml/",
+            "output": "www.cs.ucl.ac.uk"
+        },
+        {
+            "case": 11,
+            "input": "https://www.edx.org/course/programming-in-c-getting-started",
+            "output": "www.edx.org"
+        },
+        {
+            "case": 12,
+            "input": "http://infolab.stanford.edu/~ullman/focs.html",
+            "output": "infolab.stanford.edu"
+        },
+        {
+            "case": 13,
+            "input": "https://www.edx.org/course/introduction-c-microsoft-dev210x-4",
+            "output": "www.edx.org"
+        },
+        {
+            "case": 14,
+            "input": "https://WEB.facebook.cOm/",
+            "output": "web.facebook.com"
+        },
+        {
+            "case": 15,
+            "input": "https://developer.mozilla.org/en-US/search?q=URL",
+            "output": "developer.mozilla.org"
+        },
+        {
+            "case": 16,
+            "input": "https://pdos.csail.mit.edu/6.828/2014/readings/pointers.pdf",
+            "output": "pdos.csail.mit.edu"
+        },
+        {
+            "case": 17,
+            "input": "http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/",
+            "output": "www.cs.huji.ac.il"
+        },
+        {
+            "case": 18,
+            "input": "https://www.reddit.com/r/programming/",
+            "output": "www.reddit.com"
+        },
+        {
+            "case": 19,
+            "input": "https://semantic-ui.com/",
+            "output": "semantic-ui.com"
+        },
+        {
+            "case": 20,
+            "input": "http://courses.csail.mit.edu/6.042/spring17/mcs.pdf",
+            "output": "courses.csail.mit.edu"
+        },
+        {
+            "case": 21,
+            "input": "https://developers.google.com/edu/python/",
+            "output": "developers.google.com"
+        },
+        {
+            "case": 22,
+            "input": "http://example.com/foo?bar",
+            "output": "example.com"
+        },
+        {
+            "case": 23,
+            "input": "http://jekyllrb.com",
+            "output": "jekyllrb.com"
+        },
+        {
+            "case": 24,
+            "input": "http://WwW.example.com/foo/foo/foo?bar/bar/bar",
+            "output": "www.example.com"
+        },
+        {
+            "case": 25,
+            "input": "https://WEB.uri.edu:5050/business/",
+            "output": "web.uri.edu"
+        },
+        {
+            "case": 26,
+            "input": "https://gcc.godbolt.org",
+            "output": "gcc.godbolt.org"
+        },
+        {
+            "case": 27,
+            "input": "https://WEB.twitter.com:2020",
+            "output": "web.twitter.com"
+        },
+        {
+            "case": 28,
+            "input": "https://WEB.google.COM",
+            "output": "web.google.com"
+        },
+        {
+            "case": 29,
+            "input": "http://ee.hawaii.edu/~tep/EE160/Book/PDF/Book.html",
+            "output": "ee.hawaii.edu"
+        },
+        {
+            "case": 30,
+            "input": "http://Www.example.gov/?bar=1",
+            "output": "www.example.gov"
+        },
+        {
+            "case": 31,
+            "input": "https://www.coursera.org/specializations/c-programming",
+            "output": "www.coursera.org"
+        },
+        {
+            "case": 32,
+            "input": "https://www.edx.org/course/c-programming-language-foundations",
+            "output": "www.edx.org"
+        },
+        {
+            "case": 33,
+            "input": "https://bjc.edc.org/bjc-r/topic/topic.html?topic=nyc_bjc/7-recursion-trees-fractals.topic&amp;course=bjc4nyc.html",
+            "output": "bjc.edc.org"
+        },
+        {
+            "case": 34,
+            "input": "https://courses.cs.washington.edu/courses/cse390a/14au/bash.html",
+            "output": "courses.cs.washington.edu"
+        },
+        {
+            "case": 35,
+            "input": "https://web.stanford.edu/class/cs101/",
+            "output": "web.stanford.edu"
+        },
+        {
+            "case": 36,
+            "input": "https://cs.nyu.edu/courses/fall17/CSCI-UA.0201-001/cprograming.pdf",
+            "output": "cs.nyu.edu"
+        },
+        {
+            "case": 37,
+            "input": "https://web.stanford.edu/~hastie/ElemStatLearn/",
+            "output": "web.stanford.edu"
+        },
+        {
+            "case": 38,
+            "input": "http://incompleteideas.net/book/the-book.html",
+            "output": "incompleteideas.net"
+        },
+        {
+            "case": 39,
+            "input": "https://gradescope.com",
+            "output": "gradescope.com"
+        },
+        {
+            "case": 40,
+            "input": "https://wwW.example.edu/?bar",
+            "output": "www.example.edu"
+        },
+        {
+            "case": 41,
+            "input": "https://www.edx.org/course/intermediate-c-microsoft-dev210-2x",
+            "output": "www.edx.org"
+        },
+        {
+            "case": 42,
+            "input": "http://python.cs.southern.edu/cppbook/progcpp.pdf",
+            "output": "python.cs.southern.edu"
+        },
+        {
+            "case": 43,
+            "input": "http://www.example.com:80/path/to/myfile.html?key1=value1&key2=value2#SomewhereInTheDocument",
+            "output": "www.example.com"
+        },
+        {
+            "case": 44,
+            "input": "https://www.onlinegdb.com",
+            "output": "www.onlinegdb.com"
+        },
+        {
+            "case": 45,
+            "input": "http://pythontutor.com/cpp.html#mode=edit",
+            "output": "pythontutor.com"
+        },
+        {
+            "case": 46,
+            "input": "http://ciml.info/",
+            "output": "ciml.info"
+        },
+        {
+            "case": 47,
+            "input": "http://cs229.stanford.edu/section/cs229-linalg.pdf",
+            "output": "cs229.stanford.edu"
+        },
+        {
+            "case": 48,
+            "input": "http://en.cppreference.com/w/cpp",
+            "output": "en.cppreference.com"
+        },
+        {
+            "case": 49,
+            "input": "https://homepage.cs.uri.edu/~malvarez/courses/csc-461-f19/resources.html",
+            "output": "homepage.cs.uri.edu"
+        },
+        {
+            "case": 50,
+            "input": "https://bjc.edc.org/bjc-r/topic/topic.html?topic=nyc_bjc/6-how-computers-work.topic&amp;course=bjc4nyc.html",
+            "output": "bjc.edc.org"
+        }
+    ]
+}

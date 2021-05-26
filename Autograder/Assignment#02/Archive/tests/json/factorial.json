@@ -1,0 +1,254 @@
+{
+    "tests": [
+        {
+            "case": 1,
+            "input": "2",
+            "output": "2"
+        },
+        {
+            "case": 2,
+            "input": "20",
+            "output": "Can't handle this"
+        },
+        {
+            "case": 3,
+            "input": "23",
+            "output": "Can't handle this"
+        },
+        {
+            "case": 4,
+            "input": "9",
+            "output": "362880"
+        },
+        {
+            "case": 5,
+            "input": "0",
+            "output": "1"
+        },
+        {
+            "case": 6,
+            "input": "8",
+            "output": "40320"
+        },
+        {
+            "case": 7,
+            "input": "10",
+            "output": "3628800"
+        },
+        {
+            "case": 8,
+            "input": "4",
+            "output": "24"
+        },
+        {
+            "case": 9,
+            "input": "13",
+            "output": "Can't handle this"
+        },
+        {
+            "case": 10,
+            "input": "11",
+            "output": "39916800"
+        },
+        {
+            "case": 11,
+            "input": "21",
+            "output": "Can't handle this"
+        },
+        {
+            "case": 12,
+            "input": "27",
+            "output": "Can't handle this"
+        },
+        {
+            "case": 13,
+            "input": "16",
+            "output": "Can't handle this"
+        },
+        {
+            "case": 14,
+            "input": "1",
+            "output": "1"
+        },
+        {
+            "case": 15,
+            "input": "17",
+            "output": "Can't handle this"
+        },
+        {
+            "case": 16,
+            "input": "5",
+            "output": "120"
+        },
+        {
+            "case": 17,
+            "input": "13",
+            "output": "Can't handle this"
+        },
+        {
+            "case": 18,
+            "input": "24",
+            "output": "Can't handle this"
+        },
+        {
+            "case": 19,
+            "input": "12",
+            "output": "479001600"
+        },
+        {
+            "case": 20,
+            "input": "27",
+            "output": "Can't handle this"
+        },
+        {
+            "case": 21,
+            "input": "23",
+            "output": "Can't handle this"
+        },
+        {
+            "case": 22,
+            "input": "29",
+            "output": "Can't handle this"
+        },
+        {
+            "case": 23,
+            "input": "24",
+            "output": "Can't handle this"
+        },
+        {
+            "case": 24,
+            "input": "0",
+            "output": "1"
+        },
+        {
+            "case": 25,
+            "input": "1",
+            "output": "1"
+        },
+        {
+            "case": 26,
+            "input": "18",
+            "output": "Can't handle this"
+        },
+        {
+            "case": 27,
+            "input": "15",
+            "output": "Can't handle this"
+        },
+        {
+            "case": 28,
+            "input": "15",
+            "output": "Can't handle this"
+        },
+        {
+            "case": 29,
+            "input": "7",
+            "output": "5040"
+        },
+        {
+            "case": 30,
+            "input": "19",
+            "output": "Can't handle this"
+        },
+        {
+            "case": 31,
+            "input": "2",
+            "output": "2"
+        },
+        {
+            "case": 32,
+            "input": "19",
+            "output": "Can't handle this"
+        },
+        {
+            "case": 33,
+            "input": "11",
+            "output": "39916800"
+        },
+        {
+            "case": 34,
+            "input": "2",
+            "output": "2"
+        },
+        {
+            "case": 35,
+            "input": "9",
+            "output": "362880"
+        },
+        {
+            "case": 36,
+            "input": "9",
+            "output": "362880"
+        },
+        {
+            "case": 37,
+            "input": "11",
+            "output": "39916800"
+        },
+        {
+            "case": 38,
+            "input": "14",
+            "output": "Can't handle this"
+        },
+        {
+            "case": 39,
+            "input": "2",
+            "output": "2"
+        },
+        {
+            "case": 40,
+            "input": "21",
+            "output": "Can't handle this"
+        },
+        {
+            "case": 41,
+            "input": "25",
+            "output": "Can't handle this"
+        },
+        {
+            "case": 42,
+            "input": "21",
+            "output": "Can't handle this"
+        },
+        {
+            "case": 43,
+            "input": "26",
+            "output": "Can't handle this"
+        },
+        {
+            "case": 44,
+            "input": "23",
+            "output": "Can't handle this"
+        },
+        {
+            "case": 45,
+            "input": "0",
+            "output": "1"
+        },
+        {
+            "case": 46,
+            "input": "1",
+            "output": "1"
+        },
+        {
+            "case": 47,
+            "input": "24",
+            "output": "Can't handle this"
+        },
+        {
+            "case": 48,
+            "input": "12",
+            "output": "479001600"
+        },
+        {
+            "case": 49,
+            "input": "20",
+            "output": "Can't handle this"
+        },
+        {
+            "case": 50,
+            "input": "8",
+            "output": "40320"
+        }
+    ]
+}

@@ -1,0 +1,254 @@
+{
+    "tests": [
+        {
+            "case": 1,
+            "input": "23",
+            "output": "Can have a beer"
+        },
+        {
+            "case": 2,
+            "input": "19",
+            "output": "Can join the military"
+        },
+        {
+            "case": 3,
+            "input": "0",
+            "output": "Too young"
+        },
+        {
+            "case": 4,
+            "input": "1",
+            "output": "Too young"
+        },
+        {
+            "case": 5,
+            "input": "7",
+            "output": "Too young"
+        },
+        {
+            "case": 6,
+            "input": "7",
+            "output": "Too young"
+        },
+        {
+            "case": 7,
+            "input": "7",
+            "output": "Too young"
+        },
+        {
+            "case": 8,
+            "input": "16",
+            "output": "Can drive"
+        },
+        {
+            "case": 9,
+            "input": "24",
+            "output": "Can have a beer"
+        },
+        {
+            "case": 10,
+            "input": "23",
+            "output": "Can have a beer"
+        },
+        {
+            "case": 11,
+            "input": "10",
+            "output": "Too young"
+        },
+        {
+            "case": 12,
+            "input": "11",
+            "output": "Too young"
+        },
+        {
+            "case": 13,
+            "input": "6",
+            "output": "Too young"
+        },
+        {
+            "case": 14,
+            "input": "11",
+            "output": "Too young"
+        },
+        {
+            "case": 15,
+            "input": "12",
+            "output": "Too young"
+        },
+        {
+            "case": 16,
+            "input": "19",
+            "output": "Can join the military"
+        },
+        {
+            "case": 17,
+            "input": "10",
+            "output": "Too young"
+        },
+        {
+            "case": 18,
+            "input": "18",
+            "output": "Can join the military"
+        },
+        {
+            "case": 19,
+            "input": "1",
+            "output": "Too young"
+        },
+        {
+            "case": 20,
+            "input": "12",
+            "output": "Too young"
+        },
+        {
+            "case": 21,
+            "input": "15",
+            "output": "Too young"
+        },
+        {
+            "case": 22,
+            "input": "10",
+            "output": "Too young"
+        },
+        {
+            "case": 23,
+            "input": "19",
+            "output": "Can join the military"
+        },
+        {
+            "case": 24,
+            "input": "0",
+            "output": "Too young"
+        },
+        {
+            "case": 25,
+            "input": "6",
+            "output": "Too young"
+        },
+        {
+            "case": 26,
+            "input": "25",
+            "output": "Can have a beer"
+        },
+        {
+            "case": 27,
+            "input": "11",
+            "output": "Too young"
+        },
+        {
+            "case": 28,
+            "input": "19",
+            "output": "Can join the military"
+        },
+        {
+            "case": 29,
+            "input": "13",
+            "output": "Too young"
+        },
+        {
+            "case": 30,
+            "input": "11",
+            "output": "Too young"
+        },
+        {
+            "case": 31,
+            "input": "0",
+            "output": "Too young"
+        },
+        {
+            "case": 32,
+            "input": "8",
+            "output": "Too young"
+        },
+        {
+            "case": 33,
+            "input": "5",
+            "output": "Too young"
+        },
+        {
+            "case": 34,
+            "input": "16",
+            "output": "Can drive"
+        },
+        {
+            "case": 35,
+            "input": "5",
+            "output": "Too young"
+        },
+        {
+            "case": 36,
+            "input": "1",
+            "output": "Too young"
+        },
+        {
+            "case": 37,
+            "input": "14",
+            "output": "Too young"
+        },
+        {
+            "case": 38,
+            "input": "8",
+            "output": "Too young"
+        },
+        {
+            "case": 39,
+            "input": "13",
+            "output": "Too young"
+        },
+        {
+            "case": 40,
+            "input": "25",
+            "output": "Can have a beer"
+        },
+        {
+            "case": 41,
+            "input": "4",
+            "output": "Too young"
+        },
+        {
+            "case": 42,
+            "input": "11",
+            "output": "Too young"
+        },
+        {
+            "case": 43,
+            "input": "15",
+            "output": "Too young"
+        },
+        {
+            "case": 44,
+            "input": "16",
+            "output": "Can drive"
+        },
+        {
+            "case": 45,
+            "input": "2",
+            "output": "Too young"
+        },
+        {
+            "case": 46,
+            "input": "23",
+            "output": "Can have a beer"
+        },
+        {
+            "case": 47,
+            "input": "2",
+            "output": "Too young"
+        },
+        {
+            "case": 48,
+            "input": "16",
+            "output": "Can drive"
+        },
+        {
+            "case": 49,
+            "input": "24",
+            "output": "Can have a beer"
+        },
+        {
+            "case": 50,
+            "input": "0",
+            "output": "Too young"
+        }
+    ]
+}

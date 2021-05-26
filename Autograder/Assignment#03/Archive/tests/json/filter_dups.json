@@ -1,0 +1,254 @@
+{
+    "tests": [
+        {
+            "case": 1,
+            "input": "db4c 1 8 51 AdAf44B6 6B 6e580 433D 1Aa9303baa7d 89AC7Fa1bD4 6b1C  fc1f1F77D1CdA 24f5e",
+            "output": "db4c 1 8 51 AdAf4B6 6B 6e580 43D 1Aa9303ba7d 89AC7Fa1bD4 6b1C fc1f1F7D1CdA 24f5e"
+        },
+        {
+            "case": 2,
+            "input": "C 3 58ee 9f3fcFc8FE  AaDE7D5F1d 8f8A3 7F2Be2fFf D7aD4d8 B7AfAeAa39Acc7B3e41 df4 7 4c",
+            "output": "C 3 58e 9f3fcFc8FE AaDE7D5F1d 8f8A3 7F2Be2fFf D7aD4d8 B7AfAeAa39Ac7B3e41 df4 7 4c"
+        },
+        {
+            "case": 3,
+            "input": "ff4B d 1c3CC96E2Dce63FBC5e7cBeac06c0b 8D72a85bAF3cFdDBB5D6CE3eCa6 0a916D2e",
+            "output": "f4B d 1c3C96E2Dce63FBC5e7cBeac06c0b 8D72a85bAF3cFdDB5D6CE3eCa6 0a916D2e"
+        },
+        {
+            "case": 4,
+            "input": "Aa",
+            "output": "Aa"
+        },
+        {
+            "case": 5,
+            "input": "123",
+            "output": "123"
+        },
+        {
+            "case": 6,
+            "input": "123aaAAbbBBbBbB5",
+            "output": "123aAbBbBbB5"
+        },
+        {
+            "case": 7,
+            "input": "AaaaaAAAAAaaaA",
+            "output": "AaAaA"
+        },
+        {
+            "case": 8,
+            "input": "e2C7BF",
+            "output": "e2C7BF"
+        },
+        {
+            "case": 9,
+            "input": " eCbaCDF0f F0  a D366f1FC0 f8c142e 35c   aCBab3e73 e80EF 4B404fe29a5e Fd4cCC dDf66d889Fc32a",
+            "output": " eCbaCDF0f F0 a D36f1FC0 f8c142e 35c aCBab3e73 e80EF 4B404fe29a5e Fd4cC dDf6d89Fc32a"
+        },
+        {
+            "case": 10,
+            "input": "A67 8E5f0b33 aA13bc146cF2BFBA00 3BeddB6e4 dF2bC3  3 7FfEd aB192f12c3e fc86253EE3DAd   dFe4F ",
+            "output": "A67 8E5f0b3 aA13bc146cF2BFBA0 3BedB6e4 dF2bC3 3 7FfEd aB192f12c3e fc86253E3DAd dFe4F "
+        },
+        {
+            "case": 11,
+            "input": "b0eE0C48e 373 C10 5E3 3B AAd6 6B7F8BDb3e0A",
+            "output": "b0eE0C48e 373 C10 5E3 3B Ad6 6B7F8BDb3e0A"
+        },
+        {
+            "case": 12,
+            "input": "BC0e4F2ecD  51f E0 Ac CbB 6F5Dc7A1ef443cE  1fdB F 2fc72e72dbE410fD 4182A0FD 04 f9d EAaFB2 Abaa7c",
+            "output": "BC0e4F2ecD 51f E0 Ac CbB 6F5Dc7A1ef43cE 1fdB F 2fc72e72dbE410fD 4182A0FD 04 f9d EAaFB2 Aba7c"
+        },
+        {
+            "case": 13,
+            "input": "f C3098419 5Ec4f2e 8E ED2fBa86877b7CCad5E1B4 7CFfD2EA0e2EA C2 e4E BABEBF9A9DcCdabBc8f7f",
+            "output": "f C3098419 5Ec4f2e 8E ED2fBa8687b7Cad5E1B4 7CFfD2EA0e2EA C2 e4E BABEBF9A9DcCdabBc8f7f"
+        },
+        {
+            "case": 14,
+            "input": "e394D0C7D4 b   fAa  0b5Aaf998a 9ec920f83e21A9DD361D6d Ab 85Be  0",
+            "output": "e394D0C7D4 b fAa 0b5Aaf98a 9ec920f83e21A9D361D6d Ab 85Be 0"
+        },
+        {
+            "case": 15,
+            "input": "F4",
+            "output": "F4"
+        },
+        {
+            "case": 16,
+            "input": " 7B4c ",
+            "output": " 7B4c "
+        },
+        {
+            "case": 17,
+            "input": "fDEd",
+            "output": "fDEd"
+        },
+        {
+            "case": 18,
+            "input": " ",
+            "output": " "
+        },
+        {
+            "case": 19,
+            "input": "57BDb   BBB3C263cf376C034E 12f3af2Af08eaCCc2420d C3Bbe7D0E75Bb7 6",
+            "output": "57BDb B3C263cf376C034E 12f3af2Af08eaCc2420d C3Bbe7D0E75Bb7 6"
+        },
+        {
+            "case": 20,
+            "input": "d9D8D2d53FDF4 C714bBb8db9d1b",
+            "output": "d9D8D2d53FDF4 C714bBb8db9d1b"
+        },
+        {
+            "case": 21,
+            "input": "    ",
+            "output": " "
+        },
+        {
+            "case": 22,
+            "input": "FCaB 7b26 75bd b6bfcBD DAA458 E41fAe1decDD  f ecb88a7E2f000756  5840 C4a3E3b37d5e8c cC",
+            "output": "FCaB 7b26 75bd b6bfcBD DA458 E41fAe1decD f ecb8a7E2f0756 5840 C4a3E3b37d5e8c cC"
+        },
+        {
+            "case": 23,
+            "input": " AD9E Ed9fd1AACF F9039E",
+            "output": " AD9E Ed9fd1ACF F9039E"
+        },
+        {
+            "case": 24,
+            "input": "b",
+            "output": "b"
+        },
+        {
+            "case": 25,
+            "input": "A",
+            "output": "A"
+        },
+        {
+            "case": 26,
+            "input": "C f3 457 2aC4d9Bb6D5dac2 5C72a679D19 FA1A40 41AA DC52F9FA95b07c326dc7EBACD1 409cbD B 78A",
+            "output": "C f3 457 2aC4d9Bb6D5dac2 5C72a679D19 FA1A40 41A DC52F9FA95b07c326dc7EBACD1 409cbD B 78A"
+        },
+        {
+            "case": 27,
+            "input": "a1BC 6c 265 B33cecc1D 11D1916aCFd2D C9D81bf913394E854e 45Cf495659450 3Af0E7B 14A",
+            "output": "a1BC 6c 265 B3cec1D 1D1916aCFd2D C9D81bf91394E854e 45Cf495659450 3Af0E7B 14A"
+        },
+        {
+            "case": 28,
+            "input": "1748E5 D08 2 CdA9deA26EB7 e2B4",
+            "output": "1748E5 D08 2 CdA9deA26EB7 e2B4"
+        },
+        {
+            "case": 29,
+            "input": " 8CD 9fd2f",
+            "output": " 8CD 9fd2f"
+        },
+        {
+            "case": 30,
+            "input": "af4f ",
+            "output": "af4f "
+        },
+        {
+            "case": 31,
+            "input": "2D31aab Da8d e7Aa6bf1c28E5eEd6 A5c493 7 dbb7c3a602e08CDD89e5 ee0dbBC55b  635F3F8DDd B3da2E35 6f5f d",
+            "output": "2D31ab Da8d e7Aa6bf1c28E5eEd6 A5c493 7 db7c3a602e08CD89e5 e0dbBC5b 635F3F8Dd B3da2E35 6f5f d"
+        },
+        {
+            "case": 32,
+            "input": " 6ff6 b fEaC4 ec38D3DdA 0B0 f 0bE2C11BdFB23a4A EAd ",
+            "output": " 6f6 b fEaC4 ec38D3DdA 0B0 f 0bE2C1BdFB23a4A EAd "
+        },
+        {
+            "case": 33,
+            "input": "c76CE7e4db EFb 9D421",
+            "output": "c76CE7e4db EFb 9D421"
+        },
+        {
+            "case": 34,
+            "input": "6",
+            "output": "6"
+        },
+        {
+            "case": 35,
+            "input": "94E01bB06dCF4dC23 b   Cec724D87B bfC7a9B Bd288f5F7",
+            "output": "94E01bB06dCF4dC23 b Cec724D87B bfC7a9B Bd28f5F7"
+        },
+        {
+            "case": 36,
+            "input": "f58E3 e252a7aFE1d66f4D5c3Ea 9884 DE6cB5b273b5DEEb62Fcc6421 Ef6B 2b8BFBbab ",
+            "output": "f58E3 e252a7aFE1d6f4D5c3Ea 984 DE6cB5b273b5DEb62Fc6421 Ef6B 2b8BFBbab "
+        },
+        {
+            "case": 37,
+            "input": "7ecd815FF8cCeD 73 3 eD60 bcD6ece0ab 5a551D2ADfce2 A638BABaa5E76D23daC6Ec3cDE 50a88 5dA3 Ebb",
+            "output": "7ecd815F8cCeD 73 3 eD60 bcD6ece0ab 5a51D2ADfce2 A638BABa5E76D23daC6Ec3cDE 50a8 5dA3 Eb"
+        },
+        {
+            "case": 38,
+            "input": "37 0c02c 2fc33 cF 5 56aa34cCfe93cCD096Aa aBf2030dCe80  3 7Fa04 0 ",
+            "output": "37 0c02c 2fc3 cF 5 56a34cCfe93cCD096Aa aBf2030dCe80 3 7Fa04 0 "
+        },
+        {
+            "case": 39,
+            "input": "8 dd6c13 2 57 EceD9f26c71f56dcC9b5 84e1AAb4e 2fFBab276b4f  4DbfB2FeE9D",
+            "output": "8 d6c13 2 57 EceD9f26c71f56dcC9b5 84e1Ab4e 2fFBab276b4f 4DbfB2FeE9D"
+        },
+        {
+            "case": 40,
+            "input": "f b48 104 ddF9eD5E7183 2d0 c  db4 06E",
+            "output": "f b48 104 dF9eD5E7183 2d0 c db4 06E"
+        },
+        {
+            "case": 41,
+            "input": "b EE EeD01fc1b5a2eE1fed6a500  eD7",
+            "output": "b E EeD01fc1b5a2eE1fed6a50 eD7"
+        },
+        {
+            "case": 42,
+            "input": "64eA2F C8f9690cCFCBE8cd eBafcc41Dbd11FEb bc9741Da41593F4B85b4F",
+            "output": "64eA2F C8f9690cCFCBE8cd eBafc41Dbd1FEb bc9741Da41593F4B85b4F"
+        },
+        {
+            "case": 43,
+            "input": " e 9DaF8ce 5eB00AfE dCacF59cf0b30Aa3Eee5b 6452818991AF3c6608c79B021b",
+            "output": " e 9DaF8ce 5eB0AfE dCacF59cf0b30Aa3Ee5b 645281891AF3c608c79B021b"
+        },
+        {
+            "case": 44,
+            "input": "a918A3 F4F F 7B21 8 C4  2E91E95604c3b0af46279BEba0eEA3DbCf59CEd68F4 feEee2f3A403   D1C 1 364eb D4a",
+            "output": "a918A3 F4F F 7B21 8 C4 2E91E95604c3b0af46279BEba0eEA3DbCf59CEd68F4 feEe2f3A403 D1C 1 364eb D4a"
+        },
+        {
+            "case": 45,
+            "input": " D0De  3Dbe 41D aCb 9A7 2e29c 75Af FC8B4a 92eee4c593aB75d Bcb249cbADC80f7A2E49b0 95c91",
+            "output": " D0De 3Dbe 41D aCb 9A7 2e29c 75Af FC8B4a 92e4c593aB75d Bcb249cbADC80f7A2E49b0 95c91"
+        },
+        {
+            "case": 46,
+            "input": "EbE1 fdA3DBa4Db68A Ae1B4DfAcf E06 b4cf0DB F3AEAa6",
+            "output": "EbE1 fdA3DBa4Db68A Ae1B4DfAcf E06 b4cf0DB F3AEAa6"
+        },
+        {
+            "case": 47,
+            "input": "e6D",
+            "output": "e6D"
+        },
+        {
+            "case": 48,
+            "input": "d8Cc7F aE3  86Ea6368  E0FE25Da3C8dec49D4Eba36B6E62Ab76fcab9b CD5FDECFf2  ",
+            "output": "d8Cc7F aE3 86Ea6368 E0FE25Da3C8dec49D4Eba36B6E62Ab76fcab9b CD5FDECFf2 "
+        },
+        {
+            "case": 49,
+            "input": "A C8CF4 D0B eb Efa aD 91F8BD2f7AfE9  8d a6BCbAe97B70caef  678A0E 8eE EaB d",
+            "output": "A C8CF4 D0B eb Efa aD 91F8BD2f7AfE9 8d a6BCbAe97B70caef 678A0E 8eE EaB d"
+        },
+        {
+            "case": 50,
+            "input": " F 1a7c1Ee5E8EE4",
+            "output": " F 1a7c1Ee5E8E4"
+        }
+    ]
+}

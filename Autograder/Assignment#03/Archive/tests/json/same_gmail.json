@@ -1,0 +1,254 @@
+{
+    "tests": [
+        {
+            "case": 1,
+            "input": "YqAIiFHE@gmail.com MlkzVbkkmypHgLi@gmail.com",
+            "output": "False"
+        },
+        {
+            "case": 2,
+            "input": "pZBKbvCiZmKubS@gmail.com zkueA+__E+f.sX@gmail.com",
+            "output": "False"
+        },
+        {
+            "case": 3,
+            "input": "cWxyncD+ocV@gmail.com dxsM.K+NtqAYZ+C+.@gmail.com",
+            "output": "False"
+        },
+        {
+            "case": 4,
+            "input": "tPpvhMSLevA_E@gmail.com fAKDyZDlahRSpCdOzaFQ.yEjfnZqa@gmail.com",
+            "output": "False"
+        },
+        {
+            "case": 5,
+            "input": "comp++++++..@gmail.com COMp+123+123@gmail.com",
+            "output": "True"
+        },
+        {
+            "case": 6,
+            "input": "TLPQny.P.JsDsoexJ_jwK@gmail.com nsDvciFEi++Up@gmail.com",
+            "output": "False"
+        },
+        {
+            "case": 7,
+            "input": "MxAZNzHcr.Oau_i+L@gmail.com MxAZNzHcr.Oau_i+L@gmail.com",
+            "output": "True"
+        },
+        {
+            "case": 8,
+            "input": "zXcaFzZhhauazKh.yVlG+@gmail.com VcQgaId+_qNddoEmFpRUrB.W.FR@gmail.com",
+            "output": "False"
+        },
+        {
+            "case": 9,
+            "input": "jgqsCSk.KrB+D@gmail.com HHrbuGQBo+@gmail.com",
+            "output": "False"
+        },
+        {
+            "case": 10,
+            "input": "zdTqUdvJdn+.Pqr+e@gmail.com vKrPHGFm+jwOpEdeKT_f+_MtaW@gmail.com",
+            "output": "False"
+        },
+        {
+            "case": 11,
+            "input": "ComPuTeR++..science@gmail.com cOmPutEr..+++engineering@gmail.com",
+            "output": "True"
+        },
+        {
+            "case": 12,
+            "input": "nBSkzvEKX.X+pJ+HIru@gmail.com nBSkzvEKX.X+pJ+HIru@gmail.com",
+            "output": "True"
+        },
+        {
+            "case": 13,
+            "input": "gmail.gmail.com..+.@gmail.com GMAIL.gmailCOM+yahoo.com@gmail.com",
+            "output": "True"
+        },
+        {
+            "case": 14,
+            "input": "ZJsheCrHxl_uTIFb_ETZ@gmail.com ZJsheCrHxl_uTIFb_ETZ@gmail.com",
+            "output": "True"
+        },
+        {
+            "case": 15,
+            "input": "DvladfOzgLOqE+KN.+.@gmail.com ZHXOVvRsMxB.loRhj+j._SJ@gmail.com",
+            "output": "False"
+        },
+        {
+            "case": 16,
+            "input": "JFpP+@gmail.com OfYdBY+uh+SyzAGrAVz.HXM@gmail.com",
+            "output": "False"
+        },
+        {
+            "case": 17,
+            "input": "mbVdGZezWcbcl+Jl.mWrsmS+m_W+@gmail.com FLTCRkSCmi_Src.DhhypaqR_+@gmail.com",
+            "output": "False"
+        },
+        {
+            "case": 18,
+            "input": "BTXoRBkbfH@gmail.com warhVMpiwpjaZ._pC+ig@gmail.com",
+            "output": "False"
+        },
+        {
+            "case": 19,
+            "input": "JfhnPlFs+ZzT.+dskbA.Esyn@gmail.com ivNCj+rgw_fG.+.fl.N@gmail.com",
+            "output": "False"
+        },
+        {
+            "case": 20,
+            "input": "FpBTXyukmuH+Rd+tgGFiiX+@gmail.com dBXorrEST_eu@gmail.com",
+            "output": "False"
+        },
+        {
+            "case": 21,
+            "input": "sMUTltwi+qcYGFX@gmail.com VmFAYeCT._Kwwwu+._W+rtHg@gmail.com",
+            "output": "False"
+        },
+        {
+            "case": 22,
+            "input": "you_got_MAIL.+....@gmail.com YOU_GOT_mail+.+@gmail.com",
+            "output": "True"
+        },
+        {
+            "case": 23,
+            "input": "EPvNVIEKZaTeS__.tdDgavX_+.uge@gmail.com zpueyBfxk.LvHeC_M_FP_+SW.L@gmail.com",
+            "output": "False"
+        },
+        {
+            "case": 24,
+            "input": "ppUVyhgZhTahexRn.+s.Ny_+owIC@gmail.com QTNRY+o+ic.tphqfcH.O@gmail.com",
+            "output": "False"
+        },
+        {
+            "case": 25,
+            "input": "dqEyPZXqfg+KAvWbB.+R@gmail.com UMDFtwvURPw.DMkJsp@gmail.com",
+            "output": "False"
+        },
+        {
+            "case": 26,
+            "input": "AVHwjSeQeLs+O@gmail.com AVHwjSeQeLs+O@gmail.com",
+            "output": "True"
+        },
+        {
+            "case": 27,
+            "input": "zUdyPRI+QV@gmail.com CZqBdfqyMsnhYcd_GH+L@gmail.com",
+            "output": "False"
+        },
+        {
+            "case": 28,
+            "input": "yILyTgSox+M.@gmail.com QyIqUXwttPwz.zbKnEvZuZZgaT@gmail.com",
+            "output": "False"
+        },
+        {
+            "case": 29,
+            "input": "JeEkYZxr+@gmail.com KXQnbgQOdvLp++aMvYj@gmail.com",
+            "output": "False"
+        },
+        {
+            "case": 30,
+            "input": "QpOUenYPxzx.Byn+LVOXhvw@gmail.com lKTqRwuJqKDK@gmail.com",
+            "output": "False"
+        },
+        {
+            "case": 31,
+            "input": "mygoogle+testing@gmail.com MYgoogle.testing@gmail.com",
+            "output": "False"
+        },
+        {
+            "case": 32,
+            "input": "MMyqUioo_bw_CxmmD+NzLvPkrAm@gmail.com MMyqUioo_bw_CxmmD+NzLvPkrAm@gmail.com",
+            "output": "True"
+        },
+        {
+            "case": 33,
+            "input": "BYjodhSffZsJj@gmail.com BYjodhSffZsJj@gmail.com",
+            "output": "True"
+        },
+        {
+            "case": 34,
+            "input": "gmail.com.gmail.c+om@gmail.com gmail.comgmail.c@gmail.com",
+            "output": "True"
+        },
+        {
+            "case": 35,
+            "input": "LWCGDaf_THOG@gmail.com Vmylji+G.@gmail.com",
+            "output": "False"
+        },
+        {
+            "case": 36,
+            "input": "oGolzQcVeMrQNyMd_seT++k.aq@gmail.com eesktdZ+bZpH.@gmail.com",
+            "output": "False"
+        },
+        {
+            "case": 37,
+            "input": "emailing.212.121.123+Sending@gmail.com emailing++@gmail.com",
+            "output": "False"
+        },
+        {
+            "case": 38,
+            "input": "RwFxFJrzmYqFsT.yxca++Q.q+@gmail.com RwFxFJrzmYqFsT.yxca++Q.q+@gmail.com",
+            "output": "True"
+        },
+        {
+            "case": 39,
+            "input": "ZNHyFYLluGa+bttDzWau@gmail.com ZNHyFYLluGa+bttDzWau@gmail.com",
+            "output": "True"
+        },
+        {
+            "case": 40,
+            "input": "NVMmnMOeRQJ.N_lSUgpk_x@gmail.com vgHxwuaa._txjjmvu@gmail.com",
+            "output": "False"
+        },
+        {
+            "case": 41,
+            "input": "djLzibdDkki.tVMrw@gmail.com KMCnncCkhoSdbptRKnA@gmail.com",
+            "output": "False"
+        },
+        {
+            "case": 42,
+            "input": "qPvqvfFBBk_rpPDZc_@gmail.com sxfgweskcZVnIZ+@gmail.com",
+            "output": "False"
+        },
+        {
+            "case": 43,
+            "input": "sNYjlkHitN_ZfqIDnLpHp+_A@gmail.com yypPhbKjiGku+C_kDYoqMql@gmail.com",
+            "output": "False"
+        },
+        {
+            "case": 44,
+            "input": "mailTIME.1+zzz@gmail.com mailTIME.1++@gmail.com",
+            "output": "True"
+        },
+        {
+            "case": 45,
+            "input": "e.m.a.i.l.++++@gmail.com email_@gmail.com",
+            "output": "False"
+        },
+        {
+            "case": 46,
+            "input": "aaa.+abcdefghijklmnop@gmail.com aAa............+test@gmail.com",
+            "output": "True"
+        },
+        {
+            "case": 47,
+            "input": "wXcoFHtgG.JL_.AsTWZY@gmail.com EPwQxvLMMJ+Q@gmail.com",
+            "output": "False"
+        },
+        {
+            "case": 48,
+            "input": "CecNnf_pKtb+ioxiaSLnbJ+HZp@gmail.com XBJyDDZyu@gmail.com",
+            "output": "False"
+        },
+        {
+            "case": 49,
+            "input": "ArzqnziUCz_HJ@gmail.com Ooa.sYSLR_+KDQjpOBCm@gmail.com",
+            "output": "False"
+        },
+        {
+            "case": 50,
+            "input": "uSXoHrVv.tKuYDlMc@gmail.com cVaGfKwgAD@gmail.com",
+            "output": "False"
+        }
+    ]
+}

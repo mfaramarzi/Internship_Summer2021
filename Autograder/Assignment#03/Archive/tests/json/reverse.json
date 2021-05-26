@@ -1,0 +1,254 @@
+{
+    "tests": [
+        {
+            "case": 1,
+            "input": "prm Q9R",
+            "output": "R9Q mrp"
+        },
+        {
+            "case": 2,
+            "input": "3IyBsCG  gEqDam Wp9Ey9D ",
+            "output": " D9yE9pW maDqEg  GCsByI3"
+        },
+        {
+            "case": 3,
+            "input": "FpzSPFnFD 6viS xiT",
+            "output": "Tix Siv6 DFnFPSzpF"
+        },
+        {
+            "case": 4,
+            "input": "If7saBn5lL2bkVKhv8O",
+            "output": "O8vhKVkb2Ll5nBas7fI"
+        },
+        {
+            "case": 5,
+            "input": "zP",
+            "output": "Pz"
+        },
+        {
+            "case": 6,
+            "input": "FBtt4PniRto3AWRBimqU",
+            "output": "UqmiBRWA3otRinP4ttBF"
+        },
+        {
+            "case": 7,
+            "input": "h7kK ",
+            "output": " Kk7h"
+        },
+        {
+            "case": 8,
+            "input": "xANEr",
+            "output": "rENAx"
+        },
+        {
+            "case": 9,
+            "input": "iFgQ 8KXEL6U0pbEohP O 1kr",
+            "output": "rk1 O PhoEbp0U6LEXK8 QgFi"
+        },
+        {
+            "case": 10,
+            "input": "   ",
+            "output": "   "
+        },
+        {
+            "case": 11,
+            "input": "A",
+            "output": "A"
+        },
+        {
+            "case": 12,
+            "input": "fa51PW ehyF1KEOQaNtvp",
+            "output": "pvtNaQOEK1Fyhe WP15af"
+        },
+        {
+            "case": 13,
+            "input": "7 oWy M mBWa3XUyuEQ",
+            "output": "QEuyUX3aWBm M yWo 7"
+        },
+        {
+            "case": 14,
+            "input": ".ti tnemelpmi ot si erutuf eht tciderp ot yaw tseb ehT",
+            "output": "The best way to predict the future is to implement it."
+        },
+        {
+            "case": 15,
+            "input": ".ecnagele semoceb ,emertxe eht ot deirrac ,yticilpmiS",
+            "output": "Simplicity, carried to the extreme, becomes elegance."
+        },
+        {
+            "case": 16,
+            "input": "c3c4EkTOi0U WYLAXtnuhs",
+            "output": "shuntXALYW U0iOTkE4c3c"
+        },
+        {
+            "case": 17,
+            "input": "yVpCnQdkv mLnhSd",
+            "output": "dShnLm vkdQnCpVy"
+        },
+        {
+            "case": 18,
+            "input": "HzO5ZfGlt Wi3mz0 E6RL3qd",
+            "output": "dq3LR6E 0zm3iW tlGfZ5OzH"
+        },
+        {
+            "case": 19,
+            "input": "q8Q0NfLh2fni1",
+            "output": "1inf2hLfN0Q8q"
+        },
+        {
+            "case": 20,
+            "input": "m2",
+            "output": "2m"
+        },
+        {
+            "case": 21,
+            "input": "rzNAlg03Bb Yx 5WWURzd",
+            "output": "dzRUWW5 xY bB30glANzr"
+        },
+        {
+            "case": 22,
+            "input": "oOhbXP0HXB OW",
+            "output": "WO BXH0PXbhOo"
+        },
+        {
+            "case": 23,
+            "input": "z3fq7hrq W9wS1ikcxbge bM7",
+            "output": "7Mb egbxcki1Sw9W qrh7qf3z"
+        },
+        {
+            "case": 24,
+            "input": "NfFos6Hty",
+            "output": "ytH6soFfN"
+        },
+        {
+            "case": 25,
+            "input": "WEHccylxYF0ntNQD",
+            "output": "DQNtn0FYxlyccHEW"
+        },
+        {
+            "case": 26,
+            "input": "5eXH7HFQ0kWO2kD7u",
+            "output": "u7Dk2OWk0QFH7HXe5"
+        },
+        {
+            "case": 27,
+            "input": "gpMuDuY E",
+            "output": "E YuDuMpg"
+        },
+        {
+            "case": 28,
+            "input": ".sepocselet tuoba si ymonortsa naht sretupmoc tuoba erom on si ecneicS retupmoC",
+            "output": "Computer Science is no more about computers than astronomy is about telescopes."
+        },
+        {
+            "case": 29,
+            "input": "sR",
+            "output": "Rs"
+        },
+        {
+            "case": 30,
+            "input": "OUk t",
+            "output": "t kUO"
+        },
+        {
+            "case": 31,
+            "input": "oov8 FK4egkMZmL ",
+            "output": " LmZMkge4KF 8voo"
+        },
+        {
+            "case": 32,
+            "input": "AA",
+            "output": "AA"
+        },
+        {
+            "case": 33,
+            "input": "b",
+            "output": "b"
+        },
+        {
+            "case": 34,
+            "input": "JW",
+            "output": "WJ"
+        },
+        {
+            "case": 35,
+            "input": "0j",
+            "output": "j0"
+        },
+        {
+            "case": 36,
+            "input": "XIGT",
+            "output": "TGIX"
+        },
+        {
+            "case": 37,
+            "input": "sFe874z3J",
+            "output": "J3z478eFs"
+        },
+        {
+            "case": 38,
+            "input": "DOObhL4f8",
+            "output": "8f4LhbOOD"
+        },
+        {
+            "case": 39,
+            "input": " oIQ2PP6bX7",
+            "output": "7Xb6PP2QIo "
+        },
+        {
+            "case": 40,
+            "input": "kDva GnR4UW0tZ7FI a",
+            "output": "a IF7Zt0WU4RnG avDk"
+        },
+        {
+            "case": 41,
+            "input": "gHfuTEc20obWprRu0B",
+            "output": "B0uRrpWbo02cETufHg"
+        },
+        {
+            "case": 42,
+            "input": "xhPE 2j6cv5X393GQxLDtqxQF",
+            "output": "FQxqtDLxQG393X5vc6j2 EPhx"
+        },
+        {
+            "case": 43,
+            "input": "CV LxaR6oJoDpz8mtj5K",
+            "output": "K5jtm8zpDoJo6RaxL VC"
+        },
+        {
+            "case": 44,
+            "input": "l8bnRLGh izvXot8m KKP",
+            "output": "PKK m8toXvzi hGLRnb8l"
+        },
+        {
+            "case": 45,
+            "input": "CfGjdD5N1qjiQA3L ",
+            "output": " L3AQijq1N5DdjGfC"
+        },
+        {
+            "case": 46,
+            "input": "jKeQertOl1CYv",
+            "output": "vYC1lOtreQeKj"
+        },
+        {
+            "case": 47,
+            "input": "2 y2O8mt",
+            "output": "tm8O2y 2"
+        },
+        {
+            "case": 48,
+            "input": "egrA0xKusVUeeze344 DBks",
+            "output": "skBD 443ezeeUVsuKx0Arge"
+        },
+        {
+            "case": 49,
+            "input": "DBaN1ZO6wRsCnSh EVzV7w3M ",
+            "output": " M3w7VzVE hSnCsRw6OZ1NaBD"
+        },
+        {
+            "case": 50,
+            "input": "ZCygi0rny1F",
+            "output": "F1ynr0igyCZ"
+        }
+    ]
+}

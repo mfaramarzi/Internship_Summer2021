@@ -1,0 +1,254 @@
+{
+    "tests": [
+        {
+            "case": 1,
+            "input": "-163152849",
+            "output": "-163152849 is negative"
+        },
+        {
+            "case": 2,
+            "input": "-1748242940",
+            "output": "-1748242940 is negative"
+        },
+        {
+            "case": 3,
+            "input": "-1350375830",
+            "output": "-1350375830 is negative"
+        },
+        {
+            "case": 4,
+            "input": "-511039545",
+            "output": "-511039545 is negative"
+        },
+        {
+            "case": 5,
+            "input": "595711966",
+            "output": "595711966 is positive"
+        },
+        {
+            "case": 6,
+            "input": "-725121012",
+            "output": "-725121012 is negative"
+        },
+        {
+            "case": 7,
+            "input": "1937842784",
+            "output": "1937842784 is positive"
+        },
+        {
+            "case": 8,
+            "input": "1184102468",
+            "output": "1184102468 is positive"
+        },
+        {
+            "case": 9,
+            "input": "394958405",
+            "output": "394958405 is positive"
+        },
+        {
+            "case": 10,
+            "input": "218842402",
+            "output": "218842402 is positive"
+        },
+        {
+            "case": 11,
+            "input": "-452107849",
+            "output": "-452107849 is negative"
+        },
+        {
+            "case": 12,
+            "input": "-1593574501",
+            "output": "-1593574501 is negative"
+        },
+        {
+            "case": 13,
+            "input": "-877984648",
+            "output": "-877984648 is negative"
+        },
+        {
+            "case": 14,
+            "input": "-427082252",
+            "output": "-427082252 is negative"
+        },
+        {
+            "case": 15,
+            "input": "-771208310",
+            "output": "-771208310 is negative"
+        },
+        {
+            "case": 16,
+            "input": "-493078971",
+            "output": "-493078971 is negative"
+        },
+        {
+            "case": 17,
+            "input": "38641694",
+            "output": "38641694 is positive"
+        },
+        {
+            "case": 18,
+            "input": "-1041986111",
+            "output": "-1041986111 is negative"
+        },
+        {
+            "case": 19,
+            "input": "-328251512",
+            "output": "-328251512 is negative"
+        },
+        {
+            "case": 20,
+            "input": "2061297772",
+            "output": "2061297772 is positive"
+        },
+        {
+            "case": 21,
+            "input": "891522076",
+            "output": "891522076 is positive"
+        },
+        {
+            "case": 22,
+            "input": "1584069442",
+            "output": "1584069442 is positive"
+        },
+        {
+            "case": 23,
+            "input": "-651903888",
+            "output": "-651903888 is negative"
+        },
+        {
+            "case": 24,
+            "input": "564605631",
+            "output": "564605631 is positive"
+        },
+        {
+            "case": 25,
+            "input": "110425766",
+            "output": "110425766 is positive"
+        },
+        {
+            "case": 26,
+            "input": "-244900317",
+            "output": "-244900317 is negative"
+        },
+        {
+            "case": 27,
+            "input": "2107991943",
+            "output": "2107991943 is positive"
+        },
+        {
+            "case": 28,
+            "input": "1592021998",
+            "output": "1592021998 is positive"
+        },
+        {
+            "case": 29,
+            "input": "1765759168",
+            "output": "1765759168 is positive"
+        },
+        {
+            "case": 30,
+            "input": "1396380588",
+            "output": "1396380588 is positive"
+        },
+        {
+            "case": 31,
+            "input": "-489656437",
+            "output": "-489656437 is negative"
+        },
+        {
+            "case": 32,
+            "input": "1127583486",
+            "output": "1127583486 is positive"
+        },
+        {
+            "case": 33,
+            "input": "-1109719281",
+            "output": "-1109719281 is negative"
+        },
+        {
+            "case": 34,
+            "input": "268731991",
+            "output": "268731991 is positive"
+        },
+        {
+            "case": 35,
+            "input": "95517691",
+            "output": "95517691 is positive"
+        },
+        {
+            "case": 36,
+            "input": "-594023734",
+            "output": "-594023734 is negative"
+        },
+        {
+            "case": 37,
+            "input": "936790926",
+            "output": "936790926 is positive"
+        },
+        {
+            "case": 38,
+            "input": "-1211835001",
+            "output": "-1211835001 is negative"
+        },
+        {
+            "case": 39,
+            "input": "-1645111253",
+            "output": "-1645111253 is negative"
+        },
+        {
+            "case": 40,
+            "input": "512145581",
+            "output": "512145581 is positive"
+        },
+        {
+            "case": 41,
+            "input": "426690505",
+            "output": "426690505 is positive"
+        },
+        {
+            "case": 42,
+            "input": "-860800031",
+            "output": "-860800031 is negative"
+        },
+        {
+            "case": 43,
+            "input": "-330584289",
+            "output": "-330584289 is negative"
+        },
+        {
+            "case": 44,
+            "input": "625578303",
+            "output": "625578303 is positive"
+        },
+        {
+            "case": 45,
+            "input": "2040312028",
+            "output": "2040312028 is positive"
+        },
+        {
+            "case": 46,
+            "input": "1868799624",
+            "output": "1868799624 is positive"
+        },
+        {
+            "case": 47,
+            "input": "-31844950",
+            "output": "-31844950 is negative"
+        },
+        {
+            "case": 48,
+            "input": "-96371735",
+            "output": "-96371735 is negative"
+        },
+        {
+            "case": 49,
+            "input": "-326329475",
+            "output": "-326329475 is negative"
+        },
+        {
+            "case": 50,
+            "input": "-1825243510",
+            "output": "-1825243510 is negative"
+        }
+    ]
+}

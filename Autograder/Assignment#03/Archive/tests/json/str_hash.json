@@ -1,0 +1,254 @@
+{
+    "tests": [
+        {
+            "case": 1,
+            "input": "7C0",
+            "output": "170"
+        },
+        {
+            "case": 2,
+            "input": "93 D2ad5f EBe1 2b F64E3B2A eEa4f9D",
+            "output": "2194"
+        },
+        {
+            "case": 3,
+            "input": "b",
+            "output": "98"
+        },
+        {
+            "case": 4,
+            "input": " 4ecFdd1bbe1F26 f2FB C",
+            "output": "1542"
+        },
+        {
+            "case": 5,
+            "input": "AA7E9F46 306EAa1E F ",
+            "output": "1155"
+        },
+        {
+            "case": 6,
+            "input": "Measure twice, cut once.",
+            "output": "2201"
+        },
+        {
+            "case": 7,
+            "input": "0Cfad42E8 c0A3ec61B b9",
+            "output": "1492"
+        },
+        {
+            "case": 8,
+            "input": "aC faD2eE3 fF17abCed f894  C",
+            "output": "1935"
+        },
+        {
+            "case": 9,
+            "input": "abcde",
+            "output": "495"
+        },
+        {
+            "case": 10,
+            "input": "26dc5E6dB48B6F7b5 e6FF 4ef5 a7DEaBb",
+            "output": "2398"
+        },
+        {
+            "case": 11,
+            "input": "F2Ca a8 DeAcd93  1  81DEB4670aA2E62a CB C7 CE6cd ",
+            "output": "2990"
+        },
+        {
+            "case": 12,
+            "input": " 6 107E2 3E2 6e7f",
+            "output": "935"
+        },
+        {
+            "case": 13,
+            "input": "E5 aCBB87 8 f2cd",
+            "output": "1032"
+        },
+        {
+            "case": 14,
+            "input": "2165dF26 c5",
+            "output": "664"
+        },
+        {
+            "case": 15,
+            "input": " B28ADB97BA  A5f3DC0 dCF",
+            "output": "1433"
+        },
+        {
+            "case": 16,
+            "input": "20fCC356c 2afBcd",
+            "output": "1137"
+        },
+        {
+            "case": 17,
+            "input": "AE15Ba5cf4 Ad1aD356282FE 3B a",
+            "output": "1847"
+        },
+        {
+            "case": 18,
+            "input": "Weeks of programming can save you hours of planning.",
+            "output": "4928"
+        },
+        {
+            "case": 19,
+            "input": "34A5bEbbEbb38e0B019aB44177",
+            "output": "1751"
+        },
+        {
+            "case": 20,
+            "input": "1",
+            "output": "49"
+        },
+        {
+            "case": 21,
+            "input": "3F4 E74a096  ceD1df2 27C1DF9  4706 E  7 AfD",
+            "output": "2478"
+        },
+        {
+            "case": 22,
+            "input": "Ee98AAFD",
+            "output": "551"
+        },
+        {
+            "case": 23,
+            "input": "4b b 6E47DC7eAfd E8cf8 DbdbADC21Cb9e61 C6 EB8A",
+            "output": "3076"
+        },
+        {
+            "case": 24,
+            "input": "ACc 4C7f6Cff8",
+            "output": "920"
+        },
+        {
+            "case": 25,
+            "input": "    ",
+            "output": "128"
+        },
+        {
+            "case": 26,
+            "input": " 67aD6 5EBAaeBc5f99",
+            "output": "1277"
+        },
+        {
+            "case": 27,
+            "input": "4a75C1A8F2CFcC3a51 b67f0C8652 4Fd1  9B344 6a20Cba9",
+            "output": "3081"
+        },
+        {
+            "case": 28,
+            "input": "A5Ff07  Adfdb5341cb7cAE33eB Ce 5ab37E",
+            "output": "2536"
+        },
+        {
+            "case": 29,
+            "input": "80D20360e6",
+            "output": "578"
+        },
+        {
+            "case": 30,
+            "input": "The key to performance is elegance, not batallions of special cases.",
+            "output": "6344"
+        },
+        {
+            "case": 31,
+            "input": "19 5B0add83 05abC16de2b22A934dbF73f3CAc",
+            "output": "2639"
+        },
+        {
+            "case": 32,
+            "input": "cd E30 BDD179E9c22ECec7acD1F 5D7EF B38e4",
+            "output": "2598"
+        },
+        {
+            "case": 33,
+            "input": "7Ebd8bb",
+            "output": "574"
+        },
+        {
+            "case": 34,
+            "input": "A",
+            "output": "65"
+        },
+        {
+            "case": 35,
+            "input": "E8a7c770De4f1A2DFC FB796cd9bd31D3e 50467B8de501",
+            "output": "3101"
+        },
+        {
+            "case": 36,
+            "input": "Eighty percent of success is showing up",
+            "output": "3753"
+        },
+        {
+            "case": 37,
+            "input": "I hear and I forget. I see and I remember. I do and I understand",
+            "output": "5417"
+        },
+        {
+            "case": 38,
+            "input": "racecar",
+            "output": "721"
+        },
+        {
+            "case": 39,
+            "input": "F5B7Cfb6b14c 82D2 f  c",
+            "output": "1416"
+        },
+        {
+            "case": 40,
+            "input": "b55eFfcBcCE5",
+            "output": "930"
+        },
+        {
+            "case": 41,
+            "input": "FfEf60",
+            "output": "445"
+        },
+        {
+            "case": 42,
+            "input": "3F4 3ff 9",
+            "output": "549"
+        },
+        {
+            "case": 43,
+            "input": "F4dF94f5af0D9fd1bBFfe2 43782cA6Ba0 1",
+            "output": "2472"
+        },
+        {
+            "case": 44,
+            "input": "B",
+            "output": "66"
+        },
+        {
+            "case": 45,
+            "input": "2b ed cc1f9b1A2 7BC2564d05a9B49  7c",
+            "output": "2258"
+        },
+        {
+            "case": 46,
+            "input": "72A 2E20A e7420 27F 7 ff2e d c8  b7FBd03Fb",
+            "output": "2542"
+        },
+        {
+            "case": 47,
+            "input": "Think twice, code once.",
+            "output": "2068"
+        },
+        {
+            "case": 48,
+            "input": "cF7a9 C9 9dBE394F41c1DE 007B 8baAa08Af871bD31ef",
+            "output": "3068"
+        },
+        {
+            "case": 49,
+            "input": " 1954BC42ae2DA3CBBD BE5aE8F14fDcbd",
+            "output": "2257"
+        },
+        {
+            "case": 50,
+            "input": " ",
+            "output": "32"
+        }
+    ]
+}

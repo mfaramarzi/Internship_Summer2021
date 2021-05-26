@@ -1,0 +1,254 @@
+{
+    "tests": [
+        {
+            "case": 1,
+            "input": "10 23 487",
+            "output": "October 23, 487"
+        },
+        {
+            "case": 2,
+            "input": "11 24 149",
+            "output": "November 24, 149"
+        },
+        {
+            "case": 3,
+            "input": "1 16 460",
+            "output": "January 16, 460"
+        },
+        {
+            "case": 4,
+            "input": "12 16 1151",
+            "output": "December 16, 1151"
+        },
+        {
+            "case": 5,
+            "input": "10 14 292",
+            "output": "October 14, 292"
+        },
+        {
+            "case": 6,
+            "input": "6 3 746",
+            "output": "June 3, 746"
+        },
+        {
+            "case": 7,
+            "input": "11 25 1266",
+            "output": "November 25, 1266"
+        },
+        {
+            "case": 8,
+            "input": "5 15 1249",
+            "output": "May 15, 1249"
+        },
+        {
+            "case": 9,
+            "input": "6 14 1152",
+            "output": "June 14, 1152"
+        },
+        {
+            "case": 10,
+            "input": "3 3 111",
+            "output": "March 3, 111"
+        },
+        {
+            "case": 11,
+            "input": "11 26 119",
+            "output": "November 26, 119"
+        },
+        {
+            "case": 12,
+            "input": "10 27 1976",
+            "output": "October 27, 1976"
+        },
+        {
+            "case": 13,
+            "input": "6 18 363",
+            "output": "June 18, 363"
+        },
+        {
+            "case": 14,
+            "input": "3 11 1111",
+            "output": "March 11, 1111"
+        },
+        {
+            "case": 15,
+            "input": "4 10 1152",
+            "output": "April 10, 1152"
+        },
+        {
+            "case": 16,
+            "input": "3 21 1660",
+            "output": "March 21, 1660"
+        },
+        {
+            "case": 17,
+            "input": "7 14 657",
+            "output": "July 14, 657"
+        },
+        {
+            "case": 18,
+            "input": "2 7 465",
+            "output": "February 7, 465"
+        },
+        {
+            "case": 19,
+            "input": "3 13 1791",
+            "output": "March 13, 1791"
+        },
+        {
+            "case": 20,
+            "input": "5 13 1956",
+            "output": "May 13, 1956"
+        },
+        {
+            "case": 21,
+            "input": "7 22 739",
+            "output": "July 22, 739"
+        },
+        {
+            "case": 22,
+            "input": "4 13 1838",
+            "output": "April 13, 1838"
+        },
+        {
+            "case": 23,
+            "input": "1 19 601",
+            "output": "January 19, 601"
+        },
+        {
+            "case": 24,
+            "input": "2 24 1299",
+            "output": "February 24, 1299"
+        },
+        {
+            "case": 25,
+            "input": "1 22 1535",
+            "output": "January 22, 1535"
+        },
+        {
+            "case": 26,
+            "input": "6 27 528",
+            "output": "June 27, 528"
+        },
+        {
+            "case": 27,
+            "input": "6 7 242",
+            "output": "June 7, 242"
+        },
+        {
+            "case": 28,
+            "input": "3 22 1598",
+            "output": "March 22, 1598"
+        },
+        {
+            "case": 29,
+            "input": "5 1 179",
+            "output": "May 1, 179"
+        },
+        {
+            "case": 30,
+            "input": "8 9 1970",
+            "output": "August 9, 1970"
+        },
+        {
+            "case": 31,
+            "input": "10 6 551",
+            "output": "October 6, 551"
+        },
+        {
+            "case": 32,
+            "input": "3 7 64",
+            "output": "March 7, 64"
+        },
+        {
+            "case": 33,
+            "input": "6 7 1838",
+            "output": "June 7, 1838"
+        },
+        {
+            "case": 34,
+            "input": "8 10 1384",
+            "output": "August 10, 1384"
+        },
+        {
+            "case": 35,
+            "input": "3 12 1921",
+            "output": "March 12, 1921"
+        },
+        {
+            "case": 36,
+            "input": "1 28 610",
+            "output": "January 28, 610"
+        },
+        {
+            "case": 37,
+            "input": "10 20 1339",
+            "output": "October 20, 1339"
+        },
+        {
+            "case": 38,
+            "input": "5 12 887",
+            "output": "May 12, 887"
+        },
+        {
+            "case": 39,
+            "input": "6 4 95",
+            "output": "June 4, 95"
+        },
+        {
+            "case": 40,
+            "input": "1 25 1915",
+            "output": "January 25, 1915"
+        },
+        {
+            "case": 41,
+            "input": "3 3 609",
+            "output": "March 3, 609"
+        },
+        {
+            "case": 42,
+            "input": "2 6 1779",
+            "output": "February 6, 1779"
+        },
+        {
+            "case": 43,
+            "input": "5 13 1279",
+            "output": "May 13, 1279"
+        },
+        {
+            "case": 44,
+            "input": "5 23 664",
+            "output": "May 23, 664"
+        },
+        {
+            "case": 45,
+            "input": "4 1 192",
+            "output": "April 1, 192"
+        },
+        {
+            "case": 46,
+            "input": "1 11 1191",
+            "output": "January 11, 1191"
+        },
+        {
+            "case": 47,
+            "input": "2 6 1882",
+            "output": "February 6, 1882"
+        },
+        {
+            "case": 48,
+            "input": "5 21 1117",
+            "output": "May 21, 1117"
+        },
+        {
+            "case": 49,
+            "input": "2 21 1250",
+            "output": "February 21, 1250"
+        },
+        {
+            "case": 50,
+            "input": "7 21 1644",
+            "output": "July 21, 1644"
+        }
+    ]
+}

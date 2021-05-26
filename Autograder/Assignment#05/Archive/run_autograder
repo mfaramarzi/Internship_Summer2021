@@ -1,0 +1,34 @@
+#!/usr/bin/env bash
+# Set up autograder files
+#
+# Submitted files folder
+submission="/autograder/submission"
+# Solutions folder
+sols="/autograder/source/sols"
+# Output file (in JSON format for gradescope)
+jsonfile="/autograder/results/results.json"
+#
+# compile submitted files
+cd /autograder/source
+# problems 1, 2, and 3
+declare -a arr=("" "cellgrid" "cellgrid" "sudoku")
+declare -a arr_sols=("" "cells" "blobs" "sudoku")
+for i in {1..3}
+do
+    if [ -f "$submission/${arr[$i]}.h" ] && [ -f "$submission/${arr[$i]}.cpp" ]; then
+        g++ -Wall -std=c++11 "main-$i.cpp" "$submission/${arr[$i]}.cpp" "-I$submission" -o "prog-$i" 2> "error-$i.log"
+        g++ -std=c++11 -Wall "$sols/${arr_sols[$i]}.cpp" -o "sol-$i"
+    else
+        echo "source or header file for ${arr[$i]} not found" > "error-$i.log"
+    fi
+done
+# problem 4
+if [ -f "$submission/imageBin.cpp" ]; then
+    g++ -Wall -std=c++11 "$submission/imageBin.cpp" "-I$sols" -o "prog-4" 2> "error-4.log"
+    g++ -std=c++11 -Wall "$sols/binarize.cpp" -o "sol-4"
+else
+    echo "source file imageBin.cpp not found" > "error-4.log"
+fi
+
+# run tests
+python3 run_tests.py > $jsonfile

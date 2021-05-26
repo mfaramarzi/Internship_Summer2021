@@ -1,0 +1,254 @@
+{
+    "tests": [
+        {
+            "case": 1,
+            "input": "d",
+            "output": "Poor"
+        },
+        {
+            "case": 2,
+            "input": "b",
+            "output": "Good"
+        },
+        {
+            "case": 3,
+            "input": "f",
+            "output": "Failing"
+        },
+        {
+            "case": 4,
+            "input": "D",
+            "output": "Poor"
+        },
+        {
+            "case": 5,
+            "input": "C",
+            "output": "Average"
+        },
+        {
+            "case": 6,
+            "input": "D",
+            "output": "Poor"
+        },
+        {
+            "case": 7,
+            "input": "D",
+            "output": "Poor"
+        },
+        {
+            "case": 8,
+            "input": "A",
+            "output": "Excellent"
+        },
+        {
+            "case": 9,
+            "input": "A",
+            "output": "Excellent"
+        },
+        {
+            "case": 10,
+            "input": "D",
+            "output": "Poor"
+        },
+        {
+            "case": 11,
+            "input": "B",
+            "output": "Good"
+        },
+        {
+            "case": 12,
+            "input": "C",
+            "output": "Average"
+        },
+        {
+            "case": 13,
+            "input": "F",
+            "output": "Failing"
+        },
+        {
+            "case": 14,
+            "input": "d",
+            "output": "Poor"
+        },
+        {
+            "case": 15,
+            "input": "C",
+            "output": "Average"
+        },
+        {
+            "case": 16,
+            "input": "a",
+            "output": "Excellent"
+        },
+        {
+            "case": 17,
+            "input": "D",
+            "output": "Poor"
+        },
+        {
+            "case": 18,
+            "input": "F",
+            "output": "Failing"
+        },
+        {
+            "case": 19,
+            "input": "C",
+            "output": "Average"
+        },
+        {
+            "case": 20,
+            "input": "D",
+            "output": "Poor"
+        },
+        {
+            "case": 21,
+            "input": "d",
+            "output": "Poor"
+        },
+        {
+            "case": 22,
+            "input": "b",
+            "output": "Good"
+        },
+        {
+            "case": 23,
+            "input": "c",
+            "output": "Average"
+        },
+        {
+            "case": 24,
+            "input": "A",
+            "output": "Excellent"
+        },
+        {
+            "case": 25,
+            "input": "f",
+            "output": "Failing"
+        },
+        {
+            "case": 26,
+            "input": "f",
+            "output": "Failing"
+        },
+        {
+            "case": 27,
+            "input": "c",
+            "output": "Average"
+        },
+        {
+            "case": 28,
+            "input": "c",
+            "output": "Average"
+        },
+        {
+            "case": 29,
+            "input": "a",
+            "output": "Excellent"
+        },
+        {
+            "case": 30,
+            "input": "B",
+            "output": "Good"
+        },
+        {
+            "case": 31,
+            "input": "a",
+            "output": "Excellent"
+        },
+        {
+            "case": 32,
+            "input": "d",
+            "output": "Poor"
+        },
+        {
+            "case": 33,
+            "input": "F",
+            "output": "Failing"
+        },
+        {
+            "case": 34,
+            "input": "a",
+            "output": "Excellent"
+        },
+        {
+            "case": 35,
+            "input": "a",
+            "output": "Excellent"
+        },
+        {
+            "case": 36,
+            "input": "f",
+            "output": "Failing"
+        },
+        {
+            "case": 37,
+            "input": "C",
+            "output": "Average"
+        },
+        {
+            "case": 38,
+            "input": "d",
+            "output": "Poor"
+        },
+        {
+            "case": 39,
+            "input": "C",
+            "output": "Average"
+        },
+        {
+            "case": 40,
+            "input": "F",
+            "output": "Failing"
+        },
+        {
+            "case": 41,
+            "input": "F",
+            "output": "Failing"
+        },
+        {
+            "case": 42,
+            "input": "B",
+            "output": "Good"
+        },
+        {
+            "case": 43,
+            "input": "D",
+            "output": "Poor"
+        },
+        {
+            "case": 44,
+            "input": "C",
+            "output": "Average"
+        },
+        {
+            "case": 45,
+            "input": "d",
+            "output": "Poor"
+        },
+        {
+            "case": 46,
+            "input": "D",
+            "output": "Poor"
+        },
+        {
+            "case": 47,
+            "input": "D",
+            "output": "Poor"
+        },
+        {
+            "case": 48,
+            "input": "d",
+            "output": "Poor"
+        },
+        {
+            "case": 49,
+            "input": "A",
+            "output": "Excellent"
+        },
+        {
+            "case": 50,
+            "input": "f",
+            "output": "Failing"
+        }
+    ]
+}

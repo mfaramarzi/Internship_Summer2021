@@ -1,0 +1,254 @@
+{
+    "tests": [
+        {
+            "case": 1,
+            "input": "248372983",
+            "output": "248372983 is no good"
+        },
+        {
+            "case": 2,
+            "input": "2024973821",
+            "output": "2024973821 is no good"
+        },
+        {
+            "case": 3,
+            "input": "-823306876",
+            "output": "-823306876 is no good"
+        },
+        {
+            "case": 4,
+            "input": "2021477948",
+            "output": "2021477948 is no good"
+        },
+        {
+            "case": 5,
+            "input": "1811744007",
+            "output": "1811744007 is no good"
+        },
+        {
+            "case": 6,
+            "input": "1727405929",
+            "output": "1727405929 is good"
+        },
+        {
+            "case": 7,
+            "input": "552793246",
+            "output": "552793246 is no good"
+        },
+        {
+            "case": 8,
+            "input": "1659693916",
+            "output": "1659693916 is no good"
+        },
+        {
+            "case": 9,
+            "input": "218629746",
+            "output": "218629746 is no good"
+        },
+        {
+            "case": 10,
+            "input": "1627657959",
+            "output": "1627657959 is good"
+        },
+        {
+            "case": 11,
+            "input": "561503085",
+            "output": "561503085 is no good"
+        },
+        {
+            "case": 12,
+            "input": "954835938",
+            "output": "954835938 is no good"
+        },
+        {
+            "case": 13,
+            "input": "-2029308867",
+            "output": "-2029308867 is no good"
+        },
+        {
+            "case": 14,
+            "input": "-681344400",
+            "output": "-681344400 is no good"
+        },
+        {
+            "case": 15,
+            "input": "-1442608125",
+            "output": "-1442608125 is no good"
+        },
+        {
+            "case": 16,
+            "input": "-2113880264",
+            "output": "-2113880264 is no good"
+        },
+        {
+            "case": 17,
+            "input": "445883677",
+            "output": "445883677 is no good"
+        },
+        {
+            "case": 18,
+            "input": "1529794265",
+            "output": "1529794265 is no good"
+        },
+        {
+            "case": 19,
+            "input": "1713917116",
+            "output": "1713917116 is no good"
+        },
+        {
+            "case": 20,
+            "input": "-1842273363",
+            "output": "-1842273363 is no good"
+        },
+        {
+            "case": 21,
+            "input": "-436549928",
+            "output": "-436549928 is no good"
+        },
+        {
+            "case": 22,
+            "input": "-1231090455",
+            "output": "-1231090455 is no good"
+        },
+        {
+            "case": 23,
+            "input": "624570305",
+            "output": "624570305 is no good"
+        },
+        {
+            "case": 24,
+            "input": "-442991121",
+            "output": "-442991121 is no good"
+        },
+        {
+            "case": 25,
+            "input": "-194236342",
+            "output": "-194236342 is no good"
+        },
+        {
+            "case": 26,
+            "input": "-1916630848",
+            "output": "-1916630848 is no good"
+        },
+        {
+            "case": 27,
+            "input": "-972521283",
+            "output": "-972521283 is no good"
+        },
+        {
+            "case": 28,
+            "input": "-1036136900",
+            "output": "-1036136900 is no good"
+        },
+        {
+            "case": 29,
+            "input": "-135178391",
+            "output": "-135178391 is no good"
+        },
+        {
+            "case": 30,
+            "input": "2022217458",
+            "output": "2022217458 is no good"
+        },
+        {
+            "case": 31,
+            "input": "-1394041384",
+            "output": "-1394041384 is no good"
+        },
+        {
+            "case": 32,
+            "input": "-794894709",
+            "output": "-794894709 is good"
+        },
+        {
+            "case": 33,
+            "input": "612874363",
+            "output": "612874363 is no good"
+        },
+        {
+            "case": 34,
+            "input": "393550212",
+            "output": "393550212 is no good"
+        },
+        {
+            "case": 35,
+            "input": "-1281617931",
+            "output": "-1281617931 is no good"
+        },
+        {
+            "case": 36,
+            "input": "-1164831883",
+            "output": "-1164831883 is no good"
+        },
+        {
+            "case": 37,
+            "input": "-2110108300",
+            "output": "-2110108300 is no good"
+        },
+        {
+            "case": 38,
+            "input": "-350309151",
+            "output": "-350309151 is no good"
+        },
+        {
+            "case": 39,
+            "input": "1922412468",
+            "output": "1922412468 is no good"
+        },
+        {
+            "case": 40,
+            "input": "1672202622",
+            "output": "1672202622 is no good"
+        },
+        {
+            "case": 41,
+            "input": "-956024970",
+            "output": "-956024970 is no good"
+        },
+        {
+            "case": 42,
+            "input": "800099340",
+            "output": "800099340 is no good"
+        },
+        {
+            "case": 43,
+            "input": "-1751572813",
+            "output": "-1751572813 is no good"
+        },
+        {
+            "case": 44,
+            "input": "1476882803",
+            "output": "1476882803 is no good"
+        },
+        {
+            "case": 45,
+            "input": "498644976",
+            "output": "498644976 is no good"
+        },
+        {
+            "case": 46,
+            "input": "-783238645",
+            "output": "-783238645 is no good"
+        },
+        {
+            "case": 47,
+            "input": "-786631873",
+            "output": "-786631873 is no good"
+        },
+        {
+            "case": 48,
+            "input": "106491502",
+            "output": "106491502 is no good"
+        },
+        {
+            "case": 49,
+            "input": "1723902295",
+            "output": "1723902295 is no good"
+        },
+        {
+            "case": 50,
+            "input": "1082218776",
+            "output": "1082218776 is no good"
+        }
+    ]
+}

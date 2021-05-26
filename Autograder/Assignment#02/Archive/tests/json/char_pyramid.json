@@ -1,0 +1,254 @@
+{
+    "tests": [
+        {
+            "case": 1,
+            "input": "W",
+            "output": "                                            A\n                                          A B A\n                                        A B C B A\n                                      A B C D C B A\n                                    A B C D E D C B A\n                                  A B C D E F E D C B A\n                                A B C D E F G F E D C B A\n                              A B C D E F G H G F E D C B A\n                            A B C D E F G H I H G F E D C B A\n                          A B C D E F G H I J I H G F E D C B A\n                        A B C D E F G H I J K J I H G F E D C B A\n                      A B C D E F G H I J K L K J I H G F E D C B A\n                    A B C D E F G H I J K L M L K J I H G F E D C B A\n                  A B C D E F G H I J K L M N M L K J I H G F E D C B A\n                A B C D E F G H I J K L M N O N M L K J I H G F E D C B A\n              A B C D E F G H I J K L M N O P O N M L K J I H G F E D C B A\n            A B C D E F G H I J K L M N O P Q P O N M L K J I H G F E D C B A\n          A B C D E F G H I J K L M N O P Q R Q P O N M L K J I H G F E D C B A\n        A B C D E F G H I J K L M N O P Q R S R Q P O N M L K J I H G F E D C B A\n      A B C D E F G H I J K L M N O P Q R S T S R Q P O N M L K J I H G F E D C B A\n    A B C D E F G H I J K L M N O P Q R S T U T S R Q P O N M L K J I H G F E D C B A\n  A B C D E F G H I J K L M N O P Q R S T U V U T S R Q P O N M L K J I H G F E D C B A\nA B C D E F G H I J K L M N O P Q R S T U V W V U T S R Q P O N M L K J I H G F E D C B A"
+        },
+        {
+            "case": 2,
+            "input": "H",
+            "output": "              A\n            A B A\n          A B C B A\n        A B C D C B A\n      A B C D E D C B A\n    A B C D E F E D C B A\n  A B C D E F G F E D C B A\nA B C D E F G H G F E D C B A"
+        },
+        {
+            "case": 3,
+            "input": "J",
+            "output": "                  A\n                A B A\n              A B C B A\n            A B C D C B A\n          A B C D E D C B A\n        A B C D E F E D C B A\n      A B C D E F G F E D C B A\n    A B C D E F G H G F E D C B A\n  A B C D E F G H I H G F E D C B A\nA B C D E F G H I J I H G F E D C B A"
+        },
+        {
+            "case": 4,
+            "input": "H",
+            "output": "              A\n            A B A\n          A B C B A\n        A B C D C B A\n      A B C D E D C B A\n    A B C D E F E D C B A\n  A B C D E F G F E D C B A\nA B C D E F G H G F E D C B A"
+        },
+        {
+            "case": 5,
+            "input": "D",
+            "output": "      A\n    A B A\n  A B C B A\nA B C D C B A"
+        },
+        {
+            "case": 6,
+            "input": "T",
+            "output": "                                      A\n                                    A B A\n                                  A B C B A\n                                A B C D C B A\n                              A B C D E D C B A\n                            A B C D E F E D C B A\n                          A B C D E F G F E D C B A\n                        A B C D E F G H G F E D C B A\n                      A B C D E F G H I H G F E D C B A\n                    A B C D E F G H I J I H G F E D C B A\n                  A B C D E F G H I J K J I H G F E D C B A\n                A B C D E F G H I J K L K J I H G F E D C B A\n              A B C D E F G H I J K L M L K J I H G F E D C B A\n            A B C D E F G H I J K L M N M L K J I H G F E D C B A\n          A B C D E F G H I J K L M N O N M L K J I H G F E D C B A\n        A B C D E F G H I J K L M N O P O N M L K J I H G F E D C B A\n      A B C D E F G H I J K L M N O P Q P O N M L K J I H G F E D C B A\n    A B C D E F G H I J K L M N O P Q R Q P O N M L K J I H G F E D C B A\n  A B C D E F G H I J K L M N O P Q R S R Q P O N M L K J I H G F E D C B A\nA B C D E F G H I J K L M N O P Q R S T S R Q P O N M L K J I H G F E D C B A"
+        },
+        {
+            "case": 7,
+            "input": "S",
+            "output": "                                    A\n                                  A B A\n                                A B C B A\n                              A B C D C B A\n                            A B C D E D C B A\n                          A B C D E F E D C B A\n                        A B C D E F G F E D C B A\n                      A B C D E F G H G F E D C B A\n                    A B C D E F G H I H G F E D C B A\n                  A B C D E F G H I J I H G F E D C B A\n                A B C D E F G H I J K J I H G F E D C B A\n              A B C D E F G H I J K L K J I H G F E D C B A\n            A B C D E F G H I J K L M L K J I H G F E D C B A\n          A B C D E F G H I J K L M N M L K J I H G F E D C B A\n        A B C D E F G H I J K L M N O N M L K J I H G F E D C B A\n      A B C D E F G H I J K L M N O P O N M L K J I H G F E D C B A\n    A B C D E F G H I J K L M N O P Q P O N M L K J I H G F E D C B A\n  A B C D E F G H I J K L M N O P Q R Q P O N M L K J I H G F E D C B A\nA B C D E F G H I J K L M N O P Q R S R Q P O N M L K J I H G F E D C B A"
+        },
+        {
+            "case": 8,
+            "input": "W",
+            "output": "                                            A\n                                          A B A\n                                        A B C B A\n                                      A B C D C B A\n                                    A B C D E D C B A\n                                  A B C D E F E D C B A\n                                A B C D E F G F E D C B A\n                              A B C D E F G H G F E D C B A\n                            A B C D E F G H I H G F E D C B A\n                          A B C D E F G H I J I H G F E D C B A\n                        A B C D E F G H I J K J I H G F E D C B A\n                      A B C D E F G H I J K L K J I H G F E D C B A\n                    A B C D E F G H I J K L M L K J I H G F E D C B A\n                  A B C D E F G H I J K L M N M L K J I H G F E D C B A\n                A B C D E F G H I J K L M N O N M L K J I H G F E D C B A\n              A B C D E F G H I J K L M N O P O N M L K J I H G F E D C B A\n            A B C D E F G H I J K L M N O P Q P O N M L K J I H G F E D C B A\n          A B C D E F G H I J K L M N O P Q R Q P O N M L K J I H G F E D C B A\n        A B C D E F G H I J K L M N O P Q R S R Q P O N M L K J I H G F E D C B A\n      A B C D E F G H I J K L M N O P Q R S T S R Q P O N M L K J I H G F E D C B A\n    A B C D E F G H I J K L M N O P Q R S T U T S R Q P O N M L K J I H G F E D C B A\n  A B C D E F G H I J K L M N O P Q R S T U V U T S R Q P O N M L K J I H G F E D C B A\nA B C D E F G H I J K L M N O P Q R S T U V W V U T S R Q P O N M L K J I H G F E D C B A"
+        },
+        {
+            "case": 9,
+            "input": "U",
+            "output": "                                        A\n                                      A B A\n                                    A B C B A\n                                  A B C D C B A\n                                A B C D E D C B A\n                              A B C D E F E D C B A\n                            A B C D E F G F E D C B A\n                          A B C D E F G H G F E D C B A\n                        A B C D E F G H I H G F E D C B A\n                      A B C D E F G H I J I H G F E D C B A\n                    A B C D E F G H I J K J I H G F E D C B A\n                  A B C D E F G H I J K L K J I H G F E D C B A\n                A B C D E F G H I J K L M L K J I H G F E D C B A\n              A B C D E F G H I J K L M N M L K J I H G F E D C B A\n            A B C D E F G H I J K L M N O N M L K J I H G F E D C B A\n          A B C D E F G H I J K L M N O P O N M L K J I H G F E D C B A\n        A B C D E F G H I J K L M N O P Q P O N M L K J I H G F E D C B A\n      A B C D E F G H I J K L M N O P Q R Q P O N M L K J I H G F E D C B A\n    A B C D E F G H I J K L M N O P Q R S R Q P O N M L K J I H G F E D C B A\n  A B C D E F G H I J K L M N O P Q R S T S R Q P O N M L K J I H G F E D C B A\nA B C D E F G H I J K L M N O P Q R S T U T S R Q P O N M L K J I H G F E D C B A"
+        },
+        {
+            "case": 10,
+            "input": "P",
+            "output": "                              A\n                            A B A\n                          A B C B A\n                        A B C D C B A\n                      A B C D E D C B A\n                    A B C D E F E D C B A\n                  A B C D E F G F E D C B A\n                A B C D E F G H G F E D C B A\n              A B C D E F G H I H G F E D C B A\n            A B C D E F G H I J I H G F E D C B A\n          A B C D E F G H I J K J I H G F E D C B A\n        A B C D E F G H I J K L K J I H G F E D C B A\n      A B C D E F G H I J K L M L K J I H G F E D C B A\n    A B C D E F G H I J K L M N M L K J I H G F E D C B A\n  A B C D E F G H I J K L M N O N M L K J I H G F E D C B A\nA B C D E F G H I J K L M N O P O N M L K J I H G F E D C B A"
+        },
+        {
+            "case": 11,
+            "input": "D",
+            "output": "      A\n    A B A\n  A B C B A\nA B C D C B A"
+        },
+        {
+            "case": 12,
+            "input": "T",
+            "output": "                                      A\n                                    A B A\n                                  A B C B A\n                                A B C D C B A\n                              A B C D E D C B A\n                            A B C D E F E D C B A\n                          A B C D E F G F E D C B A\n                        A B C D E F G H G F E D C B A\n                      A B C D E F G H I H G F E D C B A\n                    A B C D E F G H I J I H G F E D C B A\n                  A B C D E F G H I J K J I H G F E D C B A\n                A B C D E F G H I J K L K J I H G F E D C B A\n              A B C D E F G H I J K L M L K J I H G F E D C B A\n            A B C D E F G H I J K L M N M L K J I H G F E D C B A\n          A B C D E F G H I J K L M N O N M L K J I H G F E D C B A\n        A B C D E F G H I J K L M N O P O N M L K J I H G F E D C B A\n      A B C D E F G H I J K L M N O P Q P O N M L K J I H G F E D C B A\n    A B C D E F G H I J K L M N O P Q R Q P O N M L K J I H G F E D C B A\n  A B C D E F G H I J K L M N O P Q R S R Q P O N M L K J I H G F E D C B A\nA B C D E F G H I J K L M N O P Q R S T S R Q P O N M L K J I H G F E D C B A"
+        },
+        {
+            "case": 13,
+            "input": "T",
+            "output": "                                      A\n                                    A B A\n                                  A B C B A\n                                A B C D C B A\n                              A B C D E D C B A\n                            A B C D E F E D C B A\n                          A B C D E F G F E D C B A\n                        A B C D E F G H G F E D C B A\n                      A B C D E F G H I H G F E D C B A\n                    A B C D E F G H I J I H G F E D C B A\n                  A B C D E F G H I J K J I H G F E D C B A\n                A B C D E F G H I J K L K J I H G F E D C B A\n              A B C D E F G H I J K L M L K J I H G F E D C B A\n            A B C D E F G H I J K L M N M L K J I H G F E D C B A\n          A B C D E F G H I J K L M N O N M L K J I H G F E D C B A\n        A B C D E F G H I J K L M N O P O N M L K J I H G F E D C B A\n      A B C D E F G H I J K L M N O P Q P O N M L K J I H G F E D C B A\n    A B C D E F G H I J K L M N O P Q R Q P O N M L K J I H G F E D C B A\n  A B C D E F G H I J K L M N O P Q R S R Q P O N M L K J I H G F E D C B A\nA B C D E F G H I J K L M N O P Q R S T S R Q P O N M L K J I H G F E D C B A"
+        },
+        {
+            "case": 14,
+            "input": "E",
+            "output": "        A\n      A B A\n    A B C B A\n  A B C D C B A\nA B C D E D C B A"
+        },
+        {
+            "case": 15,
+            "input": "W",
+            "output": "                                            A\n                                          A B A\n                                        A B C B A\n                                      A B C D C B A\n                                    A B C D E D C B A\n                                  A B C D E F E D C B A\n                                A B C D E F G F E D C B A\n                              A B C D E F G H G F E D C B A\n                            A B C D E F G H I H G F E D C B A\n                          A B C D E F G H I J I H G F E D C B A\n                        A B C D E F G H I J K J I H G F E D C B A\n                      A B C D E F G H I J K L K J I H G F E D C B A\n                    A B C D E F G H I J K L M L K J I H G F E D C B A\n                  A B C D E F G H I J K L M N M L K J I H G F E D C B A\n                A B C D E F G H I J K L M N O N M L K J I H G F E D C B A\n              A B C D E F G H I J K L M N O P O N M L K J I H G F E D C B A\n            A B C D E F G H I J K L M N O P Q P O N M L K J I H G F E D C B A\n          A B C D E F G H I J K L M N O P Q R Q P O N M L K J I H G F E D C B A\n        A B C D E F G H I J K L M N O P Q R S R Q P O N M L K J I H G F E D C B A\n      A B C D E F G H I J K L M N O P Q R S T S R Q P O N M L K J I H G F E D C B A\n    A B C D E F G H I J K L M N O P Q R S T U T S R Q P O N M L K J I H G F E D C B A\n  A B C D E F G H I J K L M N O P Q R S T U V U T S R Q P O N M L K J I H G F E D C B A\nA B C D E F G H I J K L M N O P Q R S T U V W V U T S R Q P O N M L K J I H G F E D C B A"
+        },
+        {
+            "case": 16,
+            "input": "S",
+            "output": "                                    A\n                                  A B A\n                                A B C B A\n                              A B C D C B A\n                            A B C D E D C B A\n                          A B C D E F E D C B A\n                        A B C D E F G F E D C B A\n                      A B C D E F G H G F E D C B A\n                    A B C D E F G H I H G F E D C B A\n                  A B C D E F G H I J I H G F E D C B A\n                A B C D E F G H I J K J I H G F E D C B A\n              A B C D E F G H I J K L K J I H G F E D C B A\n            A B C D E F G H I J K L M L K J I H G F E D C B A\n          A B C D E F G H I J K L M N M L K J I H G F E D C B A\n        A B C D E F G H I J K L M N O N M L K J I H G F E D C B A\n      A B C D E F G H I J K L M N O P O N M L K J I H G F E D C B A\n    A B C D E F G H I J K L M N O P Q P O N M L K J I H G F E D C B A\n  A B C D E F G H I J K L M N O P Q R Q P O N M L K J I H G F E D C B A\nA B C D E F G H I J K L M N O P Q R S R Q P O N M L K J I H G F E D C B A"
+        },
+        {
+            "case": 17,
+            "input": "P",
+            "output": "                              A\n                            A B A\n                          A B C B A\n                        A B C D C B A\n                      A B C D E D C B A\n                    A B C D E F E D C B A\n                  A B C D E F G F E D C B A\n                A B C D E F G H G F E D C B A\n              A B C D E F G H I H G F E D C B A\n            A B C D E F G H I J I H G F E D C B A\n          A B C D E F G H I J K J I H G F E D C B A\n        A B C D E F G H I J K L K J I H G F E D C B A\n      A B C D E F G H I J K L M L K J I H G F E D C B A\n    A B C D E F G H I J K L M N M L K J I H G F E D C B A\n  A B C D E F G H I J K L M N O N M L K J I H G F E D C B A\nA B C D E F G H I J K L M N O P O N M L K J I H G F E D C B A"
+        },
+        {
+            "case": 18,
+            "input": "L",
+            "output": "                      A\n                    A B A\n                  A B C B A\n                A B C D C B A\n              A B C D E D C B A\n            A B C D E F E D C B A\n          A B C D E F G F E D C B A\n        A B C D E F G H G F E D C B A\n      A B C D E F G H I H G F E D C B A\n    A B C D E F G H I J I H G F E D C B A\n  A B C D E F G H I J K J I H G F E D C B A\nA B C D E F G H I J K L K J I H G F E D C B A"
+        },
+        {
+            "case": 19,
+            "input": "A",
+            "output": "A"
+        },
+        {
+            "case": 20,
+            "input": "V",
+            "output": "                                          A\n                                        A B A\n                                      A B C B A\n                                    A B C D C B A\n                                  A B C D E D C B A\n                                A B C D E F E D C B A\n                              A B C D E F G F E D C B A\n                            A B C D E F G H G F E D C B A\n                          A B C D E F G H I H G F E D C B A\n                        A B C D E F G H I J I H G F E D C B A\n                      A B C D E F G H I J K J I H G F E D C B A\n                    A B C D E F G H I J K L K J I H G F E D C B A\n                  A B C D E F G H I J K L M L K J I H G F E D C B A\n                A B C D E F G H I J K L M N M L K J I H G F E D C B A\n              A B C D E F G H I J K L M N O N M L K J I H G F E D C B A\n            A B C D E F G H I J K L M N O P O N M L K J I H G F E D C B A\n          A B C D E F G H I J K L M N O P Q P O N M L K J I H G F E D C B A\n        A B C D E F G H I J K L M N O P Q R Q P O N M L K J I H G F E D C B A\n      A B C D E F G H I J K L M N O P Q R S R Q P O N M L K J I H G F E D C B A\n    A B C D E F G H I J K L M N O P Q R S T S R Q P O N M L K J I H G F E D C B A\n  A B C D E F G H I J K L M N O P Q R S T U T S R Q P O N M L K J I H G F E D C B A\nA B C D E F G H I J K L M N O P Q R S T U V U T S R Q P O N M L K J I H G F E D C B A"
+        },
+        {
+            "case": 21,
+            "input": "I",
+            "output": "                A\n              A B A\n            A B C B A\n          A B C D C B A\n        A B C D E D C B A\n      A B C D E F E D C B A\n    A B C D E F G F E D C B A\n  A B C D E F G H G F E D C B A\nA B C D E F G H I H G F E D C B A"
+        },
+        {
+            "case": 22,
+            "input": "Z",
+            "output": "                                                  A\n                                                A B A\n                                              A B C B A\n                                            A B C D C B A\n                                          A B C D E D C B A\n                                        A B C D E F E D C B A\n                                      A B C D E F G F E D C B A\n                                    A B C D E F G H G F E D C B A\n                                  A B C D E F G H I H G F E D C B A\n                                A B C D E F G H I J I H G F E D C B A\n                              A B C D E F G H I J K J I H G F E D C B A\n                            A B C D E F G H I J K L K J I H G F E D C B A\n                          A B C D E F G H I J K L M L K J I H G F E D C B A\n                        A B C D E F G H I J K L M N M L K J I H G F E D C B A\n                      A B C D E F G H I J K L M N O N M L K J I H G F E D C B A\n                    A B C D E F G H I J K L M N O P O N M L K J I H G F E D C B A\n                  A B C D E F G H I J K L M N O P Q P O N M L K J I H G F E D C B A\n                A B C D E F G H I J K L M N O P Q R Q P O N M L K J I H G F E D C B A\n              A B C D E F G H I J K L M N O P Q R S R Q P O N M L K J I H G F E D C B A\n            A B C D E F G H I J K L M N O P Q R S T S R Q P O N M L K J I H G F E D C B A\n          A B C D E F G H I J K L M N O P Q R S T U T S R Q P O N M L K J I H G F E D C B A\n        A B C D E F G H I J K L M N O P Q R S T U V U T S R Q P O N M L K J I H G F E D C B A\n      A B C D E F G H I J K L M N O P Q R S T U V W V U T S R Q P O N M L K J I H G F E D C B A\n    A B C D E F G H I J K L M N O P Q R S T U V W X W V U T S R Q P O N M L K J I H G F E D C B A\n  A B C D E F G H I J K L M N O P Q R S T U V W X Y X W V U T S R Q P O N M L K J I H G F E D C B A\nA B C D E F G H I J K L M N O P Q R S T U V W X Y Z Y X W V U T S R Q P O N M L K J I H G F E D C B A"
+        },
+        {
+            "case": 23,
+            "input": "D",
+            "output": "      A\n    A B A\n  A B C B A\nA B C D C B A"
+        },
+        {
+            "case": 24,
+            "input": "K",
+            "output": "                    A\n                  A B A\n                A B C B A\n              A B C D C B A\n            A B C D E D C B A\n          A B C D E F E D C B A\n        A B C D E F G F E D C B A\n      A B C D E F G H G F E D C B A\n    A B C D E F G H I H G F E D C B A\n  A B C D E F G H I J I H G F E D C B A\nA B C D E F G H I J K J I H G F E D C B A"
+        },
+        {
+            "case": 25,
+            "input": "H",
+            "output": "              A\n            A B A\n          A B C B A\n        A B C D C B A\n      A B C D E D C B A\n    A B C D E F E D C B A\n  A B C D E F G F E D C B A\nA B C D E F G H G F E D C B A"
+        },
+        {
+            "case": 26,
+            "input": "P",
+            "output": "                              A\n                            A B A\n                          A B C B A\n                        A B C D C B A\n                      A B C D E D C B A\n                    A B C D E F E D C B A\n                  A B C D E F G F E D C B A\n                A B C D E F G H G F E D C B A\n              A B C D E F G H I H G F E D C B A\n            A B C D E F G H I J I H G F E D C B A\n          A B C D E F G H I J K J I H G F E D C B A\n        A B C D E F G H I J K L K J I H G F E D C B A\n      A B C D E F G H I J K L M L K J I H G F E D C B A\n    A B C D E F G H I J K L M N M L K J I H G F E D C B A\n  A B C D E F G H I J K L M N O N M L K J I H G F E D C B A\nA B C D E F G H I J K L M N O P O N M L K J I H G F E D C B A"
+        },
+        {
+            "case": 27,
+            "input": "X",
+            "output": "                                              A\n                                            A B A\n                                          A B C B A\n                                        A B C D C B A\n                                      A B C D E D C B A\n                                    A B C D E F E D C B A\n                                  A B C D E F G F E D C B A\n                                A B C D E F G H G F E D C B A\n                              A B C D E F G H I H G F E D C B A\n                            A B C D E F G H I J I H G F E D C B A\n                          A B C D E F G H I J K J I H G F E D C B A\n                        A B C D E F G H I J K L K J I H G F E D C B A\n                      A B C D E F G H I J K L M L K J I H G F E D C B A\n                    A B C D E F G H I J K L M N M L K J I H G F E D C B A\n                  A B C D E F G H I J K L M N O N M L K J I H G F E D C B A\n                A B C D E F G H I J K L M N O P O N M L K J I H G F E D C B A\n              A B C D E F G H I J K L M N O P Q P O N M L K J I H G F E D C B A\n            A B C D E F G H I J K L M N O P Q R Q P O N M L K J I H G F E D C B A\n          A B C D E F G H I J K L M N O P Q R S R Q P O N M L K J I H G F E D C B A\n        A B C D E F G H I J K L M N O P Q R S T S R Q P O N M L K J I H G F E D C B A\n      A B C D E F G H I J K L M N O P Q R S T U T S R Q P O N M L K J I H G F E D C B A\n    A B C D E F G H I J K L M N O P Q R S T U V U T S R Q P O N M L K J I H G F E D C B A\n  A B C D E F G H I J K L M N O P Q R S T U V W V U T S R Q P O N M L K J I H G F E D C B A\nA B C D E F G H I J K L M N O P Q R S T U V W X W V U T S R Q P O N M L K J I H G F E D C B A"
+        },
+        {
+            "case": 28,
+            "input": "R",
+            "output": "                                  A\n                                A B A\n                              A B C B A\n                            A B C D C B A\n                          A B C D E D C B A\n                        A B C D E F E D C B A\n                      A B C D E F G F E D C B A\n                    A B C D E F G H G F E D C B A\n                  A B C D E F G H I H G F E D C B A\n                A B C D E F G H I J I H G F E D C B A\n              A B C D E F G H I J K J I H G F E D C B A\n            A B C D E F G H I J K L K J I H G F E D C B A\n          A B C D E F G H I J K L M L K J I H G F E D C B A\n        A B C D E F G H I J K L M N M L K J I H G F E D C B A\n      A B C D E F G H I J K L M N O N M L K J I H G F E D C B A\n    A B C D E F G H I J K L M N O P O N M L K J I H G F E D C B A\n  A B C D E F G H I J K L M N O P Q P O N M L K J I H G F E D C B A\nA B C D E F G H I J K L M N O P Q R Q P O N M L K J I H G F E D C B A"
+        },
+        {
+            "case": 29,
+            "input": "O",
+            "output": "                            A\n                          A B A\n                        A B C B A\n                      A B C D C B A\n                    A B C D E D C B A\n                  A B C D E F E D C B A\n                A B C D E F G F E D C B A\n              A B C D E F G H G F E D C B A\n            A B C D E F G H I H G F E D C B A\n          A B C D E F G H I J I H G F E D C B A\n        A B C D E F G H I J K J I H G F E D C B A\n      A B C D E F G H I J K L K J I H G F E D C B A\n    A B C D E F G H I J K L M L K J I H G F E D C B A\n  A B C D E F G H I J K L M N M L K J I H G F E D C B A\nA B C D E F G H I J K L M N O N M L K J I H G F E D C B A"
+        },
+        {
+            "case": 30,
+            "input": "W",
+            "output": "                                            A\n                                          A B A\n                                        A B C B A\n                                      A B C D C B A\n                                    A B C D E D C B A\n                                  A B C D E F E D C B A\n                                A B C D E F G F E D C B A\n                              A B C D E F G H G F E D C B A\n                            A B C D E F G H I H G F E D C B A\n                          A B C D E F G H I J I H G F E D C B A\n                        A B C D E F G H I J K J I H G F E D C B A\n                      A B C D E F G H I J K L K J I H G F E D C B A\n                    A B C D E F G H I J K L M L K J I H G F E D C B A\n                  A B C D E F G H I J K L M N M L K J I H G F E D C B A\n                A B C D E F G H I J K L M N O N M L K J I H G F E D C B A\n              A B C D E F G H I J K L M N O P O N M L K J I H G F E D C B A\n            A B C D E F G H I J K L M N O P Q P O N M L K J I H G F E D C B A\n          A B C D E F G H I J K L M N O P Q R Q P O N M L K J I H G F E D C B A\n        A B C D E F G H I J K L M N O P Q R S R Q P O N M L K J I H G F E D C B A\n      A B C D E F G H I J K L M N O P Q R S T S R Q P O N M L K J I H G F E D C B A\n    A B C D E F G H I J K L M N O P Q R S T U T S R Q P O N M L K J I H G F E D C B A\n  A B C D E F G H I J K L M N O P Q R S T U V U T S R Q P O N M L K J I H G F E D C B A\nA B C D E F G H I J K L M N O P Q R S T U V W V U T S R Q P O N M L K J I H G F E D C B A"
+        },
+        {
+            "case": 31,
+            "input": "C",
+            "output": "    A\n  A B A\nA B C B A"
+        },
+        {
+            "case": 32,
+            "input": "N",
+            "output": "                          A\n                        A B A\n                      A B C B A\n                    A B C D C B A\n                  A B C D E D C B A\n                A B C D E F E D C B A\n              A B C D E F G F E D C B A\n            A B C D E F G H G F E D C B A\n          A B C D E F G H I H G F E D C B A\n        A B C D E F G H I J I H G F E D C B A\n      A B C D E F G H I J K J I H G F E D C B A\n    A B C D E F G H I J K L K J I H G F E D C B A\n  A B C D E F G H I J K L M L K J I H G F E D C B A\nA B C D E F G H I J K L M N M L K J I H G F E D C B A"
+        },
+        {
+            "case": 33,
+            "input": "D",
+            "output": "      A\n    A B A\n  A B C B A\nA B C D C B A"
+        },
+        {
+            "case": 34,
+            "input": "Z",
+            "output": "                                                  A\n                                                A B A\n                                              A B C B A\n                                            A B C D C B A\n                                          A B C D E D C B A\n                                        A B C D E F E D C B A\n                                      A B C D E F G F E D C B A\n                                    A B C D E F G H G F E D C B A\n                                  A B C D E F G H I H G F E D C B A\n                                A B C D E F G H I J I H G F E D C B A\n                              A B C D E F G H I J K J I H G F E D C B A\n                            A B C D E F G H I J K L K J I H G F E D C B A\n                          A B C D E F G H I J K L M L K J I H G F E D C B A\n                        A B C D E F G H I J K L M N M L K J I H G F E D C B A\n                      A B C D E F G H I J K L M N O N M L K J I H G F E D C B A\n                    A B C D E F G H I J K L M N O P O N M L K J I H G F E D C B A\n                  A B C D E F G H I J K L M N O P Q P O N M L K J I H G F E D C B A\n                A B C D E F G H I J K L M N O P Q R Q P O N M L K J I H G F E D C B A\n              A B C D E F G H I J K L M N O P Q R S R Q P O N M L K J I H G F E D C B A\n            A B C D E F G H I J K L M N O P Q R S T S R Q P O N M L K J I H G F E D C B A\n          A B C D E F G H I J K L M N O P Q R S T U T S R Q P O N M L K J I H G F E D C B A\n        A B C D E F G H I J K L M N O P Q R S T U V U T S R Q P O N M L K J I H G F E D C B A\n      A B C D E F G H I J K L M N O P Q R S T U V W V U T S R Q P O N M L K J I H G F E D C B A\n    A B C D E F G H I J K L M N O P Q R S T U V W X W V U T S R Q P O N M L K J I H G F E D C B A\n  A B C D E F G H I J K L M N O P Q R S T U V W X Y X W V U T S R Q P O N M L K J I H G F E D C B A\nA B C D E F G H I J K L M N O P Q R S T U V W X Y Z Y X W V U T S R Q P O N M L K J I H G F E D C B A"
+        },
+        {
+            "case": 35,
+            "input": "T",
+            "output": "                                      A\n                                    A B A\n                                  A B C B A\n                                A B C D C B A\n                              A B C D E D C B A\n                            A B C D E F E D C B A\n                          A B C D E F G F E D C B A\n                        A B C D E F G H G F E D C B A\n                      A B C D E F G H I H G F E D C B A\n                    A B C D E F G H I J I H G F E D C B A\n                  A B C D E F G H I J K J I H G F E D C B A\n                A B C D E F G H I J K L K J I H G F E D C B A\n              A B C D E F G H I J K L M L K J I H G F E D C B A\n            A B C D E F G H I J K L M N M L K J I H G F E D C B A\n          A B C D E F G H I J K L M N O N M L K J I H G F E D C B A\n        A B C D E F G H I J K L M N O P O N M L K J I H G F E D C B A\n      A B C D E F G H I J K L M N O P Q P O N M L K J I H G F E D C B A\n    A B C D E F G H I J K L M N O P Q R Q P O N M L K J I H G F E D C B A\n  A B C D E F G H I J K L M N O P Q R S R Q P O N M L K J I H G F E D C B A\nA B C D E F G H I J K L M N O P Q R S T S R Q P O N M L K J I H G F E D C B A"
+        },
+        {
+            "case": 36,
+            "input": "C",
+            "output": "    A\n  A B A\nA B C B A"
+        },
+        {
+            "case": 37,
+            "input": "S",
+            "output": "                                    A\n                                  A B A\n                                A B C B A\n                              A B C D C B A\n                            A B C D E D C B A\n                          A B C D E F E D C B A\n                        A B C D E F G F E D C B A\n                      A B C D E F G H G F E D C B A\n                    A B C D E F G H I H G F E D C B A\n                  A B C D E F G H I J I H G F E D C B A\n                A B C D E F G H I J K J I H G F E D C B A\n              A B C D E F G H I J K L K J I H G F E D C B A\n            A B C D E F G H I J K L M L K J I H G F E D C B A\n          A B C D E F G H I J K L M N M L K J I H G F E D C B A\n        A B C D E F G H I J K L M N O N M L K J I H G F E D C B A\n      A B C D E F G H I J K L M N O P O N M L K J I H G F E D C B A\n    A B C D E F G H I J K L M N O P Q P O N M L K J I H G F E D C B A\n  A B C D E F G H I J K L M N O P Q R Q P O N M L K J I H G F E D C B A\nA B C D E F G H I J K L M N O P Q R S R Q P O N M L K J I H G F E D C B A"
+        },
+        {
+            "case": 38,
+            "input": "B",
+            "output": "  A\nA B A"
+        },
+        {
+            "case": 39,
+            "input": "Q",
+            "output": "                                A\n                              A B A\n                            A B C B A\n                          A B C D C B A\n                        A B C D E D C B A\n                      A B C D E F E D C B A\n                    A B C D E F G F E D C B A\n                  A B C D E F G H G F E D C B A\n                A B C D E F G H I H G F E D C B A\n              A B C D E F G H I J I H G F E D C B A\n            A B C D E F G H I J K J I H G F E D C B A\n          A B C D E F G H I J K L K J I H G F E D C B A\n        A B C D E F G H I J K L M L K J I H G F E D C B A\n      A B C D E F G H I J K L M N M L K J I H G F E D C B A\n    A B C D E F G H I J K L M N O N M L K J I H G F E D C B A\n  A B C D E F G H I J K L M N O P O N M L K J I H G F E D C B A\nA B C D E F G H I J K L M N O P Q P O N M L K J I H G F E D C B A"
+        },
+        {
+            "case": 40,
+            "input": "Z",
+            "output": "                                                  A\n                                                A B A\n                                              A B C B A\n                                            A B C D C B A\n                                          A B C D E D C B A\n                                        A B C D E F E D C B A\n                                      A B C D E F G F E D C B A\n                                    A B C D E F G H G F E D C B A\n                                  A B C D E F G H I H G F E D C B A\n                                A B C D E F G H I J I H G F E D C B A\n                              A B C D E F G H I J K J I H G F E D C B A\n                            A B C D E F G H I J K L K J I H G F E D C B A\n                          A B C D E F G H I J K L M L K J I H G F E D C B A\n                        A B C D E F G H I J K L M N M L K J I H G F E D C B A\n                      A B C D E F G H I J K L M N O N M L K J I H G F E D C B A\n                    A B C D E F G H I J K L M N O P O N M L K J I H G F E D C B A\n                  A B C D E F G H I J K L M N O P Q P O N M L K J I H G F E D C B A\n                A B C D E F G H I J K L M N O P Q R Q P O N M L K J I H G F E D C B A\n              A B C D E F G H I J K L M N O P Q R S R Q P O N M L K J I H G F E D C B A\n            A B C D E F G H I J K L M N O P Q R S T S R Q P O N M L K J I H G F E D C B A\n          A B C D E F G H I J K L M N O P Q R S T U T S R Q P O N M L K J I H G F E D C B A\n        A B C D E F G H I J K L M N O P Q R S T U V U T S R Q P O N M L K J I H G F E D C B A\n      A B C D E F G H I J K L M N O P Q R S T U V W V U T S R Q P O N M L K J I H G F E D C B A\n    A B C D E F G H I J K L M N O P Q R S T U V W X W V U T S R Q P O N M L K J I H G F E D C B A\n  A B C D E F G H I J K L M N O P Q R S T U V W X Y X W V U T S R Q P O N M L K J I H G F E D C B A\nA B C D E F G H I J K L M N O P Q R S T U V W X Y Z Y X W V U T S R Q P O N M L K J I H G F E D C B A"
+        },
+        {
+            "case": 41,
+            "input": "G",
+            "output": "            A\n          A B A\n        A B C B A\n      A B C D C B A\n    A B C D E D C B A\n  A B C D E F E D C B A\nA B C D E F G F E D C B A"
+        },
+        {
+            "case": 42,
+            "input": "S",
+            "output": "                                    A\n                                  A B A\n                                A B C B A\n                              A B C D C B A\n                            A B C D E D C B A\n                          A B C D E F E D C B A\n                        A B C D E F G F E D C B A\n                      A B C D E F G H G F E D C B A\n                    A B C D E F G H I H G F E D C B A\n                  A B C D E F G H I J I H G F E D C B A\n                A B C D E F G H I J K J I H G F E D C B A\n              A B C D E F G H I J K L K J I H G F E D C B A\n            A B C D E F G H I J K L M L K J I H G F E D C B A\n          A B C D E F G H I J K L M N M L K J I H G F E D C B A\n        A B C D E F G H I J K L M N O N M L K J I H G F E D C B A\n      A B C D E F G H I J K L M N O P O N M L K J I H G F E D C B A\n    A B C D E F G H I J K L M N O P Q P O N M L K J I H G F E D C B A\n  A B C D E F G H I J K L M N O P Q R Q P O N M L K J I H G F E D C B A\nA B C D E F G H I J K L M N O P Q R S R Q P O N M L K J I H G F E D C B A"
+        },
+        {
+            "case": 43,
+            "input": "S",
+            "output": "                                    A\n                                  A B A\n                                A B C B A\n                              A B C D C B A\n                            A B C D E D C B A\n                          A B C D E F E D C B A\n                        A B C D E F G F E D C B A\n                      A B C D E F G H G F E D C B A\n                    A B C D E F G H I H G F E D C B A\n                  A B C D E F G H I J I H G F E D C B A\n                A B C D E F G H I J K J I H G F E D C B A\n              A B C D E F G H I J K L K J I H G F E D C B A\n            A B C D E F G H I J K L M L K J I H G F E D C B A\n          A B C D E F G H I J K L M N M L K J I H G F E D C B A\n        A B C D E F G H I J K L M N O N M L K J I H G F E D C B A\n      A B C D E F G H I J K L M N O P O N M L K J I H G F E D C B A\n    A B C D E F G H I J K L M N O P Q P O N M L K J I H G F E D C B A\n  A B C D E F G H I J K L M N O P Q R Q P O N M L K J I H G F E D C B A\nA B C D E F G H I J K L M N O P Q R S R Q P O N M L K J I H G F E D C B A"
+        },
+        {
+            "case": 44,
+            "input": "X",
+            "output": "                                              A\n                                            A B A\n                                          A B C B A\n                                        A B C D C B A\n                                      A B C D E D C B A\n                                    A B C D E F E D C B A\n                                  A B C D E F G F E D C B A\n                                A B C D E F G H G F E D C B A\n                              A B C D E F G H I H G F E D C B A\n                            A B C D E F G H I J I H G F E D C B A\n                          A B C D E F G H I J K J I H G F E D C B A\n                        A B C D E F G H I J K L K J I H G F E D C B A\n                      A B C D E F G H I J K L M L K J I H G F E D C B A\n                    A B C D E F G H I J K L M N M L K J I H G F E D C B A\n                  A B C D E F G H I J K L M N O N M L K J I H G F E D C B A\n                A B C D E F G H I J K L M N O P O N M L K J I H G F E D C B A\n              A B C D E F G H I J K L M N O P Q P O N M L K J I H G F E D C B A\n            A B C D E F G H I J K L M N O P Q R Q P O N M L K J I H G F E D C B A\n          A B C D E F G H I J K L M N O P Q R S R Q P O N M L K J I H G F E D C B A\n        A B C D E F G H I J K L M N O P Q R S T S R Q P O N M L K J I H G F E D C B A\n      A B C D E F G H I J K L M N O P Q R S T U T S R Q P O N M L K J I H G F E D C B A\n    A B C D E F G H I J K L M N O P Q R S T U V U T S R Q P O N M L K J I H G F E D C B A\n  A B C D E F G H I J K L M N O P Q R S T U V W V U T S R Q P O N M L K J I H G F E D C B A\nA B C D E F G H I J K L M N O P Q R S T U V W X W V U T S R Q P O N M L K J I H G F E D C B A"
+        },
+        {
+            "case": 45,
+            "input": "S",
+            "output": "                                    A\n                                  A B A\n                                A B C B A\n                              A B C D C B A\n                            A B C D E D C B A\n                          A B C D E F E D C B A\n                        A B C D E F G F E D C B A\n                      A B C D E F G H G F E D C B A\n                    A B C D E F G H I H G F E D C B A\n                  A B C D E F G H I J I H G F E D C B A\n                A B C D E F G H I J K J I H G F E D C B A\n              A B C D E F G H I J K L K J I H G F E D C B A\n            A B C D E F G H I J K L M L K J I H G F E D C B A\n          A B C D E F G H I J K L M N M L K J I H G F E D C B A\n        A B C D E F G H I J K L M N O N M L K J I H G F E D C B A\n      A B C D E F G H I J K L M N O P O N M L K J I H G F E D C B A\n    A B C D E F G H I J K L M N O P Q P O N M L K J I H G F E D C B A\n  A B C D E F G H I J K L M N O P Q R Q P O N M L K J I H G F E D C B A\nA B C D E F G H I J K L M N O P Q R S R Q P O N M L K J I H G F E D C B A"
+        },
+        {
+            "case": 46,
+            "input": "O",
+            "output": "                            A\n                          A B A\n                        A B C B A\n                      A B C D C B A\n                    A B C D E D C B A\n                  A B C D E F E D C B A\n                A B C D E F G F E D C B A\n              A B C D E F G H G F E D C B A\n            A B C D E F G H I H G F E D C B A\n          A B C D E F G H I J I H G F E D C B A\n        A B C D E F G H I J K J I H G F E D C B A\n      A B C D E F G H I J K L K J I H G F E D C B A\n    A B C D E F G H I J K L M L K J I H G F E D C B A\n  A B C D E F G H I J K L M N M L K J I H G F E D C B A\nA B C D E F G H I J K L M N O N M L K J I H G F E D C B A"
+        },
+        {
+            "case": 47,
+            "input": "U",
+            "output": "                                        A\n                                      A B A\n                                    A B C B A\n                                  A B C D C B A\n                                A B C D E D C B A\n                              A B C D E F E D C B A\n                            A B C D E F G F E D C B A\n                          A B C D E F G H G F E D C B A\n                        A B C D E F G H I H G F E D C B A\n                      A B C D E F G H I J I H G F E D C B A\n                    A B C D E F G H I J K J I H G F E D C B A\n                  A B C D E F G H I J K L K J I H G F E D C B A\n                A B C D E F G H I J K L M L K J I H G F E D C B A\n              A B C D E F G H I J K L M N M L K J I H G F E D C B A\n            A B C D E F G H I J K L M N O N M L K J I H G F E D C B A\n          A B C D E F G H I J K L M N O P O N M L K J I H G F E D C B A\n        A B C D E F G H I J K L M N O P Q P O N M L K J I H G F E D C B A\n      A B C D E F G H I J K L M N O P Q R Q P O N M L K J I H G F E D C B A\n    A B C D E F G H I J K L M N O P Q R S R Q P O N M L K J I H G F E D C B A\n  A B C D E F G H I J K L M N O P Q R S T S R Q P O N M L K J I H G F E D C B A\nA B C D E F G H I J K L M N O P Q R S T U T S R Q P O N M L K J I H G F E D C B A"
+        },
+        {
+            "case": 48,
+            "input": "P",
+            "output": "                              A\n                            A B A\n                          A B C B A\n                        A B C D C B A\n                      A B C D E D C B A\n                    A B C D E F E D C B A\n                  A B C D E F G F E D C B A\n                A B C D E F G H G F E D C B A\n              A B C D E F G H I H G F E D C B A\n            A B C D E F G H I J I H G F E D C B A\n          A B C D E F G H I J K J I H G F E D C B A\n        A B C D E F G H I J K L K J I H G F E D C B A\n      A B C D E F G H I J K L M L K J I H G F E D C B A\n    A B C D E F G H I J K L M N M L K J I H G F E D C B A\n  A B C D E F G H I J K L M N O N M L K J I H G F E D C B A\nA B C D E F G H I J K L M N O P O N M L K J I H G F E D C B A"
+        },
+        {
+            "case": 49,
+            "input": "N",
+            "output": "                          A\n                        A B A\n                      A B C B A\n                    A B C D C B A\n                  A B C D E D C B A\n                A B C D E F E D C B A\n              A B C D E F G F E D C B A\n            A B C D E F G H G F E D C B A\n          A B C D E F G H I H G F E D C B A\n        A B C D E F G H I J I H G F E D C B A\n      A B C D E F G H I J K J I H G F E D C B A\n    A B C D E F G H I J K L K J I H G F E D C B A\n  A B C D E F G H I J K L M L K J I H G F E D C B A\nA B C D E F G H I J K L M N M L K J I H G F E D C B A"
+        },
+        {
+            "case": 50,
+            "input": "H",
+            "output": "              A\n            A B A\n          A B C B A\n        A B C D C B A\n      A B C D E D C B A\n    A B C D E F E D C B A\n  A B C D E F G F E D C B A\nA B C D E F G H G F E D C B A"
+        }
+    ]
+}

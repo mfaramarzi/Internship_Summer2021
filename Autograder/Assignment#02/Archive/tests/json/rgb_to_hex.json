@@ -1,0 +1,254 @@
+{
+    "tests": [
+        {
+            "case": 1,
+            "input": "25 53 240",
+            "output": "#1935F0"
+        },
+        {
+            "case": 2,
+            "input": "70 8 79",
+            "output": "#46084F"
+        },
+        {
+            "case": 3,
+            "input": "245 95 118",
+            "output": "#F55F76"
+        },
+        {
+            "case": 4,
+            "input": "96 226 235",
+            "output": "#60E2EB"
+        },
+        {
+            "case": 5,
+            "input": "110 135 142",
+            "output": "#6E878E"
+        },
+        {
+            "case": 6,
+            "input": "64 190 218",
+            "output": "#40BEDA"
+        },
+        {
+            "case": 7,
+            "input": "217 184 172",
+            "output": "#D9B8AC"
+        },
+        {
+            "case": 8,
+            "input": "96 134 108",
+            "output": "#60866C"
+        },
+        {
+            "case": 9,
+            "input": "96 158 19",
+            "output": "#609E13"
+        },
+        {
+            "case": 10,
+            "input": "236 201 210",
+            "output": "#ECC9D2"
+        },
+        {
+            "case": 11,
+            "input": "69 128 240",
+            "output": "#4580F0"
+        },
+        {
+            "case": 12,
+            "input": "247 16 243",
+            "output": "#F710F3"
+        },
+        {
+            "case": 13,
+            "input": "207 89 125",
+            "output": "#CF597D"
+        },
+        {
+            "case": 14,
+            "input": "125 86 220",
+            "output": "#7D56DC"
+        },
+        {
+            "case": 15,
+            "input": "88 227 47",
+            "output": "#58E32F"
+        },
+        {
+            "case": 16,
+            "input": "215 220 176",
+            "output": "#D7DCB0"
+        },
+        {
+            "case": 17,
+            "input": "100 122 73",
+            "output": "#647A49"
+        },
+        {
+            "case": 18,
+            "input": "25 40 253",
+            "output": "#1928FD"
+        },
+        {
+            "case": 19,
+            "input": "93 96 77",
+            "output": "#5D604D"
+        },
+        {
+            "case": 20,
+            "input": "119 150 131",
+            "output": "#779683"
+        },
+        {
+            "case": 21,
+            "input": "80 145 109",
+            "output": "#50916D"
+        },
+        {
+            "case": 22,
+            "input": "80 182 115",
+            "output": "#50B673"
+        },
+        {
+            "case": 23,
+            "input": "197 36 147",
+            "output": "#C52493"
+        },
+        {
+            "case": 24,
+            "input": "113 209 51",
+            "output": "#71D133"
+        },
+        {
+            "case": 25,
+            "input": "252 48 216",
+            "output": "#FC30D8"
+        },
+        {
+            "case": 26,
+            "input": "248 210 249",
+            "output": "#F8D2F9"
+        },
+        {
+            "case": 27,
+            "input": "3 57 150",
+            "output": "#033996"
+        },
+        {
+            "case": 28,
+            "input": "91 252 44",
+            "output": "#5BFC2C"
+        },
+        {
+            "case": 29,
+            "input": "216 237 125",
+            "output": "#D8ED7D"
+        },
+        {
+            "case": 30,
+            "input": "136 169 86",
+            "output": "#88A956"
+        },
+        {
+            "case": 31,
+            "input": "193 33 212",
+            "output": "#C121D4"
+        },
+        {
+            "case": 32,
+            "input": "172 220 202",
+            "output": "#ACDCCA"
+        },
+        {
+            "case": 33,
+            "input": "171 174 137",
+            "output": "#ABAE89"
+        },
+        {
+            "case": 34,
+            "input": "64 26 136",
+            "output": "#401A88"
+        },
+        {
+            "case": 35,
+            "input": "25 92 11",
+            "output": "#195C0B"
+        },
+        {
+            "case": 36,
+            "input": "11 20 15",
+            "output": "#0B140F"
+        },
+        {
+            "case": 37,
+            "input": "5 111 255",
+            "output": "#056FFF"
+        },
+        {
+            "case": 38,
+            "input": "77 225 60",
+            "output": "#4DE13C"
+        },
+        {
+            "case": 39,
+            "input": "50 202 80",
+            "output": "#32CA50"
+        },
+        {
+            "case": 40,
+            "input": "190 93 10",
+            "output": "#BE5D0A"
+        },
+        {
+            "case": 41,
+            "input": "78 123 247",
+            "output": "#4E7BF7"
+        },
+        {
+            "case": 42,
+            "input": "20 21 43",
+            "output": "#14152B"
+        },
+        {
+            "case": 43,
+            "input": "178 162 156",
+            "output": "#B2A29C"
+        },
+        {
+            "case": 44,
+            "input": "76 67 2",
+            "output": "#4C4302"
+        },
+        {
+            "case": 45,
+            "input": "113 183 188",
+            "output": "#71B7BC"
+        },
+        {
+            "case": 46,
+            "input": "159 22 66",
+            "output": "#9F1642"
+        },
+        {
+            "case": 47,
+            "input": "218 245 157",
+            "output": "#DAF59D"
+        },
+        {
+            "case": 48,
+            "input": "123 221 91",
+            "output": "#7BDD5B"
+        },
+        {
+            "case": 49,
+            "input": "225 135 0",
+            "output": "#E18700"
+        },
+        {
+            "case": 50,
+            "input": "77 141 3",
+            "output": "#4D8D03"
+        }
+    ]
+}

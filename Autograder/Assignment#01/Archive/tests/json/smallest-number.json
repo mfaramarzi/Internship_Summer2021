@@ -1,0 +1,254 @@
+{
+    "tests": [
+        {
+            "case": 1,
+            "input": "1849723766 1323984885 -1139419695",
+            "output": "The smallest number entered was -1139419695"
+        },
+        {
+            "case": 2,
+            "input": "75107873 -1565345509 -845470980",
+            "output": "The smallest number entered was -1565345509"
+        },
+        {
+            "case": 3,
+            "input": "1987618243 -1625975161 -1385098651",
+            "output": "The smallest number entered was -1625975161"
+        },
+        {
+            "case": 4,
+            "input": "1901014704 691711962 -185153302",
+            "output": "The smallest number entered was -185153302"
+        },
+        {
+            "case": 5,
+            "input": "-1995504108 -1406145076 563140478",
+            "output": "The smallest number entered was -1995504108"
+        },
+        {
+            "case": 6,
+            "input": "-1014144479 -189489362 -2036536877",
+            "output": "The smallest number entered was -2036536877"
+        },
+        {
+            "case": 7,
+            "input": "-893291650 2100053981 293312398",
+            "output": "The smallest number entered was -893291650"
+        },
+        {
+            "case": 8,
+            "input": "-215393114 520906367 -1164505082",
+            "output": "The smallest number entered was -1164505082"
+        },
+        {
+            "case": 9,
+            "input": "-1004598246 508405058 -986031415",
+            "output": "The smallest number entered was -1004598246"
+        },
+        {
+            "case": 10,
+            "input": "-552156573 12257122 626269532",
+            "output": "The smallest number entered was -552156573"
+        },
+        {
+            "case": 11,
+            "input": "-1646518912 2068388090 -196983400",
+            "output": "The smallest number entered was -1646518912"
+        },
+        {
+            "case": 12,
+            "input": "-205771329 -256400475 1742156122",
+            "output": "The smallest number entered was -256400475"
+        },
+        {
+            "case": 13,
+            "input": "126408003 -1244885028 598110705",
+            "output": "The smallest number entered was -1244885028"
+        },
+        {
+            "case": 14,
+            "input": "1042057454 30871899 -550114114",
+            "output": "The smallest number entered was -550114114"
+        },
+        {
+            "case": 15,
+            "input": "18604515 -1616086077 164051542",
+            "output": "The smallest number entered was -1616086077"
+        },
+        {
+            "case": 16,
+            "input": "442451520 -1574715321 -712996049",
+            "output": "The smallest number entered was -1574715321"
+        },
+        {
+            "case": 17,
+            "input": "1041825605 1400610261 -1435222243",
+            "output": "The smallest number entered was -1435222243"
+        },
+        {
+            "case": 18,
+            "input": "-1837578689 1238922298 -15339110",
+            "output": "The smallest number entered was -1837578689"
+        },
+        {
+            "case": 19,
+            "input": "959261905 -744942801 -1035224010",
+            "output": "The smallest number entered was -1035224010"
+        },
+        {
+            "case": 20,
+            "input": "159434 362905321 1757086885",
+            "output": "The smallest number entered was 159434"
+        },
+        {
+            "case": 21,
+            "input": "-1057960906 -482577094 2010420269",
+            "output": "The smallest number entered was -1057960906"
+        },
+        {
+            "case": 22,
+            "input": "1684573683 1998672420 -1318857299",
+            "output": "The smallest number entered was -1318857299"
+        },
+        {
+            "case": 23,
+            "input": "637436176 -971785935 -1415278920",
+            "output": "The smallest number entered was -1415278920"
+        },
+        {
+            "case": 24,
+            "input": "-1733082440 594768701 1286717110",
+            "output": "The smallest number entered was -1733082440"
+        },
+        {
+            "case": 25,
+            "input": "1894317171 867013496 1771655390",
+            "output": "The smallest number entered was 867013496"
+        },
+        {
+            "case": 26,
+            "input": "-2052967750 -1317130462 919049268",
+            "output": "The smallest number entered was -2052967750"
+        },
+        {
+            "case": 27,
+            "input": "-1288369324 849411450 1424939201",
+            "output": "The smallest number entered was -1288369324"
+        },
+        {
+            "case": 28,
+            "input": "196260513 -884155906 -952562069",
+            "output": "The smallest number entered was -952562069"
+        },
+        {
+            "case": 29,
+            "input": "744422105 721887736 -571129980",
+            "output": "The smallest number entered was -571129980"
+        },
+        {
+            "case": 30,
+            "input": "267364877 -370302902 1597787228",
+            "output": "The smallest number entered was -370302902"
+        },
+        {
+            "case": 31,
+            "input": "-926460994 1479534922 37902893",
+            "output": "The smallest number entered was -926460994"
+        },
+        {
+            "case": 32,
+            "input": "-323668582 392554470 510923419",
+            "output": "The smallest number entered was -323668582"
+        },
+        {
+            "case": 33,
+            "input": "-1131302579 -60388432 -1325948737",
+            "output": "The smallest number entered was -1325948737"
+        },
+        {
+            "case": 34,
+            "input": "-1492455798 -546025358 -1445964143",
+            "output": "The smallest number entered was -1492455798"
+        },
+        {
+            "case": 35,
+            "input": "345434761 627030933 1221606118",
+            "output": "The smallest number entered was 345434761"
+        },
+        {
+            "case": 36,
+            "input": "-928818504 -1171090598 -520741839",
+            "output": "The smallest number entered was -1171090598"
+        },
+        {
+            "case": 37,
+            "input": "-979187735 174086378 -1682799523",
+            "output": "The smallest number entered was -1682799523"
+        },
+        {
+            "case": 38,
+            "input": "760985271 -261085662 1095008297",
+            "output": "The smallest number entered was -261085662"
+        },
+        {
+            "case": 39,
+            "input": "1546319290 -388509908 1639962989",
+            "output": "The smallest number entered was -388509908"
+        },
+        {
+            "case": 40,
+            "input": "990287136 -1250520020 -1253460593",
+            "output": "The smallest number entered was -1253460593"
+        },
+        {
+            "case": 41,
+            "input": "92279953 1418282374 1741782729",
+            "output": "The smallest number entered was 92279953"
+        },
+        {
+            "case": 42,
+            "input": "1488826200 669290923 -1007808411",
+            "output": "The smallest number entered was -1007808411"
+        },
+        {
+            "case": 43,
+            "input": "-711582038 986508295 -626722726",
+            "output": "The smallest number entered was -711582038"
+        },
+        {
+            "case": 44,
+            "input": "-1643202411 1699291770 -328677620",
+            "output": "The smallest number entered was -1643202411"
+        },
+        {
+            "case": 45,
+            "input": "682235544 1634616955 -1068830760",
+            "output": "The smallest number entered was -1068830760"
+        },
+        {
+            "case": 46,
+            "input": "-1952907773 -1304767078 -2052349127",
+            "output": "The smallest number entered was -2052349127"
+        },
+        {
+            "case": 47,
+            "input": "-1536181548 1420719113 1414942543",
+            "output": "The smallest number entered was -1536181548"
+        },
+        {
+            "case": 48,
+            "input": "1147010260 -484960351 1207562860",
+            "output": "The smallest number entered was -484960351"
+        },
+        {
+            "case": 49,
+            "input": "1752896632 1079843759 1160175247",
+            "output": "The smallest number entered was 1079843759"
+        },
+        {
+            "case": 50,
+            "input": "-931886395 421058227 -532583564",
+            "output": "The smallest number entered was -931886395"
+        }
+    ]
+}

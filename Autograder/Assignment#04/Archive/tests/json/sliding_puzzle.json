@@ -1,0 +1,254 @@
+{
+    "tests": [
+        {
+            "case": 1,
+            "input": "1 2 3 4 5 0 7 8 6\nU R R D L L R R D D L R",
+            "output": "Solution is good!"
+        },
+        {
+            "case": 2,
+            "input": "4 3 2 1 0 5 6 7 8\nL U U R D L U",
+            "output": "Wrong solution!"
+        },
+        {
+            "case": 3,
+            "input": "1 2 3 4 5 0 7 8 6\nR D L R D R",
+            "output": "Solution is good!"
+        },
+        {
+            "case": 4,
+            "input": "1 0 2 4 6 3 7 5 8\nR R D U D R L D R U D",
+            "output": "Solution is good!"
+        },
+        {
+            "case": 5,
+            "input": "1 2 3 0 4 6 7 5 8\nR L R D R U D",
+            "output": "Solution is good!"
+        },
+        {
+            "case": 6,
+            "input": "1 0 6 4 3 2 7 5 8\nR U R U L D R R R U D L R U D U L D D R D R",
+            "output": "Solution is good!"
+        },
+        {
+            "case": 7,
+            "input": "3 1 2 6 5 0 7 4 8\nR R L D L U L L L D R L U L U",
+            "output": "Wrong solution!"
+        },
+        {
+            "case": 8,
+            "input": "1 2 3 4 5 6 7 8 0\nU D",
+            "output": "Solution is good!"
+        },
+        {
+            "case": 9,
+            "input": "0 1 2 3 4 5 6 7 8\nU L",
+            "output": "Wrong solution!"
+        },
+        {
+            "case": 10,
+            "input": "1 2 3 4 5 0 7 8 6\nD D",
+            "output": "Solution is good!"
+        },
+        {
+            "case": 11,
+            "input": "0 1 3 4 2 5 7 8 6\nR D D U R U L R D D U D U U D D R R R D R D R D D",
+            "output": "Solution is good!"
+        },
+        {
+            "case": 12,
+            "input": "0 2 3 1 6 8 4 7 5\nD L D R R U L D D R L R D D L R L D L D U D R R R",
+            "output": "Solution is good!"
+        },
+        {
+            "case": 13,
+            "input": "1 2 3 4 5 6 0 7 8\nD U L D L L D R R",
+            "output": "Solution is good!"
+        },
+        {
+            "case": 14,
+            "input": "0 1 3 4 2 5 7 8 6\nU L R D R R L R R R D",
+            "output": "Solution is good!"
+        },
+        {
+            "case": 15,
+            "input": "0 1 2 3 4 5 6 7 8\nU U",
+            "output": "Wrong solution!"
+        },
+        {
+            "case": 16,
+            "input": "1 2 3 4 5 6 0 7 8\nD D R D D R",
+            "output": "Solution is good!"
+        },
+        {
+            "case": 17,
+            "input": "1 2 3 4 0 8 7 6 5\nD R U L D D L L R R D",
+            "output": "Solution is good!"
+        },
+        {
+            "case": 18,
+            "input": "1 2 3 4 0 6 7 5 8\nD R U R D R",
+            "output": "Solution is good!"
+        },
+        {
+            "case": 19,
+            "input": "1 2 3 0 4 5 7 8 6\nR R R R U R L L R R U D R L R R U D U D D",
+            "output": "Solution is good!"
+        },
+        {
+            "case": 20,
+            "input": "0 1 2 3 4 5 6 7 8\nL D D U U",
+            "output": "Wrong solution!"
+        },
+        {
+            "case": 21,
+            "input": "1 2 3 4 0 5 7 8 6\nR L R R U D R D R U D R",
+            "output": "Solution is good!"
+        },
+        {
+            "case": 22,
+            "input": "1 2 3 4 5 6 7 0 8\nR",
+            "output": "Solution is good!"
+        },
+        {
+            "case": 23,
+            "input": "1 0 2 3 5 6 8 4 7\nD L D L R R U D D U L L L D R D L R D U U U R D D",
+            "output": "Solution is good!"
+        },
+        {
+            "case": 24,
+            "input": "1 0 4 3 5 2 6 7 8\nU R D U D D L D R D D U R L U L L U R L U",
+            "output": "Wrong solution!"
+        },
+        {
+            "case": 25,
+            "input": "1 2 3 5 6 0 4 7 8\nL L L D L D L U R L R L L D L L R R D",
+            "output": "Solution is good!"
+        },
+        {
+            "case": 26,
+            "input": "1 2 3 0 5 6 4 7 8\nD L L L L R R D R",
+            "output": "Solution is good!"
+        },
+        {
+            "case": 27,
+            "input": "3 1 2 0 4 5 6 7 8\nD D D U L D U D R D L U D L L U D U U L D U",
+            "output": "Wrong solution!"
+        },
+        {
+            "case": 28,
+            "input": "1 5 2 4 3 0 7 8 6\nL D D U U L R L U L U L R R U D R R D D R D",
+            "output": "Solution is good!"
+        },
+        {
+            "case": 29,
+            "input": "1 2 3 4 5 6 7 8 0\nD R R R",
+            "output": "Solution is good!"
+        },
+        {
+            "case": 30,
+            "input": "3 1 0 4 5 2 6 7 8\nR D R R L L U L L U L",
+            "output": "Wrong solution!"
+        },
+        {
+            "case": 31,
+            "input": "1 0 4 3 5 2 6 7 8\nD R D R R U U U U L D R U D R U U L L U L U",
+            "output": "Wrong solution!"
+        },
+        {
+            "case": 32,
+            "input": "1 2 0 3 4 5 6 7 8\nU U R L L",
+            "output": "Wrong solution!"
+        },
+        {
+            "case": 33,
+            "input": "1 3 5 4 2 6 7 8 0\nU R R U U L U D L L L R R D",
+            "output": "Solution is good!"
+        },
+        {
+            "case": 34,
+            "input": "1 2 3 7 6 8 5 0 4\nR U D D U L D L D L U R D R R D R D R R",
+            "output": "Solution is good!"
+        },
+        {
+            "case": 35,
+            "input": "1 2 3 4 5 6 7 0 8\nU L U D R D R",
+            "output": "Solution is good!"
+        },
+        {
+            "case": 36,
+            "input": "1 2 3 4 5 6 7 8 0\nD D U D D",
+            "output": "Solution is good!"
+        },
+        {
+            "case": 37,
+            "input": "1 2 3 4 8 5 0 7 6\nR D D U R D R D U R R D",
+            "output": "Solution is good!"
+        },
+        {
+            "case": 38,
+            "input": "1 2 5 3 4 8 6 0 7\nU D U D R U U L R L L D L D L D U U D L U",
+            "output": "Wrong solution!"
+        },
+        {
+            "case": 39,
+            "input": "1 0 3 4 2 5 7 8 6\nD U R U R L R R L U R L R D U R L U D U D R D",
+            "output": "Solution is good!"
+        },
+        {
+            "case": 40,
+            "input": "0 5 2 4 1 8 3 6 7\nD L R U L L D D R D L R R R D D U L R L U L L",
+            "output": "Wrong solution!"
+        },
+        {
+            "case": 41,
+            "input": "1 4 2 3 5 0 6 7 8\nD U R R L U L D D L U U L R L",
+            "output": "Wrong solution!"
+        },
+        {
+            "case": 42,
+            "input": "3 5 1 4 2 0 6 7 8\nR R L U R D L L L D D L L U R D U L U L L",
+            "output": "Wrong solution!"
+        },
+        {
+            "case": 43,
+            "input": "3 1 2 4 5 0 6 7 8\nU L U R U R L U D U R D L L D U L L D U R L L L U",
+            "output": "Wrong solution!"
+        },
+        {
+            "case": 44,
+            "input": "3 1 2 6 4 5 7 8 0\nL D L U R L R D L L L D R D U L U",
+            "output": "Wrong solution!"
+        },
+        {
+            "case": 45,
+            "input": "1 2 3 4 0 5 7 8 6\nR D L U D L D L R R D L L D R R R L D R D U R D",
+            "output": "Solution is good!"
+        },
+        {
+            "case": 46,
+            "input": "0 1 2 3 4 5 6 7 8\nU U R L D U",
+            "output": "Wrong solution!"
+        },
+        {
+            "case": 47,
+            "input": "0 1 2 3 4 5 6 7 8\nU D L L R L R R L L U D D U L R L U U L R D U L L",
+            "output": "Wrong solution!"
+        },
+        {
+            "case": 48,
+            "input": "3 1 2 4 5 0 6 7 8\nL L D U U U D R L U",
+            "output": "Wrong solution!"
+        },
+        {
+            "case": 49,
+            "input": "1 5 0 4 3 2 7 8 6\nD L U R L U L L R R D R D R",
+            "output": "Solution is good!"
+        },
+        {
+            "case": 50,
+            "input": "1 4 0 3 7 2 6 8 5\nD U D D U D R L U L R U U L L U",
+            "output": "Wrong solution!"
+        }
+    ]
+}

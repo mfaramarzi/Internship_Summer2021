@@ -1,0 +1,254 @@
+{
+    "tests": [
+        {
+            "case": 1,
+            "input": "100 45 35",
+            "output": "Obtuse"
+        },
+        {
+            "case": 2,
+            "input": "45 115 20",
+            "output": "Obtuse"
+        },
+        {
+            "case": 3,
+            "input": "70 50 60",
+            "output": "Acute"
+        },
+        {
+            "case": 4,
+            "input": "120 40 20",
+            "output": "Obtuse"
+        },
+        {
+            "case": 5,
+            "input": "55 20 105",
+            "output": "Obtuse"
+        },
+        {
+            "case": 6,
+            "input": "60 55 65",
+            "output": "Acute"
+        },
+        {
+            "case": 7,
+            "input": "35 105 40",
+            "output": "Obtuse"
+        },
+        {
+            "case": 8,
+            "input": "45 100 35",
+            "output": "Obtuse"
+        },
+        {
+            "case": 9,
+            "input": "30 80 70",
+            "output": "Acute"
+        },
+        {
+            "case": 10,
+            "input": "40 110 30",
+            "output": "Obtuse"
+        },
+        {
+            "case": 11,
+            "input": "25 70 85",
+            "output": "Acute"
+        },
+        {
+            "case": 12,
+            "input": "115 35 30",
+            "output": "Obtuse"
+        },
+        {
+            "case": 13,
+            "input": "15 95 70",
+            "output": "Obtuse"
+        },
+        {
+            "case": 14,
+            "input": "55 55 70",
+            "output": "Acute"
+        },
+        {
+            "case": 15,
+            "input": "15 130 35",
+            "output": "Obtuse"
+        },
+        {
+            "case": 16,
+            "input": "100 65 15",
+            "output": "Obtuse"
+        },
+        {
+            "case": 17,
+            "input": "35 90 55",
+            "output": "Right"
+        },
+        {
+            "case": 18,
+            "input": "50 110 20",
+            "output": "Obtuse"
+        },
+        {
+            "case": 19,
+            "input": "40 115 25",
+            "output": "Obtuse"
+        },
+        {
+            "case": 20,
+            "input": "85 65 30",
+            "output": "Acute"
+        },
+        {
+            "case": 21,
+            "input": "75 70 35",
+            "output": "Acute"
+        },
+        {
+            "case": 22,
+            "input": "90 65 25",
+            "output": "Right"
+        },
+        {
+            "case": 23,
+            "input": "65 90 25",
+            "output": "Right"
+        },
+        {
+            "case": 24,
+            "input": "120 20 40",
+            "output": "Obtuse"
+        },
+        {
+            "case": 25,
+            "input": "60 60 60",
+            "output": "Acute"
+        },
+        {
+            "case": 26,
+            "input": "85 70 25",
+            "output": "Acute"
+        },
+        {
+            "case": 27,
+            "input": "35 120 25",
+            "output": "Obtuse"
+        },
+        {
+            "case": 28,
+            "input": "70 80 30",
+            "output": "Acute"
+        },
+        {
+            "case": 29,
+            "input": "35 40 105",
+            "output": "Obtuse"
+        },
+        {
+            "case": 30,
+            "input": "95 70 15",
+            "output": "Obtuse"
+        },
+        {
+            "case": 31,
+            "input": "65 65 50",
+            "output": "Acute"
+        },
+        {
+            "case": 32,
+            "input": "20 55 105",
+            "output": "Obtuse"
+        },
+        {
+            "case": 33,
+            "input": "80 30 70",
+            "output": "Acute"
+        },
+        {
+            "case": 34,
+            "input": "35 15 130",
+            "output": "Obtuse"
+        },
+        {
+            "case": 35,
+            "input": "15 50 115",
+            "output": "Obtuse"
+        },
+        {
+            "case": 36,
+            "input": "20 65 95",
+            "output": "Obtuse"
+        },
+        {
+            "case": 37,
+            "input": "65 60 55",
+            "output": "Acute"
+        },
+        {
+            "case": 38,
+            "input": "125 40 15",
+            "output": "Obtuse"
+        },
+        {
+            "case": 39,
+            "input": "15 25 140",
+            "output": "Obtuse"
+        },
+        {
+            "case": 40,
+            "input": "30 70 80",
+            "output": "Acute"
+        },
+        {
+            "case": 41,
+            "input": "80 25 75",
+            "output": "Acute"
+        },
+        {
+            "case": 42,
+            "input": "25 70 85",
+            "output": "Acute"
+        },
+        {
+            "case": 43,
+            "input": "80 65 35",
+            "output": "Acute"
+        },
+        {
+            "case": 44,
+            "input": "25 50 105",
+            "output": "Obtuse"
+        },
+        {
+            "case": 45,
+            "input": "70 35 75",
+            "output": "Acute"
+        },
+        {
+            "case": 46,
+            "input": "115 40 25",
+            "output": "Obtuse"
+        },
+        {
+            "case": 47,
+            "input": "35 25 120",
+            "output": "Obtuse"
+        },
+        {
+            "case": 48,
+            "input": "65 40 75",
+            "output": "Acute"
+        },
+        {
+            "case": 49,
+            "input": "40 15 125",
+            "output": "Obtuse"
+        },
+        {
+            "case": 50,
+            "input": "65 80 35",
+            "output": "Acute"
+        }
+    ]
+}

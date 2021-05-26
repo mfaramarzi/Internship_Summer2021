@@ -1,0 +1,254 @@
+{
+    "tests": [
+        {
+            "case": 1,
+            "input": "1237252136",
+            "output": "1237252136 satisfies the criteria"
+        },
+        {
+            "case": 2,
+            "input": "-1869501108",
+            "output": "-1869501108 does not satisfy the criteria"
+        },
+        {
+            "case": 3,
+            "input": "1534115946",
+            "output": "1534115946 does not satisfy the criteria"
+        },
+        {
+            "case": 4,
+            "input": "-803842817",
+            "output": "-803842817 does not satisfy the criteria"
+        },
+        {
+            "case": 5,
+            "input": "-1607296602",
+            "output": "-1607296602 does not satisfy the criteria"
+        },
+        {
+            "case": 6,
+            "input": "-1535530608",
+            "output": "-1535530608 does not satisfy the criteria"
+        },
+        {
+            "case": 7,
+            "input": "-2146317019",
+            "output": "-2146317019 does not satisfy the criteria"
+        },
+        {
+            "case": 8,
+            "input": "-170589167",
+            "output": "-170589167 does not satisfy the criteria"
+        },
+        {
+            "case": 9,
+            "input": "235151409",
+            "output": "235151409 does not satisfy the criteria"
+        },
+        {
+            "case": 10,
+            "input": "1560363187",
+            "output": "1560363187 does not satisfy the criteria"
+        },
+        {
+            "case": 11,
+            "input": "-314980600",
+            "output": "-314980600 does not satisfy the criteria"
+        },
+        {
+            "case": 12,
+            "input": "-1205312601",
+            "output": "-1205312601 does not satisfy the criteria"
+        },
+        {
+            "case": 13,
+            "input": "970129515",
+            "output": "970129515 does not satisfy the criteria"
+        },
+        {
+            "case": 14,
+            "input": "564370481",
+            "output": "564370481 does not satisfy the criteria"
+        },
+        {
+            "case": 15,
+            "input": "-193968345",
+            "output": "-193968345 does not satisfy the criteria"
+        },
+        {
+            "case": 16,
+            "input": "1588017520",
+            "output": "1588017520 satisfies the criteria"
+        },
+        {
+            "case": 17,
+            "input": "-391865614",
+            "output": "-391865614 does not satisfy the criteria"
+        },
+        {
+            "case": 18,
+            "input": "-572420224",
+            "output": "-572420224 does not satisfy the criteria"
+        },
+        {
+            "case": 19,
+            "input": "348914611",
+            "output": "348914611 does not satisfy the criteria"
+        },
+        {
+            "case": 20,
+            "input": "295015799",
+            "output": "295015799 does not satisfy the criteria"
+        },
+        {
+            "case": 21,
+            "input": "-1466848249",
+            "output": "-1466848249 does not satisfy the criteria"
+        },
+        {
+            "case": 22,
+            "input": "-1182593521",
+            "output": "-1182593521 does not satisfy the criteria"
+        },
+        {
+            "case": 23,
+            "input": "-114143979",
+            "output": "-114143979 does not satisfy the criteria"
+        },
+        {
+            "case": 24,
+            "input": "-1801847730",
+            "output": "-1801847730 does not satisfy the criteria"
+        },
+        {
+            "case": 25,
+            "input": "-1972907600",
+            "output": "-1972907600 does not satisfy the criteria"
+        },
+        {
+            "case": 26,
+            "input": "-1898862879",
+            "output": "-1898862879 does not satisfy the criteria"
+        },
+        {
+            "case": 27,
+            "input": "932223243",
+            "output": "932223243 does not satisfy the criteria"
+        },
+        {
+            "case": 28,
+            "input": "637391505",
+            "output": "637391505 does not satisfy the criteria"
+        },
+        {
+            "case": 29,
+            "input": "-1774886409",
+            "output": "-1774886409 does not satisfy the criteria"
+        },
+        {
+            "case": 30,
+            "input": "1254489480",
+            "output": "1254489480 satisfies the criteria"
+        },
+        {
+            "case": 31,
+            "input": "488199067",
+            "output": "488199067 does not satisfy the criteria"
+        },
+        {
+            "case": 32,
+            "input": "1612112940",
+            "output": "1612112940 does not satisfy the criteria"
+        },
+        {
+            "case": 33,
+            "input": "247871406",
+            "output": "247871406 does not satisfy the criteria"
+        },
+        {
+            "case": 34,
+            "input": "-687463544",
+            "output": "-687463544 does not satisfy the criteria"
+        },
+        {
+            "case": 35,
+            "input": "777086539",
+            "output": "777086539 does not satisfy the criteria"
+        },
+        {
+            "case": 36,
+            "input": "1507122663",
+            "output": "1507122663 does not satisfy the criteria"
+        },
+        {
+            "case": 37,
+            "input": "575639071",
+            "output": "575639071 does not satisfy the criteria"
+        },
+        {
+            "case": 38,
+            "input": "-1483808233",
+            "output": "-1483808233 does not satisfy the criteria"
+        },
+        {
+            "case": 39,
+            "input": "-868662407",
+            "output": "-868662407 does not satisfy the criteria"
+        },
+        {
+            "case": 40,
+            "input": "296123521",
+            "output": "296123521 does not satisfy the criteria"
+        },
+        {
+            "case": 41,
+            "input": "-231442508",
+            "output": "-231442508 does not satisfy the criteria"
+        },
+        {
+            "case": 42,
+            "input": "-1692618760",
+            "output": "-1692618760 does not satisfy the criteria"
+        },
+        {
+            "case": 43,
+            "input": "-1860095134",
+            "output": "-1860095134 does not satisfy the criteria"
+        },
+        {
+            "case": 44,
+            "input": "687918789",
+            "output": "687918789 does not satisfy the criteria"
+        },
+        {
+            "case": 45,
+            "input": "302200124",
+            "output": "302200124 does not satisfy the criteria"
+        },
+        {
+            "case": 46,
+            "input": "475809085",
+            "output": "475809085 does not satisfy the criteria"
+        },
+        {
+            "case": 47,
+            "input": "-1700696571",
+            "output": "-1700696571 does not satisfy the criteria"
+        },
+        {
+            "case": 48,
+            "input": "-1339892429",
+            "output": "-1339892429 does not satisfy the criteria"
+        },
+        {
+            "case": 49,
+            "input": "-2033827570",
+            "output": "-2033827570 does not satisfy the criteria"
+        },
+        {
+            "case": 50,
+            "input": "-1859600719",
+            "output": "-1859600719 does not satisfy the criteria"
+        }
+    ]
+}

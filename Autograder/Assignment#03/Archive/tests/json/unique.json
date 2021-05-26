@@ -1,0 +1,254 @@
+{
+    "tests": [
+        {
+            "case": 1,
+            "input": "C2bba48 e72B1 e 98 3 5C ",
+            "output": "14"
+        },
+        {
+            "case": 2,
+            "input": "AaaaaAAAAAaaaA",
+            "output": "2"
+        },
+        {
+            "case": 3,
+            "input": "72f1f3EA59 AB84c9 E D5EdA",
+            "output": "16"
+        },
+        {
+            "case": 4,
+            "input": "d1f71  80F7fc9 9",
+            "output": "10"
+        },
+        {
+            "case": 5,
+            "input": "6BC19 ",
+            "output": "6"
+        },
+        {
+            "case": 6,
+            "input": "aDb70 8 fA44CedC81D4C00 5 D29EA8Ffdb3a05AA8fCAD822fC5b45d4 2Fcc",
+            "output": "21"
+        },
+        {
+            "case": 7,
+            "input": "f7b07D7a9",
+            "output": "7"
+        },
+        {
+            "case": 8,
+            "input": "Aa",
+            "output": "2"
+        },
+        {
+            "case": 9,
+            "input": "  5F2DF25Bd9d716 db7  79A3C7819fc3F418b  E1DBC",
+            "output": "20"
+        },
+        {
+            "case": 10,
+            "input": "2D9FC1A2cb7CCd8E64 fE84b50bD 626Ca9Cf671edAb6f48c49b57eFf 7F4Fc5 8",
+            "output": "21"
+        },
+        {
+            "case": 11,
+            "input": "7EdbeE3aF5D604 2f94D ",
+            "output": "17"
+        },
+        {
+            "case": 12,
+            "input": "59efe FA49805FB31C47a8 c 2D   E386bf81Dd67f2b4C  685 8EB1CEE5eB1847E Cef",
+            "output": "23"
+        },
+        {
+            "case": 13,
+            "input": "C4 8d2AaE6",
+            "output": "10"
+        },
+        {
+            "case": 14,
+            "input": "9e",
+            "output": "2"
+        },
+        {
+            "case": 15,
+            "input": "86DA E94c46d5455 ebd2Fd9  c",
+            "output": "15"
+        },
+        {
+            "case": 16,
+            "input": " 10aa1FAC51dFc61bCb",
+            "output": "12"
+        },
+        {
+            "case": 17,
+            "input": "    e56f211CeFcC4ef5b8ad452cd a3 Da4a33Dfe6Fd45FA7eEeaf2 7",
+            "output": "20"
+        },
+        {
+            "case": 18,
+            "input": "ddbF5DFC3C 8D2C1B3 b4E 3f7AF1d2 ac527c8a731cEC 4",
+            "output": "19"
+        },
+        {
+            "case": 19,
+            "input": "BB2902e44b ce4B2FfF04D    f fA7eD",
+            "output": "14"
+        },
+        {
+            "case": 20,
+            "input": "A16",
+            "output": "3"
+        },
+        {
+            "case": 21,
+            "input": " 2053  FceAF efFAD78BAb5BBE2c32  1c21C9 fBBADBF5c1B7B069 FFd6bc4ee9Ad0ab67B",
+            "output": "23"
+        },
+        {
+            "case": 22,
+            "input": "8 f 7192Ac 6524ccD0 e DF 3ce00 BA",
+            "output": "18"
+        },
+        {
+            "case": 23,
+            "input": "123",
+            "output": "3"
+        },
+        {
+            "case": 24,
+            "input": " Abb81b  Bb5 3067 2A448a3d5 6d D8FF9fCA6bDfc4 3918c126De 66f074b8 41ac",
+            "output": "22"
+        },
+        {
+            "case": 25,
+            "input": "bAa5Bfdba 75b1dA2 7d8AB ",
+            "output": "12"
+        },
+        {
+            "case": 26,
+            "input": " ",
+            "output": "1"
+        },
+        {
+            "case": 27,
+            "input": " 810f8BdB6 51cdbcFfaC6cde763a42fC92bc3E16 BdD 97FA6 ",
+            "output": "23"
+        },
+        {
+            "case": 28,
+            "input": "ef6FE0F6BdA0F71A b271F7bBaFEf c5DceFc05d 2 0abCcB6370ECB5",
+            "output": "20"
+        },
+        {
+            "case": 29,
+            "input": "    ",
+            "output": "1"
+        },
+        {
+            "case": 30,
+            "input": "B1cddb0b27b2B7 B092",
+            "output": "10"
+        },
+        {
+            "case": 31,
+            "input": "A3fCB6f4D045fbF1AE bDB51  D3e14 cBE  0 4ba0ed420c C2AaE7",
+            "output": "21"
+        },
+        {
+            "case": 32,
+            "input": "d4ea0aaA1 ee  4eAE8CFCe4aC 96 B2 ",
+            "output": "16"
+        },
+        {
+            "case": 33,
+            "input": "b e",
+            "output": "3"
+        },
+        {
+            "case": 34,
+            "input": "e8 3F3a A7C68 B  2B2aeA188Cd05DD 8 F38 cC0b093cd  A",
+            "output": "20"
+        },
+        {
+            "case": 35,
+            "input": " 03bcbe5A850a86 c58F f  9 00",
+            "output": "14"
+        },
+        {
+            "case": 36,
+            "input": "d182E8e9F52D a63db2c6e0fbc80B8FCB5e4D7aa2094 f4C83dA525e1eaDE250B49 7ade",
+            "output": "23"
+        },
+        {
+            "case": 37,
+            "input": "44c889d1CAb  61 D4 0ce 47ABC",
+            "output": "16"
+        },
+        {
+            "case": 38,
+            "input": "B fAb a  4B 2 ddE7D4f9Be80d5ae8231D6D5693 00f8b6 B26",
+            "output": "20"
+        },
+        {
+            "case": 39,
+            "input": "6e3c9F5 b0 bb9A f0badE9b",
+            "output": "15"
+        },
+        {
+            "case": 40,
+            "input": "E  2 B5e0 dD8d  a245c0713e9a9cEfc30 385AfB",
+            "output": "19"
+        },
+        {
+            "case": 41,
+            "input": "5F9 Ad7EF6d 89BebFfe4 250E445BB EFAd3f 3",
+            "output": "18"
+        },
+        {
+            "case": 42,
+            "input": "3b1A 9f",
+            "output": "7"
+        },
+        {
+            "case": 43,
+            "input": "CE4fC52DcF7F40a748  2D5Ab1 6ca0EE9 F1fa257259dCFBE5 b1C714ebd21F B6eB7F4B",
+            "output": "22"
+        },
+        {
+            "case": 44,
+            "input": "4C69DfC63160 e8DCde 4e9164D7D8 f4EeEAf38F EEd4CED9Cbf5f1f42 CdfC4 61",
+            "output": "20"
+        },
+        {
+            "case": 45,
+            "input": "5bFfCBb A13 a37046C4 c8D2bD0Dd51F9 AcD2eda",
+            "output": "22"
+        },
+        {
+            "case": 46,
+            "input": "b",
+            "output": "1"
+        },
+        {
+            "case": 47,
+            "input": "5Fb395f6fC A43b0B8C39DB Be65261Aa 085Cc18B 63b03BbA7a78E4",
+            "output": "22"
+        },
+        {
+            "case": 48,
+            "input": "9f5DA30  Cba9dc1454A44eae2 B3 8 84 a  fCade4176",
+            "output": "21"
+        },
+        {
+            "case": 49,
+            "input": "F2f8Fb1eAeA05FA21e7 51fC06d7D FF33FcB 7A7BbA6787BF a ",
+            "output": "20"
+        },
+        {
+            "case": 50,
+            "input": " B c8e 36d8 37D58bBd81 6cD383",
+            "output": "13"
+        }
+    ]
+}

@@ -1,0 +1,254 @@
+{
+    "tests": [
+        {
+            "case": 1,
+            "input": "1618193204",
+            "output": "1618193204 is even"
+        },
+        {
+            "case": 2,
+            "input": "-259926284",
+            "output": "-259926284 is even"
+        },
+        {
+            "case": 3,
+            "input": "889886904",
+            "output": "889886904 is even"
+        },
+        {
+            "case": 4,
+            "input": "350600983",
+            "output": "350600983 is odd"
+        },
+        {
+            "case": 5,
+            "input": "1360326970",
+            "output": "1360326970 is even"
+        },
+        {
+            "case": 6,
+            "input": "-661972219",
+            "output": "-661972219 is odd"
+        },
+        {
+            "case": 7,
+            "input": "-926146451",
+            "output": "-926146451 is odd"
+        },
+        {
+            "case": 8,
+            "input": "-824446111",
+            "output": "-824446111 is odd"
+        },
+        {
+            "case": 9,
+            "input": "1583640493",
+            "output": "1583640493 is odd"
+        },
+        {
+            "case": 10,
+            "input": "-1311509605",
+            "output": "-1311509605 is odd"
+        },
+        {
+            "case": 11,
+            "input": "968883489",
+            "output": "968883489 is odd"
+        },
+        {
+            "case": 12,
+            "input": "-1989267420",
+            "output": "-1989267420 is even"
+        },
+        {
+            "case": 13,
+            "input": "-103765694",
+            "output": "-103765694 is even"
+        },
+        {
+            "case": 14,
+            "input": "-1775397378",
+            "output": "-1775397378 is even"
+        },
+        {
+            "case": 15,
+            "input": "-213642474",
+            "output": "-213642474 is even"
+        },
+        {
+            "case": 16,
+            "input": "-1899831168",
+            "output": "-1899831168 is even"
+        },
+        {
+            "case": 17,
+            "input": "-190668863",
+            "output": "-190668863 is odd"
+        },
+        {
+            "case": 18,
+            "input": "-346320446",
+            "output": "-346320446 is even"
+        },
+        {
+            "case": 19,
+            "input": "-1802985552",
+            "output": "-1802985552 is even"
+        },
+        {
+            "case": 20,
+            "input": "-177097353",
+            "output": "-177097353 is odd"
+        },
+        {
+            "case": 21,
+            "input": "1980220003",
+            "output": "1980220003 is odd"
+        },
+        {
+            "case": 22,
+            "input": "-1517444238",
+            "output": "-1517444238 is even"
+        },
+        {
+            "case": 23,
+            "input": "-1734106363",
+            "output": "-1734106363 is odd"
+        },
+        {
+            "case": 24,
+            "input": "1438531135",
+            "output": "1438531135 is odd"
+        },
+        {
+            "case": 25,
+            "input": "2047844324",
+            "output": "2047844324 is even"
+        },
+        {
+            "case": 26,
+            "input": "1643216898",
+            "output": "1643216898 is even"
+        },
+        {
+            "case": 27,
+            "input": "184446259",
+            "output": "184446259 is odd"
+        },
+        {
+            "case": 28,
+            "input": "-135074696",
+            "output": "-135074696 is even"
+        },
+        {
+            "case": 29,
+            "input": "1846735104",
+            "output": "1846735104 is even"
+        },
+        {
+            "case": 30,
+            "input": "151154785",
+            "output": "151154785 is odd"
+        },
+        {
+            "case": 31,
+            "input": "1621311552",
+            "output": "1621311552 is even"
+        },
+        {
+            "case": 32,
+            "input": "-1960367683",
+            "output": "-1960367683 is odd"
+        },
+        {
+            "case": 33,
+            "input": "-259964735",
+            "output": "-259964735 is odd"
+        },
+        {
+            "case": 34,
+            "input": "-1095352668",
+            "output": "-1095352668 is even"
+        },
+        {
+            "case": 35,
+            "input": "-53851382",
+            "output": "-53851382 is even"
+        },
+        {
+            "case": 36,
+            "input": "823510609",
+            "output": "823510609 is odd"
+        },
+        {
+            "case": 37,
+            "input": "593979977",
+            "output": "593979977 is odd"
+        },
+        {
+            "case": 38,
+            "input": "629909061",
+            "output": "629909061 is odd"
+        },
+        {
+            "case": 39,
+            "input": "-1143796694",
+            "output": "-1143796694 is even"
+        },
+        {
+            "case": 40,
+            "input": "508572876",
+            "output": "508572876 is even"
+        },
+        {
+            "case": 41,
+            "input": "-532508442",
+            "output": "-532508442 is even"
+        },
+        {
+            "case": 42,
+            "input": "-1114230396",
+            "output": "-1114230396 is even"
+        },
+        {
+            "case": 43,
+            "input": "97353267",
+            "output": "97353267 is odd"
+        },
+        {
+            "case": 44,
+            "input": "-1356243028",
+            "output": "-1356243028 is even"
+        },
+        {
+            "case": 45,
+            "input": "-1598751041",
+            "output": "-1598751041 is odd"
+        },
+        {
+            "case": 46,
+            "input": "1308578314",
+            "output": "1308578314 is even"
+        },
+        {
+            "case": 47,
+            "input": "990829613",
+            "output": "990829613 is odd"
+        },
+        {
+            "case": 48,
+            "input": "-584076533",
+            "output": "-584076533 is odd"
+        },
+        {
+            "case": 49,
+            "input": "838691950",
+            "output": "838691950 is even"
+        },
+        {
+            "case": 50,
+            "input": "-247514817",
+            "output": "-247514817 is odd"
+        }
+    ]
+}

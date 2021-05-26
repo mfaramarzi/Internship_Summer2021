@@ -1,0 +1,254 @@
+{
+    "tests": [
+        {
+            "case": 1,
+            "input": "8",
+            "output": "Sorry, not odd"
+        },
+        {
+            "case": 2,
+            "input": "3",
+            "output": "* *\n *\n* *"
+        },
+        {
+            "case": 3,
+            "input": "5",
+            "output": "*   *\n * *\n  *\n * *\n*   *"
+        },
+        {
+            "case": 4,
+            "input": "2",
+            "output": "Sorry, not odd"
+        },
+        {
+            "case": 5,
+            "input": "5",
+            "output": "*   *\n * *\n  *\n * *\n*   *"
+        },
+        {
+            "case": 6,
+            "input": "3",
+            "output": "* *\n *\n* *"
+        },
+        {
+            "case": 7,
+            "input": "7",
+            "output": "*     *\n *   *\n  * *\n   *\n  * *\n *   *\n*     *"
+        },
+        {
+            "case": 8,
+            "input": "3",
+            "output": "* *\n *\n* *"
+        },
+        {
+            "case": 9,
+            "input": "5",
+            "output": "*   *\n * *\n  *\n * *\n*   *"
+        },
+        {
+            "case": 10,
+            "input": "1",
+            "output": "*"
+        },
+        {
+            "case": 11,
+            "input": "4",
+            "output": "Sorry, not odd"
+        },
+        {
+            "case": 12,
+            "input": "6",
+            "output": "Sorry, not odd"
+        },
+        {
+            "case": 13,
+            "input": "1",
+            "output": "*"
+        },
+        {
+            "case": 14,
+            "input": "5",
+            "output": "*   *\n * *\n  *\n * *\n*   *"
+        },
+        {
+            "case": 15,
+            "input": "1",
+            "output": "*"
+        },
+        {
+            "case": 16,
+            "input": "6",
+            "output": "Sorry, not odd"
+        },
+        {
+            "case": 17,
+            "input": "4",
+            "output": "Sorry, not odd"
+        },
+        {
+            "case": 18,
+            "input": "1",
+            "output": "*"
+        },
+        {
+            "case": 19,
+            "input": "5",
+            "output": "*   *\n * *\n  *\n * *\n*   *"
+        },
+        {
+            "case": 20,
+            "input": "6",
+            "output": "Sorry, not odd"
+        },
+        {
+            "case": 21,
+            "input": "4",
+            "output": "Sorry, not odd"
+        },
+        {
+            "case": 22,
+            "input": "4",
+            "output": "Sorry, not odd"
+        },
+        {
+            "case": 23,
+            "input": "9",
+            "output": "*       *\n *     *\n  *   *\n   * *\n    *\n   * *\n  *   *\n *     *\n*       *"
+        },
+        {
+            "case": 24,
+            "input": "4",
+            "output": "Sorry, not odd"
+        },
+        {
+            "case": 25,
+            "input": "3",
+            "output": "* *\n *\n* *"
+        },
+        {
+            "case": 26,
+            "input": "3",
+            "output": "* *\n *\n* *"
+        },
+        {
+            "case": 27,
+            "input": "4",
+            "output": "Sorry, not odd"
+        },
+        {
+            "case": 28,
+            "input": "2",
+            "output": "Sorry, not odd"
+        },
+        {
+            "case": 29,
+            "input": "2",
+            "output": "Sorry, not odd"
+        },
+        {
+            "case": 30,
+            "input": "4",
+            "output": "Sorry, not odd"
+        },
+        {
+            "case": 31,
+            "input": "6",
+            "output": "Sorry, not odd"
+        },
+        {
+            "case": 32,
+            "input": "7",
+            "output": "*     *\n *   *\n  * *\n   *\n  * *\n *   *\n*     *"
+        },
+        {
+            "case": 33,
+            "input": "9",
+            "output": "*       *\n *     *\n  *   *\n   * *\n    *\n   * *\n  *   *\n *     *\n*       *"
+        },
+        {
+            "case": 34,
+            "input": "6",
+            "output": "Sorry, not odd"
+        },
+        {
+            "case": 35,
+            "input": "8",
+            "output": "Sorry, not odd"
+        },
+        {
+            "case": 36,
+            "input": "6",
+            "output": "Sorry, not odd"
+        },
+        {
+            "case": 37,
+            "input": "2",
+            "output": "Sorry, not odd"
+        },
+        {
+            "case": 38,
+            "input": "9",
+            "output": "*       *\n *     *\n  *   *\n   * *\n    *\n   * *\n  *   *\n *     *\n*       *"
+        },
+        {
+            "case": 39,
+            "input": "2",
+            "output": "Sorry, not odd"
+        },
+        {
+            "case": 40,
+            "input": "7",
+            "output": "*     *\n *   *\n  * *\n   *\n  * *\n *   *\n*     *"
+        },
+        {
+            "case": 41,
+            "input": "1",
+            "output": "*"
+        },
+        {
+            "case": 42,
+            "input": "9",
+            "output": "*       *\n *     *\n  *   *\n   * *\n    *\n   * *\n  *   *\n *     *\n*       *"
+        },
+        {
+            "case": 43,
+            "input": "6",
+            "output": "Sorry, not odd"
+        },
+        {
+            "case": 44,
+            "input": "4",
+            "output": "Sorry, not odd"
+        },
+        {
+            "case": 45,
+            "input": "9",
+            "output": "*       *\n *     *\n  *   *\n   * *\n    *\n   * *\n  *   *\n *     *\n*       *"
+        },
+        {
+            "case": 46,
+            "input": "5",
+            "output": "*   *\n * *\n  *\n * *\n*   *"
+        },
+        {
+            "case": 47,
+            "input": "2",
+            "output": "Sorry, not odd"
+        },
+        {
+            "case": 48,
+            "input": "9",
+            "output": "*       *\n *     *\n  *   *\n   * *\n    *\n   * *\n  *   *\n *     *\n*       *"
+        },
+        {
+            "case": 49,
+            "input": "6",
+            "output": "Sorry, not odd"
+        },
+        {
+            "case": 50,
+            "input": "3",
+            "output": "* *\n *\n* *"
+        }
+    ]
+}

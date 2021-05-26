@@ -1,0 +1,254 @@
+{
+    "tests": [
+        {
+            "case": 1,
+            "input": "7 11 1862",
+            "output": "Friday"
+        },
+        {
+            "case": 2,
+            "input": "27 5 1670",
+            "output": "Tuesday"
+        },
+        {
+            "case": 3,
+            "input": "10 10 1605",
+            "output": "Monday"
+        },
+        {
+            "case": 4,
+            "input": "12 7 1630",
+            "output": "Friday"
+        },
+        {
+            "case": 5,
+            "input": "26 2 1687",
+            "output": "Wednesday"
+        },
+        {
+            "case": 6,
+            "input": "26 10 1982",
+            "output": "Tuesday"
+        },
+        {
+            "case": 7,
+            "input": "12 8 1737",
+            "output": "Monday"
+        },
+        {
+            "case": 8,
+            "input": "16 11 1920",
+            "output": "Tuesday"
+        },
+        {
+            "case": 9,
+            "input": "10 12 1819",
+            "output": "Friday"
+        },
+        {
+            "case": 10,
+            "input": "5 9 1795",
+            "output": "Saturday"
+        },
+        {
+            "case": 11,
+            "input": "25 8 1821",
+            "output": "Saturday"
+        },
+        {
+            "case": 12,
+            "input": "3 12 1841",
+            "output": "Friday"
+        },
+        {
+            "case": 13,
+            "input": "23 12 1632",
+            "output": "Thursday"
+        },
+        {
+            "case": 14,
+            "input": "16 7 1601",
+            "output": "Monday"
+        },
+        {
+            "case": 15,
+            "input": "15 12 1752",
+            "output": "Friday"
+        },
+        {
+            "case": 16,
+            "input": "18 12 1904",
+            "output": "Sunday"
+        },
+        {
+            "case": 17,
+            "input": "9 2 1835",
+            "output": "Monday"
+        },
+        {
+            "case": 18,
+            "input": "22 5 1991",
+            "output": "Wednesday"
+        },
+        {
+            "case": 19,
+            "input": "7 2 1649",
+            "output": "Sunday"
+        },
+        {
+            "case": 20,
+            "input": "14 9 1924",
+            "output": "Sunday"
+        },
+        {
+            "case": 21,
+            "input": "23 2 1877",
+            "output": "Friday"
+        },
+        {
+            "case": 22,
+            "input": "23 1 1851",
+            "output": "Thursday"
+        },
+        {
+            "case": 23,
+            "input": "10 4 1972",
+            "output": "Monday"
+        },
+        {
+            "case": 24,
+            "input": "1 9 1954",
+            "output": "Wednesday"
+        },
+        {
+            "case": 25,
+            "input": "19 3 1941",
+            "output": "Wednesday"
+        },
+        {
+            "case": 26,
+            "input": "20 7 1660",
+            "output": "Tuesday"
+        },
+        {
+            "case": 27,
+            "input": "4 12 1933",
+            "output": "Monday"
+        },
+        {
+            "case": 28,
+            "input": "26 11 1784",
+            "output": "Friday"
+        },
+        {
+            "case": 29,
+            "input": "2 12 1762",
+            "output": "Thursday"
+        },
+        {
+            "case": 30,
+            "input": "22 4 1960",
+            "output": "Friday"
+        },
+        {
+            "case": 31,
+            "input": "8 11 1837",
+            "output": "Wednesday"
+        },
+        {
+            "case": 32,
+            "input": "26 7 1846",
+            "output": "Sunday"
+        },
+        {
+            "case": 33,
+            "input": "12 2 1764",
+            "output": "Sunday"
+        },
+        {
+            "case": 34,
+            "input": "16 7 1655",
+            "output": "Friday"
+        },
+        {
+            "case": 35,
+            "input": "26 10 1849",
+            "output": "Friday"
+        },
+        {
+            "case": 36,
+            "input": "25 2 1957",
+            "output": "Monday"
+        },
+        {
+            "case": 37,
+            "input": "23 7 1699",
+            "output": "Thursday"
+        },
+        {
+            "case": 38,
+            "input": "14 7 1874",
+            "output": "Tuesday"
+        },
+        {
+            "case": 39,
+            "input": "12 10 1833",
+            "output": "Saturday"
+        },
+        {
+            "case": 40,
+            "input": "17 3 1998",
+            "output": "Tuesday"
+        },
+        {
+            "case": 41,
+            "input": "12 9 1739",
+            "output": "Saturday"
+        },
+        {
+            "case": 42,
+            "input": "9 9 1976",
+            "output": "Thursday"
+        },
+        {
+            "case": 43,
+            "input": "11 10 1856",
+            "output": "Saturday"
+        },
+        {
+            "case": 44,
+            "input": "1 4 1673",
+            "output": "Saturday"
+        },
+        {
+            "case": 45,
+            "input": "1 9 1984",
+            "output": "Saturday"
+        },
+        {
+            "case": 46,
+            "input": "4 11 1717",
+            "output": "Thursday"
+        },
+        {
+            "case": 47,
+            "input": "5 9 1646",
+            "output": "Wednesday"
+        },
+        {
+            "case": 48,
+            "input": "7 2 1975",
+            "output": "Friday"
+        },
+        {
+            "case": 49,
+            "input": "5 4 1598",
+            "output": "Sunday"
+        },
+        {
+            "case": 50,
+            "input": "15 6 1842",
+            "output": "Wednesday"
+        }
+    ]
+}
