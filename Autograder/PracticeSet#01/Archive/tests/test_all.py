@@ -59,109 +59,14 @@ class TestQuestions(unittest.TestCase):
                 o2 = truth[j].rstrip('\r\n')
                 # if the output is different
                 if o1 != o2:
-                    self.fail(self.fail_test_case(o1, tc['input'], tc['case'], o2, len(data['tests'])))
-
-    @weight(5)
-    def test01(self):
-        '''addition'''
-        self.run_tests('addition', 1)
-
-    @weight(5)
-    def test02(self):
-        '''subtraction'''
-        self.run_tests('subtraction', 2)
-
-    @weight(5)
-    def test03(self):
-        '''division'''
-        self.run_tests('division', 3)
-
-    @weight(5)
-    def test04(self):
-        '''all'''
-        self.run_tests('all', 4)
-
-    @weight(5)
-    def test05(self):
-        '''odd-or-even'''
-        self.run_tests('odd-or-even', 5)
-
-    @weight(5)
-    def test06(self):
-        '''pos-or-neg'''
-        self.run_tests('pos-or-neg', 6)
-
-    @weight(5)
-    def test07(self):
-        '''larger-than-100'''
-        self.run_tests('larger-than-100', 7)
-
-    @weight(5)
-    def test08(self):
-        '''last-digit-is-9'''
-        self.run_tests('last-digit-is-9', 8)
-
-    @weight(5)
-    def test09(self):
-        '''privileges'''
-        self.run_tests('privileges', 9)
-
-    @weight(5)
-    def test10(self):
-        '''word-for-number'''
-        self.run_tests('word-for-number', 10)
-
-    @weight(5)
-    def test11(self):
-        '''date-converter'''
-        self.run_tests('date-converter', 11)
-
-    @weight(5)
-    def test12(self):
-        '''average'''
-        self.run_tests('average', 12)
-
-    @weight(5)
-    def test13(self):
-        '''smallest-number'''
-        self.run_tests('smallest-number', 13)
-
-    @weight(5)
-    def test14(self):
-        '''which-quadrant'''
-        self.run_tests('which-quadrant', 14)
-
-    @weight(5)
-    def test15(self):
-        '''is-it-cold-out'''
-        self.run_tests('is-it-cold-out', 15)
-
-    @weight(5)
-    def test16(self):
-        '''temperature-converter'''
-        self.run_tests('temperature-converter', 16)
-
-    @weight(5)
-    def test17(self):
-        '''grades'''
-        self.run_tests('grades', 17)
-
-    @weight(7.5)
-    def test18(self):
-        '''day-of-the-week'''
-        self.run_tests('day-of-the-week', 18)
-
-    @weight(7.5)
-    def test19(self):
-        '''triangles'''
-        self.run_tests('triangles', 19)
+                    self.fail(self.fail_test_case(o1, tc['input'], tc['case'], o2, len(data['tests'])))    
 
     @weight(10)
-    def test20(self):
+    def test1(self):
         '''HelloWorld'''
-        self.run_tests('HelloWorld', 20)
+        self.run_tests('HelloWorld', 1)
 
     @weight(10)
-    def test21(self):
+    def test2(self):
         '''iostream'''
-        self.run_tests('iostream', 21)
+        self.run_tests('iostream', 2)
