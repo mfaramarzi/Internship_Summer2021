@@ -70,3 +70,7 @@ class TestQuestions(unittest.TestCase):
     def test2(self):
         '''iostream'''
         self.run_tests('iostream', 2)
+    @weight(10)
+    def test3(self):
+        '''SpiralMatrix'''
+        self.run_tests('SpiralMatrix', 3)

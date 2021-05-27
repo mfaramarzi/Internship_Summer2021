@@ -1,0 +1,146 @@
+import json
+import random
+
+def SpiralMatrix(matrix, numRows, numColumns):
+    outString = ""
+    index = 0
+    topRow = 0 
+    botRow = numRows -1
+    leftCol = 0
+    rightCol = numColumns-1    
+    n = 0
+
+    if(numRows == 0 and numColumns == 0):
+        return ""
+
+    if(numRows == 0 or numColumns == 0):
+      for i in range(len(matrix)-1):
+        outString += str(matrix[i]) + ", "
+      outString += str(matrix[len(matrix)-1])
+      return outString
+
+    while True:    
+      print(n)
+      for col in range(leftCol, rightCol + 1):            
+          num = matrix[col + topRow * numColumns]          
+          
+          outString += str(num)           
+          n+=1
+          if n == numRows * numColumns:               
+              return outString
+          outString+=(',')
+          outString+=(' ')            
+      topRow += 1
+
+      # -------------^^^------------------------------
+
+      for row in range(topRow, botRow + 1):           
+
+          num = matrix[rightCol + row * numColumns]          
+          outString+=(str(num))
+  
+          n+=1
+          if n == numRows * numColumns:                
+              return outString
+          outString+=(',')
+          outString+=(' ')
+    
+      rightCol -= 1
+
+      # -------------^^^------------------------------
+
+      for col in range(rightCol, leftCol - 1,-1):            
+
+          num = matrix[col + botRow * numColumns]           
+          outString += str(num)
+          
+          n+=1
+          if n == numRows * numColumns:                
+              return outString
+          outString+=(',')
+          outString+=(' ')
+    
+      botRow -= 1
+
+      # ------------^^^-------------------------------
+
+
+      # bot to top
+      for row in range(botRow, topRow - 1,-1):            
+
+          num = matrix[leftCol + row * numColumns]           
+          outString += str(num)
+          n+=1
+          if n == numRows * numColumns:
+              
+              return outString
+          outString+=(',')
+          outString+=(' ')
+    
+      leftCol += 1
+    
+    return outString
+
+def generateMatrices():
+  random.seed(500)
+  
+  matrices = []
+  numRows, numCols = generateNumbers()
+  for i in range(50):
+    
+    matrix_length = numRows[i] * numCols[i]
+    matrices.append([random.randint(-10000,10000) for _ in range(matrix_length)])    
+  
+  numRows[0] = 0
+  numCols[0] = 0
+  matrices[0] = []
+  numRows[1] = numRows[1] * numCols[1]
+  numCols[1] = 0
+  
+  return matrices, numRows, numCols
+
+def generateNumbers():
+  random.seed(500)
+  numRows = [random.randint(2,5) for _ in range(50)]
+  numCols = [random.randint(2,5) for _ in range(50)]
+  return numRows, numCols
+
+
+def generateCase(case, matrix, numRows, numCols):
+  print("case ", case)
+  new_case = {}
+
+  strMatrix = ""
+  for i in range(len(matrix)):
+    strMatrix += str(matrix[i]) + " "
+
+  new_case["case"] = case
+  new_case["input"] = "%s %s %s" % (numRows, numCols, strMatrix) 
+ #print(numRows, numCols, matrix)
+  #print(SpiralMatrix(matrix,numRows,numCols))
+
+  result = SpiralMatrix(matrix,numRows,numCols)
+  new_case["output"] = "%s" % (result)
+
+  return new_case
+
+def generateTestCases():
+
+  
+  matrices, numRows, numCols = generateMatrices()
+
+  test_cases = {}
+  tests = []    
+
+  for i in range(len(matrices)):
+    tests.append(generateCase(i + 1, matrices[i], numRows[i], numCols[i]))
+  
+  test_cases["tests"] = tests
+
+  return test_cases
+
+test_cases = generateTestCases()
+with open('SpiralMatrix.json', 'w') as json_file:
+  json.dump(test_cases, json_file, indent = 4, sort_keys = True)
+
+
