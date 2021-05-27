@@ -74,3 +74,7 @@ class TestQuestions(unittest.TestCase):
     def test3(self):
         '''SpiralMatrix'''
         self.run_tests('SpiralMatrix', 3)
+    @weight(10)
+    def test4(self):
+        '''Vector2D'''
+        self.run_tests('Vector2D', 4)
