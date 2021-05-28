@@ -38,7 +38,7 @@ int main()
   std::string angle;
 
   std::cin >> v1.x >> v1.y >> v2.x >> v2.y;
-  std::cout.precision(3);
+  std::cout.precision(4);
   std::cout << std::fixed;
   float dot = v1.dotProduct(v2);
 

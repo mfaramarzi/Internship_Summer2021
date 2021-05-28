@@ -91,16 +91,21 @@ def generateMatrices():
   numCols[1] = 1
   matrices[1] = [1]
 
+  numRows[2] = 3
+  numCols[2] = 3
+  matrices[2] = [0,1,2,3,4,5,6,7,8]
 
-
-  numCols[2] = numRows[2] * numCols[2]
-  numRows[2] = 1  
+  numCols[3] = 6
+  numRows[3] = 1  
+  matrices[3] = [2,4,6,1,3,-5]
+  
+  
   return matrices, numRows, numCols
 
 def generateNumbers():
   random.seed(500)
-  numRows = [random.randint(2,10) for _ in range(50)]
-  numCols = [random.randint(2,10) for _ in range(50)]
+  numRows = [random.randint(3,8) for _ in range(50)]
+  numCols = [random.randint(3,8) for _ in range(50)]
   return numRows, numCols
 
 
@@ -121,7 +126,7 @@ def generateCase(case, matrix, numRows, numCols):
     strMatrix += "\n"
 
   new_case["case"] = case
-  new_case["input"] = "%s %s %s" % (numRows, numCols, strMatrix) 
+  new_case["input"] = "%s %s\n%s" % (numRows, numCols, strMatrix) 
  #print(numRows, numCols, matrix)
   #print(SpiralMatrix(matrix,numRows,numCols))
 

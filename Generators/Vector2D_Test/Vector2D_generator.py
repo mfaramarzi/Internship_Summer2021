@@ -54,7 +54,7 @@ def generateCase(case, v1 : Vector2D, v2 : Vector2D):
   else:
     angle = "Obtuse"  
 
-  new_case["output"] = "Length of v1: {:.3f}\nLength of v2: {:.3f}\nTheir normalized dot product is {:.3f} and they are {}".format(v1.length(), v2.length(), dotProduct, angle)
+  new_case["output"] = "Length of v1: {:.4f}\nLength of v2: {:.4f}\nTheir normalized dot product is {:.4f} and they are {}".format(v1.length(), v2.length(), dotProduct, angle)
 
   return new_case
 

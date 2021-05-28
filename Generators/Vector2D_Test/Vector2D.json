@@ -3,252 +3,252 @@
         {
             "case": 1,
             "input": "0 1 1 0",
-            "output": "Length of v1: 1.000\nLength of v2: 1.000\nTheir normalized dot product is 0.000 and they are Perpendicular"
+            "output": "Length of v1: 1.0000\nLength of v2: 1.0000\nTheir normalized dot product is 0.0000 and they are Perpendicular"
         },
         {
             "case": 2,
             "input": "25798 11411 29381 -40440",
-            "output": "Length of v1: 28209.001\nLength of v2: 49986.366\nTheir normalized dot product is 0.210 and they are Acute"
+            "output": "Length of v1: 28209.0008\nLength of v2: 49986.3658\nTheir normalized dot product is 0.2103 and they are Acute"
         },
         {
             "case": 3,
             "input": "-16494 33296 41882 12461",
-            "output": "Length of v1: 37157.444\nLength of v2: 43696.435\nTheir normalized dot product is -0.170 and they are Obtuse"
+            "output": "Length of v1: 37157.4441\nLength of v2: 43696.4352\nTheir normalized dot product is -0.1699 and they are Obtuse"
         },
         {
             "case": 4,
             "input": "49085 41432 -19033 -18405",
-            "output": "Length of v1: 64233.541\nLength of v2: 26476.388\nTheir normalized dot product is -0.998 and they are Obtuse"
+            "output": "Length of v1: 64233.5415\nLength of v2: 26476.3879\nTheir normalized dot product is -0.9977 and they are Obtuse"
         },
         {
             "case": 5,
             "input": "-722 -22103 41764 -14664",
-            "output": "Length of v1: 22114.789\nLength of v2: 44263.581\nTheir normalized dot product is 0.300 and they are Acute"
+            "output": "Length of v1: 22114.7890\nLength of v2: 44263.5809\nTheir normalized dot product is 0.3003 and they are Acute"
         },
         {
             "case": 6,
             "input": "-35844 -5524 29952 797",
-            "output": "Length of v1: 36267.160\nLength of v2: 29962.602\nTheir normalized dot product is -0.992 and they are Obtuse"
+            "output": "Length of v1: 36267.1602\nLength of v2: 29962.6019\nTheir normalized dot product is -0.9920 and they are Obtuse"
         },
         {
             "case": 7,
             "input": "24822 46732 -12538 12215",
-            "output": "Length of v1: 52915.135\nLength of v2: 17504.504\nTheir normalized dot product is 0.280 and they are Acute"
+            "output": "Length of v1: 52915.1350\nLength of v2: 17504.5042\nTheir normalized dot product is 0.2803 and they are Acute"
         },
         {
             "case": 8,
             "input": "-38030 -47628 10435 -27056",
-            "output": "Length of v1: 60948.399\nLength of v2: 28998.558\nTheir normalized dot product is 0.505 and they are Acute"
+            "output": "Length of v1: 60948.3985\nLength of v2: 28998.5579\nTheir normalized dot product is 0.5046 and they are Acute"
         },
         {
             "case": 9,
             "input": "-23453 -6700 25936 14561",
-            "output": "Length of v1: 24391.253\nLength of v2: 29743.887\nTheir normalized dot product is -0.973 and they are Obtuse"
+            "output": "Length of v1: 24391.2527\nLength of v2: 29743.8871\nTheir normalized dot product is -0.9729 and they are Obtuse"
         },
         {
             "case": 10,
             "input": "-19611 2191 22447 -49691",
-            "output": "Length of v1: 19733.013\nLength of v2: 54525.804\nTheir normalized dot product is -0.510 and they are Obtuse"
+            "output": "Length of v1: 19733.0130\nLength of v2: 54525.8039\nTheir normalized dot product is -0.5103 and they are Obtuse"
         },
         {
             "case": 11,
             "input": "-11352 -43595 -49437 -30959",
-            "output": "Length of v1: 45048.773\nLength of v2: 58330.752\nTheir normalized dot product is 0.727 and they are Acute"
+            "output": "Length of v1: 45048.7728\nLength of v2: 58330.7522\nTheir normalized dot product is 0.7272 and they are Acute"
         },
         {
             "case": 12,
             "input": "49089 -40929 35429 -39447",
-            "output": "Length of v1: 63913.324\nLength of v2: 53021.504\nTheir normalized dot product is 0.990 and they are Acute"
+            "output": "Length of v1: 63913.3238\nLength of v2: 53021.5037\nTheir normalized dot product is 0.9896 and they are Acute"
         },
         {
             "case": 13,
             "input": "-7391 8744 31659 16262",
-            "output": "Length of v1: 11449.210\nLength of v2: 35591.360\nTheir normalized dot product is -0.225 and they are Obtuse"
+            "output": "Length of v1: 11449.2103\nLength of v2: 35591.3603\nTheir normalized dot product is -0.2253 and they are Obtuse"
         },
         {
             "case": 14,
             "input": "31737 -9685 49027 12740",
-            "output": "Length of v1: 33181.868\nLength of v2: 50655.250\nTheir normalized dot product is 0.852 and they are Acute"
+            "output": "Length of v1: 33181.8685\nLength of v2: 50655.2498\nTheir normalized dot product is 0.8523 and they are Acute"
         },
         {
             "case": 15,
             "input": "-943 -32467 -35322 -5657",
-            "output": "Length of v1: 32480.692\nLength of v2: 35772.131\nTheir normalized dot product is 0.187 and they are Acute"
+            "output": "Length of v1: 32480.6918\nLength of v2: 35772.1307\nTheir normalized dot product is 0.1867 and they are Acute"
         },
         {
             "case": 16,
             "input": "13912 -34709 -5306 4409",
-            "output": "Length of v1: 37393.294\nLength of v2: 6898.762\nTheir normalized dot product is -0.879 and they are Obtuse"
+            "output": "Length of v1: 37393.2939\nLength of v2: 6898.7620\nTheir normalized dot product is -0.8794 and they are Obtuse"
         },
         {
             "case": 17,
             "input": "-24970 -1490 42553 -30684",
-            "output": "Length of v1: 25014.416\nLength of v2: 52462.040\nTheir normalized dot product is -0.775 and they are Obtuse"
+            "output": "Length of v1: 25014.4158\nLength of v2: 52462.0402\nTheir normalized dot product is -0.7748 and they are Obtuse"
         },
         {
             "case": 18,
             "input": "20117 -28737 -11863 -1574",
-            "output": "Length of v1: 35078.610\nLength of v2: 11966.965\nTheir normalized dot product is -0.461 and they are Obtuse"
+            "output": "Length of v1: 35078.6097\nLength of v2: 11966.9647\nTheir normalized dot product is -0.4608 and they are Obtuse"
         },
         {
             "case": 19,
             "input": "-1027 -2023 -48476 25542",
-            "output": "Length of v1: 2268.757\nLength of v2: 54793.397\nTheir normalized dot product is -0.015 and they are Obtuse"
+            "output": "Length of v1: 2268.7569\nLength of v2: 54793.3969\nTheir normalized dot product is -0.0152 and they are Obtuse"
         },
         {
             "case": 20,
             "input": "-6002 8233 34011 2454",
-            "output": "Length of v1: 10188.537\nLength of v2: 34099.417\nTheir normalized dot product is -0.529 and they are Obtuse"
+            "output": "Length of v1: 10188.5373\nLength of v2: 34099.4170\nTheir normalized dot product is -0.5294 and they are Obtuse"
         },
         {
             "case": 21,
             "input": "-26069 18846 12553 -24881",
-            "output": "Length of v1: 32167.755\nLength of v2: 27868.297\nTheir normalized dot product is -0.888 and they are Obtuse"
+            "output": "Length of v1: 32167.7552\nLength of v2: 27868.2969\nTheir normalized dot product is -0.8881 and they are Obtuse"
         },
         {
             "case": 22,
             "input": "-39504 29451 41080 43889",
-            "output": "Length of v1: 49274.003\nLength of v2: 60114.979\nTheir normalized dot product is -0.111 and they are Obtuse"
+            "output": "Length of v1: 49274.0035\nLength of v2: 60114.9792\nTheir normalized dot product is -0.1115 and they are Obtuse"
         },
         {
             "case": 23,
             "input": "-49005 -30870 -43254 23622",
-            "output": "Length of v1: 57917.587\nLength of v2: 49283.947\nTheir normalized dot product is 0.487 and they are Acute"
+            "output": "Length of v1: 57917.5874\nLength of v2: 49283.9467\nTheir normalized dot product is 0.4871 and they are Acute"
         },
         {
             "case": 24,
             "input": "11286 15135 47314 -45422",
-            "output": "Length of v1: 18879.672\nLength of v2: 65587.900\nTheir normalized dot product is -0.124 and they are Obtuse"
+            "output": "Length of v1: 18879.6722\nLength of v2: 65587.9004\nTheir normalized dot product is -0.1239 and they are Obtuse"
         },
         {
             "case": 25,
             "input": "44552 -26099 17168 23749",
-            "output": "Length of v1: 51633.695\nLength of v2: 29304.526\nTheir normalized dot product is 0.096 and they are Acute"
+            "output": "Length of v1: 51633.6954\nLength of v2: 29304.5257\nTheir normalized dot product is 0.0959 and they are Acute"
         },
         {
             "case": 26,
             "input": "28618 12577 21577 -49768",
-            "output": "Length of v1: 31259.732\nLength of v2: 54244.085\nTheir normalized dot product is -0.005 and they are Obtuse"
+            "output": "Length of v1: 31259.7321\nLength of v2: 54244.0850\nTheir normalized dot product is -0.0050 and they are Obtuse"
         },
         {
             "case": 27,
             "input": "36811 9057 -6310 45132",
-            "output": "Length of v1: 37908.824\nLength of v2: 45570.972\nTheir normalized dot product is 0.102 and they are Acute"
+            "output": "Length of v1: 37908.8244\nLength of v2: 45570.9724\nTheir normalized dot product is 0.1022 and they are Acute"
         },
         {
             "case": 28,
             "input": "22408 1640 -2621 -3773",
-            "output": "Length of v1: 22467.934\nLength of v2: 4594.036\nTheir normalized dot product is -0.629 and they are Obtuse"
+            "output": "Length of v1: 22467.9341\nLength of v2: 4594.0364\nTheir normalized dot product is -0.6289 and they are Obtuse"
         },
         {
             "case": 29,
             "input": "-26898 34778 -11595 576",
-            "output": "Length of v1: 43966.029\nLength of v2: 11609.298\nTheir normalized dot product is 0.650 and they are Acute"
+            "output": "Length of v1: 43966.0288\nLength of v2: 11609.2980\nTheir normalized dot product is 0.6503 and they are Acute"
         },
         {
             "case": 30,
             "input": "25193 21124 -49411 -42632",
-            "output": "Length of v1: 32877.205\nLength of v2: 65260.511\nTheir normalized dot product is -1.000 and they are Obtuse"
+            "output": "Length of v1: 32877.2052\nLength of v2: 65260.5114\nTheir normalized dot product is -0.9999 and they are Obtuse"
         },
         {
             "case": 31,
             "input": "9299 48842 44016 31641",
-            "output": "Length of v1: 49719.336\nLength of v2: 54208.497\nTheir normalized dot product is 0.725 and they are Acute"
+            "output": "Length of v1: 49719.3359\nLength of v2: 54208.4969\nTheir normalized dot product is 0.7253 and they are Acute"
         },
         {
             "case": 32,
             "input": "-13909 19009 14196 5796",
-            "output": "Length of v1: 23554.243\nLength of v2: 15333.624\nTheir normalized dot product is -0.242 and they are Obtuse"
+            "output": "Length of v1: 23554.2430\nLength of v2: 15333.6242\nTheir normalized dot product is -0.2416 and they are Obtuse"
         },
         {
             "case": 33,
             "input": "46469 -13682 49436 31625",
-            "output": "Length of v1: 48441.357\nLength of v2: 58686.103\nTheir normalized dot product is 0.656 and they are Acute"
+            "output": "Length of v1: 48441.3572\nLength of v2: 58686.1033\nTheir normalized dot product is 0.6559 and they are Acute"
         },
         {
             "case": 34,
             "input": "34754 38773 14871 23395",
-            "output": "Length of v1: 52069.051\nLength of v2: 27721.340\nTheir normalized dot product is 0.986 and they are Acute"
+            "output": "Length of v1: 52069.0507\nLength of v2: 27721.3395\nTheir normalized dot product is 0.9865 and they are Acute"
         },
         {
             "case": 35,
             "input": "29901 29004 25983 31617",
-            "output": "Length of v1: 41656.954\nLength of v2: 40923.721\nTheir normalized dot product is 0.994 and they are Acute"
+            "output": "Length of v1: 41656.9540\nLength of v2: 40923.7215\nTheir normalized dot product is 0.9937 and they are Acute"
         },
         {
             "case": 36,
             "input": "-42047 12193 -25937 37992",
-            "output": "Length of v1: 43779.213\nLength of v2: 46001.305\nTheir normalized dot product is 0.772 and they are Acute"
+            "output": "Length of v1: 43779.2126\nLength of v2: 46001.3047\nTheir normalized dot product is 0.7715 and they are Acute"
         },
         {
             "case": 37,
             "input": "-4676 -15094 -19346 -4325",
-            "output": "Length of v1: 15801.703\nLength of v2: 19823.555\nTheir normalized dot product is 0.497 and they are Acute"
+            "output": "Length of v1: 15801.7028\nLength of v2: 19823.5552\nTheir normalized dot product is 0.4972 and they are Acute"
         },
         {
             "case": 38,
             "input": "-5688 -3142 -46984 -14232",
-            "output": "Length of v1: 6498.116\nLength of v2: 49092.220\nTheir normalized dot product is 0.978 and they are Acute"
+            "output": "Length of v1: 6498.1157\nLength of v2: 49092.2202\nTheir normalized dot product is 0.9779 and they are Acute"
         },
         {
             "case": 39,
             "input": "42400 -42634 -39599 -38317",
-            "output": "Length of v1: 60128.346\nLength of v2: 55102.389\nTheir normalized dot product is -0.014 and they are Obtuse"
+            "output": "Length of v1: 60128.3457\nLength of v2: 55102.3891\nTheir normalized dot product is -0.0137 and they are Obtuse"
         },
         {
             "case": 40,
             "input": "-35754 -4360 44541 -42853",
-            "output": "Length of v1: 36018.858\nLength of v2: 61808.416\nTheir normalized dot product is -0.631 and they are Obtuse"
+            "output": "Length of v1: 36018.8578\nLength of v2: 61808.4160\nTheir normalized dot product is -0.6314 and they are Obtuse"
         },
         {
             "case": 41,
             "input": "42869 23037 -2727 13630",
-            "output": "Length of v1: 48666.770\nLength of v2: 13900.123\nTheir normalized dot product is 0.291 and they are Acute"
+            "output": "Length of v1: 48666.7703\nLength of v2: 13900.1233\nTheir normalized dot product is 0.2913 and they are Acute"
         },
         {
             "case": 42,
             "input": "-16063 29606 44610 41530",
-            "output": "Length of v1: 33682.862\nLength of v2: 60949.102\nTheir normalized dot product is 0.250 and they are Acute"
+            "output": "Length of v1: 33682.8622\nLength of v2: 60949.1017\nTheir normalized dot product is 0.2499 and they are Acute"
         },
         {
             "case": 43,
             "input": "10833 -25972 -41934 -5055",
-            "output": "Length of v1: 28140.694\nLength of v2: 42237.583\nTheir normalized dot product is -0.272 and they are Obtuse"
+            "output": "Length of v1: 28140.6943\nLength of v2: 42237.5826\nTheir normalized dot product is -0.2717 and they are Obtuse"
         },
         {
             "case": 44,
             "input": "20267 -6830 -21740 -21536",
-            "output": "Length of v1: 21386.916\nLength of v2: 30601.093\nTheir normalized dot product is -0.448 and they are Obtuse"
+            "output": "Length of v1: 21386.9163\nLength of v2: 30601.0931\nTheir normalized dot product is -0.4485 and they are Obtuse"
         },
         {
             "case": 45,
             "input": "41562 4981 33385 18272",
-            "output": "Length of v1: 41859.410\nLength of v2: 38058.169\nTheir normalized dot product is 0.928 and they are Acute"
+            "output": "Length of v1: 41859.4100\nLength of v2: 38058.1688\nTheir normalized dot product is 0.9281 and they are Acute"
         },
         {
             "case": 46,
             "input": "-44058 25810 -26487 722",
-            "output": "Length of v1: 51061.370\nLength of v2: 26496.839\nTheir normalized dot product is 0.876 and they are Acute"
+            "output": "Length of v1: 51061.3696\nLength of v2: 26496.8385\nTheir normalized dot product is 0.8763 and they are Acute"
         },
         {
             "case": 47,
             "input": "-2464 -14703 47950 -44167",
-            "output": "Length of v1: 14908.035\nLength of v2: 65191.459\nTheir normalized dot product is 0.547 and they are Acute"
+            "output": "Length of v1: 14908.0349\nLength of v2: 65191.4595\nTheir normalized dot product is 0.5466 and they are Acute"
         },
         {
             "case": 48,
             "input": "-47043 -45187 -13946 -4294",
-            "output": "Length of v1: 65229.662\nLength of v2: 14592.099\nTheir normalized dot product is 0.893 and they are Acute"
+            "output": "Length of v1: 65229.6621\nLength of v2: 14592.0990\nTheir normalized dot product is 0.8931 and they are Acute"
         },
         {
             "case": 49,
             "input": "-46060 -46157 -5494 -49623",
-            "output": "Length of v1: 65207.302\nLength of v2: 49926.207\nTheir normalized dot product is 0.781 and they are Acute"
+            "output": "Length of v1: 65207.3021\nLength of v2: 49926.2072\nTheir normalized dot product is 0.7813 and they are Acute"
         },
         {
             "case": 50,
             "input": "-46710 -27137 35602 -17881",
-            "output": "Length of v1: 54020.745\nLength of v2: 39840.087\nTheir normalized dot product is -0.547 and they are Obtuse"
+            "output": "Length of v1: 54020.7448\nLength of v2: 39840.0874\nTheir normalized dot product is -0.5472 and they are Obtuse"
         }
     ]
 }
