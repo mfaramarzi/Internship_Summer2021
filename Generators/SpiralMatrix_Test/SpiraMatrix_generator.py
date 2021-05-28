@@ -10,17 +10,10 @@ def SpiralMatrix(matrix, numRows, numColumns):
     rightCol = numColumns-1    
     n = 0
 
-    if(numRows == 0 and numColumns == 0):
-        return ""
-
     if(numRows == 0 or numColumns == 0):
-      for i in range(len(matrix)-1):
-        outString += str(matrix[i]) + ", "
-      outString += str(matrix[len(matrix)-1])
-      return outString
+        return ""    
 
-    while True:    
-      print(n)
+    while True:         
       for col in range(leftCol, rightCol + 1):            
           num = matrix[col + topRow * numColumns]          
           
@@ -34,8 +27,7 @@ def SpiralMatrix(matrix, numRows, numColumns):
 
       # -------------^^^------------------------------
 
-      for row in range(topRow, botRow + 1):           
-
+      for row in range(topRow, botRow + 1):
           num = matrix[rightCol + row * numColumns]          
           outString+=(str(num))
   
@@ -94,15 +86,21 @@ def generateMatrices():
   numRows[0] = 0
   numCols[0] = 0
   matrices[0] = []
-  numRows[1] = numRows[1] * numCols[1]
-  numCols[1] = 0
-  
+
+  numRows[1] = 1
+  numCols[1] = 1
+  matrices[1] = [1]
+
+
+
+  numCols[2] = numRows[2] * numCols[2]
+  numRows[2] = 1  
   return matrices, numRows, numCols
 
 def generateNumbers():
   random.seed(500)
-  numRows = [random.randint(2,5) for _ in range(50)]
-  numCols = [random.randint(2,5) for _ in range(50)]
+  numRows = [random.randint(2,10) for _ in range(50)]
+  numCols = [random.randint(2,10) for _ in range(50)]
   return numRows, numCols
 
 
@@ -111,8 +109,16 @@ def generateCase(case, matrix, numRows, numCols):
   new_case = {}
 
   strMatrix = ""
-  for i in range(len(matrix)):
-    strMatrix += str(matrix[i]) + " "
+  # for i in range(len(matrix)):
+  #   strMatrix += str(matrix[i]) + " "
+
+  for i in range(numRows):
+    for j in range(numCols):
+      if j == numCols - 1:
+        strMatrix += str(matrix[j + i * numCols])
+      else:
+        strMatrix += str(matrix[j + i * numCols]) + " "
+    strMatrix += "\n"
 
   new_case["case"] = case
   new_case["input"] = "%s %s %s" % (numRows, numCols, strMatrix) 

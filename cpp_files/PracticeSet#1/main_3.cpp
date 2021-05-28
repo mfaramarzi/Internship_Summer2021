@@ -1,12 +1,4 @@
 #include <iostream>
-/*
-Assumptions:
-1. Works for positive and negative integers
-2. Integers have a maximum of 10 digits
-3. Since OutBuffer is a char array, it cannot hold numbers >=10 in a single index.
-	To work around this, I looped through numbers >= 10 and stored each digit in an integer array (using modulus 10)
-	I then iterated through the array backwards and stored each digit into OutBuffer
-*/
 
 // Function that, given a matrix of integers, builds a string with the entries of that matrix appended in clockwise order.
 void BuildStringFromMatrix(int* Matrix, int NumRows, int NumColumns, char* OutBuffer)
@@ -15,53 +7,13 @@ void BuildStringFromMatrix(int* Matrix, int NumRows, int NumColumns, char* OutBu
 	unsigned int index = 0;
 	int n = 0;
 
-	if (NumRows == 0 && NumColumns == 0)
+	if (NumRows == 0 || NumColumns == 0)
 	{
 		OutBuffer[0] = '\0';
 		return;
 	}
 
-	// Outter loop iterates through whole matrix - n is incremented inside loop
-	if (NumRows == 0 || NumColumns == 0)
-	{
-		for (int i = 0; i < NumRows + NumColumns; i++)
-		{
-			// current column + current row * numColumns treats 1d array like a 2d array
-			int number = Matrix[i];
-			if (number < 0)
-			{
-				number *= -1;
-				OutBuffer[index++] = '-';
-			}
-
-			if (number < 10)
-			{
-				OutBuffer[index++] = number + 48;
-			}
-			else
-			{
-				int tempIntArr[10];
-				unsigned int len = 0;
-				for (; number > 0; number /= 10)
-				{
-					tempIntArr[len++] = number % 10;
-				}
-
-				for (int i = len - 1; i >= 0; i--)
-				{
-					OutBuffer[index++] = tempIntArr[i] + 48;
-				}
-			}
-			//n++;
-			if (++n == NumRows + NumColumns)
-			{
-				OutBuffer[index] = '\0';
-				return;
-			}
-			OutBuffer[index++] = ',';
-			OutBuffer[index++] = ' ';
-		}
-	}
+	// Outter loop iterates through whole matrix - n is incremented inside loop	
 
 	else
 	{
@@ -249,19 +201,9 @@ int main()
 	std::cin >> numRows >> numCols;
 	int* matrix = nullptr;
 
-	if (numRows == 0 && numCols == 0)
+	if (numRows == 0 || numCols == 0)
 	{
-
-	}
-	else if (numRows == 0 || numCols == 0)
-	{
-		matrix = new int[numRows + numCols];
-		for (int i = 0; i < numRows + numCols; i++)
-		{
-			std::cin >> matrix[i];
-		}
-
-
+		matrix = new int[1];
 	}
 	else
 	{
@@ -273,13 +215,9 @@ int main()
 
 	}
 
-
-
-
-
 	char* outBuffer = new char[1000];
 
 	BuildStringFromMatrix(matrix, numRows, numCols, outBuffer);
 
-	std::cout << outBuffer;
+	std::cout << outBuffer << std::endl;
 }
