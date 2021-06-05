@@ -78,3 +78,7 @@ class TestQuestions(unittest.TestCase):
     def test4(self):
         '''Vector2D'''
         self.run_tests('Vector2D', 4)
+    @weight(10)
+    def test5(self):
+        '''antiArithmetic'''
+        self.run_tests('antiArithmetic', 5)
