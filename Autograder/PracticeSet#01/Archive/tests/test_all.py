@@ -82,3 +82,7 @@ class TestQuestions(unittest.TestCase):
     def test5(self):
         '''antiArithmetic'''
         self.run_tests('antiArithmetic', 5)
+    @weight(10)
+    def test6(self):
+        '''AboveAverage'''
+        self.run_tests('AboveAverage', 6)
