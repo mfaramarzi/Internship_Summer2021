@@ -2,98 +2,135 @@ import json
 import random
 import math
 
-def antiArithmetic(n, v, pos):
-    for i in range(len(v)):
-        pos[v[i]] = i
+class TestWrapper:
 
-    for s in range(n):
-        for d in range(-n,n+1):
-            if (s+d+d >= 0 and s + d + d < n):
-                if (pos[s] < pos[s+d] and pos[s+d] < pos[s+d+d]):
-                   
-                    return "no"
+    def __init__(self, num : int):
+        self.numCases = num
+        self.strList : list[StrPair]= []
 
-    
-    return "yes"
+class StrPair:
 
-def solve(input : str):
-    cases = []
-    save = 0
+    def __init__(self, str1 : str, str2 : str):        
+        self.str1 = str1
+        self.str2 = str2
 
-    solution = []
-
-    for i in range(len(input)):
-        if input[i] == "\n":
-            cases.append(input[save:i])
-            save = i+1
-
-    caseList = [case.split() for case in cases]  
-   
-    numbers = []
-    for case in caseList:
-        numbers.append(int(case[0].strip(':')) )
-        case.pop(0)
-
-    for i in range(len(caseList)):
-        num = numbers[i]
-        vList = [int(case) for case in caseList[i]]
-        posList = [-1] * num
-
-        solution.append(antiArithmetic(num,vList,posList))
-    solStr = "".join([str(sol) + "\n" for sol in solution])
-    
-    solStr = solStr[:-1:]
-    
-
-    return solStr
-        
-
-    
-
-def generateStrings(count):
+def buildStrPair(count : int):
 
     random.seed(count)
-
-    numCases = random.randint(1,5)
-    cases = ""
-
-    for i in range(numCases):
-        randNum = random.randint(3,100)
-        currentCase = [n for n in range(0,randNum)]
-        random.shuffle(currentCase)    
     
-        caseStr = str(randNum) + ": " + ' '.join([str(num) + " " for num in currentCase])
-        cases += (caseStr) + "\n"
-    cases += "0"
+    stringLen = random.randint(1,100)
+
+    str1 = ""
+    str2 = ""
+    chars = ['0','1','?']
+
+    for i in range(stringLen):
+        str1 += (chars[random.randint(0,2)])
+        str2 += (chars[random.randint(0,1)])
+        
+    return StrPair(str1, str2)
+
+
+def buildTestWrapper(count : int):
+    random.seed(count)   
+    currentCase = TestWrapper(random.randint(1,200))
+
+    for i in range(currentCase.numCases):
+        currentCase.strList.append(buildStrPair(count + i))
+
+    return currentCase
+
+        
+def solve(currentTest : TestWrapper):
+    outStrList : list[str] = []
+    for i in range(currentTest.numCases):
+        currentPair : StrPair = currentTest.strList[i]
+        
+        s1 = currentPair.str1
+        s2 = currentPair.str2
+
+        a = 0
+        b = 0
+        c = 0
+        d = 0
+        e = 0
+        f = 0
+
+        for j in range(len(s1)):
+            if(s1[j] == '0' and s2[j] == '0'): a+=1
+            if(s1[j] == '0' and s2[j] == '1'): b+=1
+            if(s1[j] == '1' and s2[j] == '0'): c+=1
+            if(s1[j] == '1' and s2[j] == '1'): d+=1
+            if(s1[j] == '?' and s2[j] == '0'): e+=1
+            if(s1[j] == '?' and s2[j] == '1'): f+=1
+
+        ans = 0
+        ans = min(b,c)
+        b -= ans
+        c -= ans
+
+        if b > 0:
+            ans += b + e + f
+        else:
+            if f < c:
+                ans = -1
+            else:
+                ans += c
+                e -= c
+
+                ans += c
+                ans += e+f
+
+        outStrList.append("Case {}: {}\n".format(i + 1,ans))
+    return outStrList
+
+
+
+
+def generateCase(case,  input : TestWrapper):
+
+    inputStr = str(input.numCases) + "\n"
+
+    for i in range(input.numCases):
+        inputStr += input.strList[i].str1 + "\n" + input.strList[i].str2 + "\n"
+    inputStr.strip("\n")
+
+    solution = solve(input)
+
+    solStr = "".join([str(sol) for sol in solution])
+
+    print(solStr)
+
+
+    new_case = {}
+
+    new_case["case"] = case
+    new_case["input"] = "%s" % (inputStr)     
+   
+    new_case["output"] = solStr
+
     
-    return cases
 
-def generateCase(case, input):
-
-  new_case = {}
-
-  new_case["case"] = case
-  new_case["input"] = "%s" % (input) 
-
-  solution = solve(input)
- 
-  new_case["output"] = solution
-  
-  print(new_case)
-
-  return new_case
+    return new_case
 
 def generateTestCases():
 
     myTestCases = []
     for i in range(50):
-        myTestCases.append(generateProgressions())   
-    myTestCases[0] =  "3: 0 2 1 \n5: 2 0 1 3 4 \n6: 2 4 3 5 0 1 \n0"
-    
+        myTestCases.append(buildTestWrapper(i))   
+
+    firstTest = TestWrapper(0)   
+    firstTest.strList.append(StrPair("01??00","001010"))
+    firstTest.strList.append(StrPair("01","10"))
+    firstTest.strList.append(StrPair("110001","000000"))
+    firstTest.numCases = 3
+
+    myTestCases[0] = firstTest
+
     test_cases = {}
     tests = []
     for i in range(len(myTestCases)):
-        tests.append(generateCase(i + 1, str(myTestCases[i])))
+        tests.append(generateCase(i + 1, myTestCases[i]))
     
     
     test_cases["tests"] = tests
@@ -101,6 +138,18 @@ def generateTestCases():
     return test_cases
 
 test_cases = generateTestCases()
-with open('test.json', 'w') as json_file:
+with open('bits_equalizer.json', 'w') as json_file:
   json.dump(test_cases, json_file, indent = 4, sort_keys = True)
 
+# str1, str2 = generateStrings(1)
+# sp = StrPair(str1,str2)
+
+# sp = buildStrPair(1)
+# print(sp.str1)
+
+# print("-----")
+
+# tw = buildTestWrapper(2)
+# sp1 = tw.strList[0].str1
+# sp2 = tw.strList[0].str2
+# print(sp1,sp2)

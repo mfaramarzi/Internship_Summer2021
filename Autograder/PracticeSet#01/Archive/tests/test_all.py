@@ -86,3 +86,7 @@ class TestQuestions(unittest.TestCase):
     def test6(self):
         '''AboveAverage'''
         self.run_tests('AboveAverage', 6)
+    @weight(10)
+    def test7(self):
+        '''bits_equalizer'''
+        self.run_tests('bits_equalizer', 7)
