@@ -90,3 +90,7 @@ class TestQuestions(unittest.TestCase):
     def test7(self):
         '''bits_equalizer'''
         self.run_tests('bits_equalizer', 7)
+    @weight(10)
+    def test8(self):
+        '''2048'''
+        self.run_tests('2048', 8)
