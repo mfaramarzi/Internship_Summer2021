@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+# Set up autograder files
+#
+# Submitted files folder
+studentfile="/autograder/submission/"
+# Output file (in JSON format for gradescope)
+jsonfile="/autograder/results/results.json"
+#
+# compile submitted file
+cd /autograder/source
+for i in {1..7}; do 
+    if [ -f "$studentfile/main_$i.cpp" ]; then
+        g++ -Wall -std=c++11 "$studentfile/main_$i.cpp" -o "prog-$i" 2> "error-$i.log"
+    else
+        echo "$studentfile/main_$i.cpp not found" > "error-$i.log"
+    fi
+done
+# run tests
+python3 run_tests.py > $jsonfile

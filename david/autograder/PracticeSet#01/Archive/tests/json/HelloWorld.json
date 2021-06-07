@@ -1,0 +1,10 @@
+{
+    "tests": [
+        {
+            "case": 1,
+            "input": "",
+            "output": "Hello World!"
+        }
+        
+    ]
+}
