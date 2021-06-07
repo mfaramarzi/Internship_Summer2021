@@ -70,3 +70,23 @@ class TestQuestions(unittest.TestCase):
     def test2(self):
         '''iostream'''
         self.run_tests('iostream', 2)
+    @weight(10)
+    def test3(self):
+        '''SpiralMatrix'''
+        self.run_tests('SpiralMatrix', 3)
+    @weight(10)
+    def test4(self):
+        '''Vector2D'''
+        self.run_tests('Vector2D', 4)
+    @weight(10)
+    def test5(self):
+        '''antiArithmetic'''
+        self.run_tests('antiArithmetic', 5)
+    @weight(10)
+    def test6(self):
+        '''AboveAverage'''
+        self.run_tests('AboveAverage', 6)
+    @weight(10)
+    def test7(self):
+        '''bits_equalizer'''
+        self.run_tests('bits_equalizer', 7)
