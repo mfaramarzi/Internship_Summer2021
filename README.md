@@ -1,5 +1,8 @@
 # Potential Autograder Questions
 
+mpfeifer1's solutions to Kattis problems:
+https://github.com/mpfeifer1/Kattis
+
 ### Easy
 |Question|Link|Status|Initial|
 |---|---|---|---|
