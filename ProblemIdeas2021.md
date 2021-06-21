@@ -19,6 +19,7 @@
 |Conquest Campaign|https://open.kattis.com/problems/conquestcampaign|Not Done|
 |Backspace| https://open.kattis.com/problems/backspace|Not Done|
 |Bits Equalizer|https://open.kattis.com/problems/bitsequalizer|Completed|
+|str_hash|A03 - Modify to take in two strings, output if hash values are equal and if strings are equal|Not Done|
 
 ### Hard
 |Question|Link|Status|
