@@ -9,7 +9,7 @@
 |Modulo| https://open.kattis.com/problems/modulo|Not Done|
 |Battle Simulation|https://open.kattis.com/problems/battlesimulation|Not Done|
 |Above Average|https://open.kattis.com/problems/aboveaverage|Completed|
-|Dot Product| ... |Completed|
+|Dot Product| Classify Angle between two vectors |Completed|
 
 ### Medium
 |Question|Link|Status|
