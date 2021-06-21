@@ -8,6 +8,7 @@
 |Nasty Hacks| https://open.kattis.com/problems/nastyhacks|Not Done|
 |Modulo| https://open.kattis.com/problems/modulo|Not Done|
 |Battle Simulation|https://open.kattis.com/problems/battlesimulation|Not Done|
+|Above Average|https://open.kattis.com/problems/aboveaverage|Completed|
 
 ### Medium
 |Question|Link|Status|
@@ -16,9 +17,14 @@
 |Battleship| https://open.kattis.com/problems/battleship|Not Done|
 |Conquest Campaign|https://open.kattis.com/problems/conquestcampaign|Not Done|
 |Backspace| https://open.kattis.com/problems/backspace|Not Done|
+|Bits Equalizer|https://open.kattis.com/problems/bitsequalizer|Completed|
 
 ### Hard
 |Question|Link|Status|
 |---|---|---|
 |Gravity|https://open.kattis.com/problems/gravity|Not Done|
+|AntiArithmetic|https://open.kattis.com/problems/antiarithmetic|Completed|
+|2048|https://open.kattis.com/problems/2048|Completed|
+
+### Very Hard
 
