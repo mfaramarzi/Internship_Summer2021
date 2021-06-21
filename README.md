@@ -27,10 +27,10 @@ https://github.com/mpfeifer1/Kattis
 ### Medium
 |Question|Link|Status|Initial|
 |---|---|---|---|
-|All Different Directions| https://open.kattis.com/problems/alldifferentdirections|Not Done|---|
-|Battleship| https://open.kattis.com/problems/battleship|Not Done|---|
+|All Different Directions| https://open.kattis.com/problems/alldifferentdirections|Not Done|DJP|
+|Battleship| https://open.kattis.com/problems/battleship|Not Done|DJP|
 |Conquest Campaign|https://open.kattis.com/problems/conquestcampaign|Not Done|---|
-|Backspace| https://open.kattis.com/problems/backspace|Not Done|---|
+|Backspace| https://open.kattis.com/problems/backspace|Not Done|DJP|
 |Bits Equalizer|https://open.kattis.com/problems/bitsequalizer|Completed|DJP|
 |str_hash|A03 - Modify to take in two strings, output if hash values are equal and if strings are equal|Not Done|---|
 |strip function|Function to remove leading and trailing whitespace from string|Not Done|---|
@@ -40,12 +40,12 @@ https://github.com/mpfeifer1/Kattis
 |Swap To Sort|https://open.kattis.com/problems/swaptosort|Not Done|---|
 |Non-boring Sequence|https://open.kattis.com/problems/nonboringsequences|Not Done|---|
 |Paintings|https://open.kattis.com/problems/paintings|Not Done|---|
-|Queens|https://open.kattis.com/problems/queens|Not Done|---|
+|Queens|https://open.kattis.com/problems/queens|Not Done|DJP|
 
 ### Hard
 |Question|Link|Status|Initial|
 |---|---|---|---|
-|Gravity|https://open.kattis.com/problems/gravity|Not Done|---|
+|Gravity|https://open.kattis.com/problems/gravity|Not Done|DJP|
 |AntiArithmetic|https://open.kattis.com/problems/antiarithmetic|Completed|DJP|
 |2048|https://open.kattis.com/problems/2048|Completed|DJP|
 |Spiral Matrix| https://leetcode.com/problems/spiral-matrix|Completed|DJP|
