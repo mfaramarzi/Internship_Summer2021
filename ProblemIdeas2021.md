@@ -9,6 +9,7 @@
 |Modulo| https://open.kattis.com/problems/modulo|Not Done|
 |Battle Simulation|https://open.kattis.com/problems/battlesimulation|Not Done|
 |Above Average|https://open.kattis.com/problems/aboveaverage|Completed|
+|Dot Product| ... |Completed|
 
 ### Medium
 |Question|Link|Status|
@@ -25,6 +26,7 @@
 |Gravity|https://open.kattis.com/problems/gravity|Not Done|
 |AntiArithmetic|https://open.kattis.com/problems/antiarithmetic|Completed|
 |2048|https://open.kattis.com/problems/2048|Completed|
+|Spiral Matrix| https://leetcode.com/problems/spiral-matrix|Completed|
 
 ### Very Hard
-
+|Spiral Matrix 3|https://leetcode.com/problems/spiral-matrix-iii/|Needs solution, Not Done|
