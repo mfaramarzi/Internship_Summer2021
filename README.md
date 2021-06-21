@@ -11,8 +11,8 @@ https://github.com/mpfeifer1/Kattis
 |Nasty Hacks| https://open.kattis.com/problems/nastyhacks|Not Done|---|
 |Modulo| https://open.kattis.com/problems/modulo|Not Done|---|
 |Battle Simulation|https://open.kattis.com/problems/battlesimulation|Not Done|---|
-|Above Average|https://open.kattis.com/problems/aboveaverage|Completed|---|
-|Dot Product| Classify Angle between two vectors |Completed|---|
+|Above Average|https://open.kattis.com/problems/aboveaverage|Completed|DJP|
+|Dot Product| Classify Angle between two vectors |Completed|DJP|
 |Conformity|https://open.kattis.com/problems/conformity|Not Done|---|
 |Booking A Room| https://open.kattis.com/problems/bookingaroom|Not Done|---|
 |Secure Doors|https://open.kattis.com/problems/securedoors|Not Done|---|
@@ -22,6 +22,7 @@ https://github.com/mpfeifer1/Kattis
 |Death And Taxes|https://open.kattis.com/problems/deathtaxes|Not Done|---|
 |Not Amused|https://open.kattis.com/problems/notamused|Not Done|---|
 |Recipes|https://open.kattis.com/problems/recipes|Not Done|---|
+|IO Test|Take in variables as input, print to standard output|Completed|DJP|
 
 ### Medium
 |Question|Link|Status|Initial|
@@ -30,7 +31,7 @@ https://github.com/mpfeifer1/Kattis
 |Battleship| https://open.kattis.com/problems/battleship|Not Done|---|
 |Conquest Campaign|https://open.kattis.com/problems/conquestcampaign|Not Done|---|
 |Backspace| https://open.kattis.com/problems/backspace|Not Done|---|
-|Bits Equalizer|https://open.kattis.com/problems/bitsequalizer|Completed|---|
+|Bits Equalizer|https://open.kattis.com/problems/bitsequalizer|Completed|DJP|
 |str_hash|A03 - Modify to take in two strings, output if hash values are equal and if strings are equal|Not Done|---|
 |strip function|Function to remove leading and trailing whitespace from string|Not Done|---|
 |Squawk|https://open.kattis.com/problems/squawk|Not Done|---|
@@ -45,9 +46,9 @@ https://github.com/mpfeifer1/Kattis
 |Question|Link|Status|Initial|
 |---|---|---|---|
 |Gravity|https://open.kattis.com/problems/gravity|Not Done|---|
-|AntiArithmetic|https://open.kattis.com/problems/antiarithmetic|Completed|---|
-|2048|https://open.kattis.com/problems/2048|Completed|---|
-|Spiral Matrix| https://leetcode.com/problems/spiral-matrix|Completed|---|
+|AntiArithmetic|https://open.kattis.com/problems/antiarithmetic|Completed|DJP|
+|2048|https://open.kattis.com/problems/2048|Completed|DJP|
+|Spiral Matrix| https://leetcode.com/problems/spiral-matrix|Completed|DJP|
 |Cuckoo Hashing|https://open.kattis.com/problems/cuckoo|Not Done|---|
 
 ### Very Hard
