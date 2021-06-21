@@ -1,24 +1,24 @@
 # Potential Autograder Questions
 
 ### Easy
-|Question|Link|Status|
-|---|---|---|
-|Quality-Adjusted Life-Year| https://open.kattis.com/problems/qaly|Not Done|
-|Rating Problems| https://open.kattis.com/problems/ratingproblems|Not Done|
-|Nasty Hacks| https://open.kattis.com/problems/nastyhacks|Not Done|
-|Modulo| https://open.kattis.com/problems/modulo|Not Done|
-|Battle Simulation|https://open.kattis.com/problems/battlesimulation|Not Done|
-|Above Average|https://open.kattis.com/problems/aboveaverage|Completed|
-|Dot Product| Classify Angle between two vectors |Completed|
-|Conformity|https://open.kattis.com/problems/conformity|Not Done|
-|Booking A Room| https://open.kattis.com/problems/bookingaroom|Not Done|
-|Secure Doors|https://open.kattis.com/problems/securedoors|Not Done|
-|Beat The Spread|https://open.kattis.com/problems/beatspread|Not Done|
-|Button Bashing|https://open.kattis.com/problems/buttonbashing|Not Done|
-|Brexit|https://open.kattis.com/problems/brexit|Not Done|
-|Death And Taxes|https://open.kattis.com/problems/deathtaxes|Not Done|
-|Not Amused|https://open.kattis.com/problems/notamused|Not Done|
-|Recipes|https://open.kattis.com/problems/recipes|Not Done|
+|Question|Link|Status|Initial|
+|---|---|---|---|
+|Quality-Adjusted Life-Year| https://open.kattis.com/problems/qaly|Not Done|---|
+|Rating Problems| https://open.kattis.com/problems/ratingproblems|Not Done|---|
+|Nasty Hacks| https://open.kattis.com/problems/nastyhacks|Not Done|---|
+|Modulo| https://open.kattis.com/problems/modulo|Not Done|---|
+|Battle Simulation|https://open.kattis.com/problems/battlesimulation|Not Done|---|
+|Above Average|https://open.kattis.com/problems/aboveaverage|Completed|---|
+|Dot Product| Classify Angle between two vectors |Completed|---|
+|Conformity|https://open.kattis.com/problems/conformity|Not Done|---|
+|Booking A Room| https://open.kattis.com/problems/bookingaroom|Not Done|---|
+|Secure Doors|https://open.kattis.com/problems/securedoors|Not Done|---|
+|Beat The Spread|https://open.kattis.com/problems/beatspread|Not Done|---|
+|Button Bashing|https://open.kattis.com/problems/buttonbashing|Not Done|---|
+|Brexit|https://open.kattis.com/problems/brexit|Not Done|---|
+|Death And Taxes|https://open.kattis.com/problems/deathtaxes|Not Done|---|
+|Not Amused|https://open.kattis.com/problems/notamused|Not Done|---|
+|Recipes|https://open.kattis.com/problems/recipes|Not Done|---|
 
 ### Medium
 |Question|Link|Status|
