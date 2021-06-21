@@ -1,55 +1,53 @@
-### todo
+# Potential Autograder Questions
 
-mpfeifer1's solutions to Kattis problems:
-https://github.com/mpfeifer1/Kattis
+### Easy
+|Question|Link|Status|Initial|
+|---|---|---|---|
+|Quality-Adjusted Life-Year| https://open.kattis.com/problems/qaly|Not Done|---|
+|Rating Problems| https://open.kattis.com/problems/ratingproblems|Not Done|---|
+|Nasty Hacks| https://open.kattis.com/problems/nastyhacks|Not Done|---|
+|Modulo| https://open.kattis.com/problems/modulo|Not Done|---|
+|Battle Simulation|https://open.kattis.com/problems/battlesimulation|Not Done|---|
+|Above Average|https://open.kattis.com/problems/aboveaverage|Completed|---|
+|Dot Product| Classify Angle between two vectors |Completed|---|
+|Conformity|https://open.kattis.com/problems/conformity|Not Done|---|
+|Booking A Room| https://open.kattis.com/problems/bookingaroom|Not Done|---|
+|Secure Doors|https://open.kattis.com/problems/securedoors|Not Done|---|
+|Beat The Spread|https://open.kattis.com/problems/beatspread|Not Done|---|
+|Button Bashing|https://open.kattis.com/problems/buttonbashing|Not Done|---|
+|Brexit|https://open.kattis.com/problems/brexit|Not Done|---|
+|Death And Taxes|https://open.kattis.com/problems/deathtaxes|Not Done|---|
+|Not Amused|https://open.kattis.com/problems/notamused|Not Done|---|
+|Recipes|https://open.kattis.com/problems/recipes|Not Done|---|
 
-// list of assignment problems
+### Medium
+|Question|Link|Status|Initial|
+|---|---|---|---|
+|All Different Directions| https://open.kattis.com/problems/alldifferentdirections|Not Done|---|
+|Battleship| https://open.kattis.com/problems/battleship|Not Done|---|
+|Conquest Campaign|https://open.kattis.com/problems/conquestcampaign|Not Done|---|
+|Backspace| https://open.kattis.com/problems/backspace|Not Done|---|
+|Bits Equalizer|https://open.kattis.com/problems/bitsequalizer|Completed|---|
+|str_hash|A03 - Modify to take in two strings, output if hash values are equal and if strings are equal|Not Done|---|
+|strip function|Function to remove leading and trailing whitespace from string|Not Done|---|
+|Squawk|https://open.kattis.com/problems/squawk|Not Done|---|
+|Turtle Master|https://open.kattis.com/problems/turtlemaster|Not Done|---|
+|Canonical Coin System|https://open.kattis.com/problems/canonical|Not Done|---|
+|Swap To Sort|https://open.kattis.com/problems/swaptosort|Not Done|---|
+|Non-boring Sequence|https://open.kattis.com/problems/nonboringsequences|Not Done|---|
+|Paintings|https://open.kattis.com/problems/paintings|Not Done|---|
+|Queens|https://open.kattis.com/problems/queens|Not Done|---|
 
-/* Solutions to most if not all problems */
-/* can be found in mpfeifer1's repo */
+### Hard
+|Question|Link|Status|Initial|
+|---|---|---|---|
+|Gravity|https://open.kattis.com/problems/gravity|Not Done|---|
+|AntiArithmetic|https://open.kattis.com/problems/antiarithmetic|Completed|---|
+|2048|https://open.kattis.com/problems/2048|Completed|---|
+|Spiral Matrix| https://leetcode.com/problems/spiral-matrix|Completed|---|
+|Cuckoo Hashing|https://open.kattis.com/problems/cuckoo|Not Done|---|
 
-Booking a Room: https://open.kattis.com/problems/bookingaroom ~ {Status: **Not done**}
-  A pretty simple problem that might be useful for Assignment 1 
-
-Secure Doors: https://open.kattis.com/problems/securedoors ~ {Status: **Not done**}
-  Another simple problem. If memory serves, this was a CSC110 assignment in Python
- 
-Beat the Spread!: https://open.kattis.com/problems/beatspread ~ {Status: **Finished**}
-  A fun problem, probably good for Assignment 1 or 2
-
-Turtle Master: https://open.kattis.com/problems/turtlemaster {Status: **Not done**}
-
-Button Bashing: https://open.kattis.com/problems/buttonbashing {Status: **Not done**}
-
-Antiarithmetic?: https://open.kattis.com/problems/antiarithmetic ~ {Status: **Not done**}
-
-Brexit: https://open.kattis.com/problems/brexit {Status: **Not done**}
-
-Above Average: https://open.kattis.com/problems/aboveaverage {Status: **Not done**}
-
-Cuckoo Hashing: https://open.kattis.com/problems/cuckoo {Status: **Not done**}
-
-Death and Taxes: https://open.kattis.com/problems/deathtaxes {Status: **Not done**}
-
-Bits Equalizer: https://open.kattis.com/problems/bitsequalizer {Status: **Not done**}
-
-2048: https://open.kattis.com/problems/2048 {Status: **Not done**}
- 
-Conformity: https://open.kattis.com/problems/conformity {Status: **Not done**}
-
-Squawk Virus: https://open.kattis.com/problems/squawk ~ {Status: **Not done**}
-
-Canonical Coin Systems: https://open.kattis.com/problems/canonical {Status: **Not done**}
-
-Swap to Sort: https://open.kattis.com/problems/swaptosort ~ {Status: **Not done**}
-
-Not Amused: https://open.kattis.com/problems/notamused {Status: **Not done**}
-
-Non-Boring Sequences: https://open.kattis.com/problems/nonboringsequences {Status: **Not done**}
-
-Paintings: https://open.kattis.com/problems/paintings ~ {Status: **Not done**}
-
-Verify This, Your Majesty: https://open.kattis.com/problems/queens ~ {Status: **Not done**}
-
-Scaling Recipes: https://open.kattis.com/problems/recipes ~ {Status: **Not done**}
- 
+### Very Hard
+|Question|Link|Status|Initial|
+|---|---|---|---|
+|Spiral Matrix 3|https://leetcode.com/problems/spiral-matrix-iii|Needs solution, Not Done|---|
