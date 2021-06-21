@@ -20,6 +20,7 @@
 |Backspace| https://open.kattis.com/problems/backspace|Not Done|
 |Bits Equalizer|https://open.kattis.com/problems/bitsequalizer|Completed|
 |str_hash|A03 - Modify to take in two strings, output if hash values are equal and if strings are equal|Not Done|
+|strip function|Function to remove leading and trailing whitespace from string|Not Done|
 
 ### Hard
 |Question|Link|Status|
