@@ -7,15 +7,15 @@ https://github.com/mpfeifer1/Kattis
 |Question|Link|Status|Initial|
 |---|---|---|---|
 |Quality-Adjusted Life-Year| https://open.kattis.com/problems/qaly|Not Done|Masoud|
-|Rating Problems| https://open.kattis.com/problems/ratingproblems|Not Done|---|
+|Rating Problems| https://open.kattis.com/problems/ratingproblems|Not Done|Masoud|
 |Nasty Hacks| https://open.kattis.com/problems/nastyhacks|Not Done|---|
 |Modulo| https://open.kattis.com/problems/modulo|Not Done|---|
 |Battle Simulation|https://open.kattis.com/problems/battlesimulation|Not Done|---|
 |Above Average|https://open.kattis.com/problems/aboveaverage|Completed|DJP|
 |Dot Product| Classify Angle between two vectors |Completed|DJP|
 |Conformity|https://open.kattis.com/problems/conformity|Not Done|---|
-|Booking A Room| https://open.kattis.com/problems/bookingaroom|Not Done|---|
-|Secure Doors|https://open.kattis.com/problems/securedoors|Not Done|---|
+|Booking A Room| https://open.kattis.com/problems/bookingaroom|Not Done|Masoud|
+|Secure Doors|https://open.kattis.com/problems/securedoors|Not Done|Masoud|
 |Beat The Spread|https://open.kattis.com/problems/beatspread|Not Done|---|
 |Button Bashing|https://open.kattis.com/problems/buttonbashing|Not Done|---|
 |Brexit|https://open.kattis.com/problems/brexit|Not Done|---|
@@ -35,7 +35,7 @@ https://github.com/mpfeifer1/Kattis
 |str_hash|A03 - Modify to take in two strings, output if hash values are equal and if strings are equal|Not Done|---|
 |strip function|Function to remove leading and trailing whitespace from string|Not Done|---|
 |Squawk|https://open.kattis.com/problems/squawk|Not Done|---|
-|Turtle Master|https://open.kattis.com/problems/turtlemaster|Not Done|---|
+|Turtle Master|https://open.kattis.com/problems/turtlemaster|Not Done|Masoud|
 |Canonical Coin System|https://open.kattis.com/problems/canonical|Not Done|---|
 |Swap To Sort|https://open.kattis.com/problems/swaptosort|Not Done|---|
 |Non-boring Sequence|https://open.kattis.com/problems/nonboringsequences|Not Done|---|
