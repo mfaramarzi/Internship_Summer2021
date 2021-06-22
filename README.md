@@ -6,7 +6,7 @@ https://github.com/mpfeifer1/Kattis
 ### Easy
 |Question|Link|Status|Initial|
 |---|---|---|---|
-|Quality-Adjusted Life-Year| https://open.kattis.com/problems/qaly|Not Done|---|
+|Quality-Adjusted Life-Year| https://open.kattis.com/problems/qaly|Not Done|Masoud|
 |Rating Problems| https://open.kattis.com/problems/ratingproblems|Not Done|---|
 |Nasty Hacks| https://open.kattis.com/problems/nastyhacks|Not Done|---|
 |Modulo| https://open.kattis.com/problems/modulo|Not Done|---|
