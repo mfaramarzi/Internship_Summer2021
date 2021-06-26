@@ -30,7 +30,7 @@ https://github.com/mpfeifer1/Kattis
 |All Different Directions| https://open.kattis.com/problems/alldifferentdirections|Completed|DJP|
 |Battleship| https://open.kattis.com/problems/battleship|Not Done|DJP|
 |Conquest Campaign|https://open.kattis.com/problems/conquestcampaign|Not Done|DJP|
-|Backspace| https://open.kattis.com/problems/backspace|Not Done|DJP|
+|Backspace| https://open.kattis.com/problems/backspace|Completed|DJP|
 |Bits Equalizer|https://open.kattis.com/problems/bitsequalizer|Completed|DJP|
 |str_hash|A03 - Modify to take in two strings, output if hash values are equal and if strings are equal|Not Done|---|
 |strip function|Function to remove leading and trailing whitespace from string|Not Done|---|
