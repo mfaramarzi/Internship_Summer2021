@@ -14,7 +14,7 @@ https://github.com/mpfeifer1/Kattis
 |Above Average|https://open.kattis.com/problems/aboveaverage|Completed|DJP|
 |Dot Product| Classify Angle between two vectors |Completed|DJP|
 |Conformity|https://open.kattis.com/problems/conformity|Not Done|---|
-|Booking A Room| https://open.kattis.com/problems/bookingaroom|Not Done|Masoud|
+|Booking A Room| https://open.kattis.com/problems/bookingaroom|Completed|Masoud|
 |Secure Doors|https://open.kattis.com/problems/securedoors|Not Done|Masoud|
 |Beat The Spread|https://open.kattis.com/problems/beatspread|Not Done|---|
 |Button Bashing|https://open.kattis.com/problems/buttonbashing|Not Done|---|
