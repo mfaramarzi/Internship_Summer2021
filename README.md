@@ -27,7 +27,7 @@ https://github.com/mpfeifer1/Kattis
 ### Medium
 |Question|Link|Status|Initial|
 |---|---|---|---|
-|All Different Directions| https://open.kattis.com/problems/alldifferentdirections|Not Done|DJP|
+|All Different Directions| https://open.kattis.com/problems/alldifferentdirections|Completed|DJP|
 |Battleship| https://open.kattis.com/problems/battleship|Not Done|DJP|
 |Conquest Campaign|https://open.kattis.com/problems/conquestcampaign|Not Done|DJP|
 |Backspace| https://open.kattis.com/problems/backspace|Not Done|DJP|
