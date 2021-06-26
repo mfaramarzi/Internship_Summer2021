@@ -7,7 +7,7 @@ https://github.com/mpfeifer1/Kattis
 |Question|Link|Status|Initial|
 |---|---|---|---|
 |Quality-Adjusted Life-Year| https://open.kattis.com/problems/qaly|Completed|Masoud|
-|Rating Problems| https://open.kattis.com/problems/ratingproblems|Not Done|Masoud|
+|Rating Problems| https://open.kattis.com/problems/ratingproblems|Completed|Masoud|
 |Nasty Hacks| https://open.kattis.com/problems/nastyhacks|Not Done|---|
 |Modulo| https://open.kattis.com/problems/modulo|Not Done|---|
 |Battle Simulation|https://open.kattis.com/problems/battlesimulation|Not Done|---|
