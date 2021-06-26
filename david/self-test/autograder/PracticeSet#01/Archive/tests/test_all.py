@@ -65,7 +65,6 @@ class TestQuestions(unittest.TestCase):
     def test1(self):
         '''HelloWorld'''
         self.run_tests('HelloWorld', 1)
-
     @weight(10)
     def test2(self):
         '''iostream'''
@@ -80,7 +79,7 @@ class TestQuestions(unittest.TestCase):
         self.run_tests('Vector2D', 4)
     @weight(10)
     def test5(self):
-        '''antiArithmetic'''
+        '''Anti-Arithmetic'''
         self.run_tests('antiArithmetic', 5)
     @weight(10)
     def test6(self):
@@ -94,3 +93,15 @@ class TestQuestions(unittest.TestCase):
     def test8(self):
         '''2048'''
         self.run_tests('2048', 8)
+    @weight(10)
+    def test9(self):
+        '''AllDifferentDirections'''
+        self.run_tests('AllDifferentDirections', 9)
+    @weight(10)
+    def test10(self):
+        '''Addition'''
+        self.run_tests('Addition', 10)
+    @weight(10)
+    def test11(self):
+        '''Backspace'''
+        self.run_tests('Backspace', 11)

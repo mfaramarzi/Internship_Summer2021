@@ -101,6 +101,6 @@ def generateTestCases():
     return test_cases
 
 test_cases = generateTestCases()
-with open('test.json', 'w') as json_file:
+with open('Anti-Arithmetic.json', 'w') as json_file:
   json.dump(test_cases, json_file, indent = 4, sort_keys = True)
 
