@@ -15,7 +15,7 @@ https://github.com/mpfeifer1/Kattis
 |Dot Product| Classify Angle between two vectors |Completed|DJP|
 |Conformity|https://open.kattis.com/problems/conformity|Not Done|---|
 |Booking A Room| https://open.kattis.com/problems/bookingaroom|Completed|Masoud|
-|Secure Doors|https://open.kattis.com/problems/securedoors|Not Done|Masoud|
+|Secure Doors|https://open.kattis.com/problems/securedoors|Completed|Masoud|
 |Beat The Spread|https://open.kattis.com/problems/beatspread|Not Done|---|
 |Button Bashing|https://open.kattis.com/problems/buttonbashing|Not Done|---|
 |Brexit|https://open.kattis.com/problems/brexit|Not Done|---|
