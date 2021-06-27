@@ -18,7 +18,7 @@ https://github.com/mpfeifer1/Kattis
 |Secure Doors|https://open.kattis.com/problems/securedoors|Completed|Masoud|
 |Beat The Spread|https://open.kattis.com/problems/beatspread|Not Done|Masoud|
 |Button Bashing|https://open.kattis.com/problems/buttonbashing|Not Done|Masoud|
-|Brexit|https://open.kattis.com/problems/brexit|Not Done|---|
+|Brexit|https://open.kattis.com/problems/brexit|Not Done|Masoud|
 |Death And Taxes|https://open.kattis.com/problems/deathtaxes|Not Done|Masoud|
 |Not Amused|https://open.kattis.com/problems/notamused|Not Done|Masoud|
 |Recipes|https://open.kattis.com/problems/recipes|Not Done|Masoud|
