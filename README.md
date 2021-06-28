@@ -6,22 +6,22 @@ https://github.com/mpfeifer1/Kattis
 ### Easy
 |Question|Link|Status|Initial|
 |---|---|---|---|
-|Quality-Adjusted Life-Year| https://open.kattis.com/problems/qaly|Not Done|Masoud|
-|Rating Problems| https://open.kattis.com/problems/ratingproblems|Not Done|Masoud|
-|Nasty Hacks| https://open.kattis.com/problems/nastyhacks|Not Done|---|
-|Modulo| https://open.kattis.com/problems/modulo|Not Done|---|
-|Battle Simulation|https://open.kattis.com/problems/battlesimulation|Not Done|---|
+|Quality-Adjusted Life-Year| https://open.kattis.com/problems/qaly|Completed|Masoud|
+|Rating Problems| https://open.kattis.com/problems/ratingproblems|Completed|Masoud|
+|Nasty Hacks| https://open.kattis.com/problems/nastyhacks|Completed|Masoud|
+|Modulo| https://open.kattis.com/problems/modulo|Completed|Masoud|
+|Battle Simulation|https://open.kattis.com/problems/battlesimulation|Not Done|Masoud|
 |Above Average|https://open.kattis.com/problems/aboveaverage|Completed|DJP|
 |Dot Product| Classify Angle between two vectors |Completed|DJP|
-|Conformity|https://open.kattis.com/problems/conformity|Not Done|---|
+|Conformity|https://open.kattis.com/problems/conformity|Not Done|Masoud|
 |Booking A Room| https://open.kattis.com/problems/bookingaroom|Completed|Masoud|
-|Secure Doors|https://open.kattis.com/problems/securedoors|Not Done|Masoud|
-|Beat The Spread|https://open.kattis.com/problems/beatspread|Not Done|---|
-|Button Bashing|https://open.kattis.com/problems/buttonbashing|Not Done|---|
-|Brexit|https://open.kattis.com/problems/brexit|Not Done|---|
-|Death And Taxes|https://open.kattis.com/problems/deathtaxes|Not Done|---|
-|Not Amused|https://open.kattis.com/problems/notamused|Not Done|---|
-|Recipes|https://open.kattis.com/problems/recipes|Not Done|---|
+|Secure Doors|https://open.kattis.com/problems/securedoors|Completed|Masoud|
+|Beat The Spread|https://open.kattis.com/problems/beatspread|Not Done|Masoud|
+|Button Bashing|https://open.kattis.com/problems/buttonbashing|Not Done|Masoud|
+|Brexit|https://open.kattis.com/problems/brexit|Not Done|Masoud|
+|Death And Taxes|https://open.kattis.com/problems/deathtaxes|Not Done|Masoud|
+|Not Amused|https://open.kattis.com/problems/notamused|Not Done|Masoud|
+|Recipes|https://open.kattis.com/problems/recipes|Not Done|Masoud|
 |IO Test|Take in variables as input, print to standard output|Completed|DJP|
 
 ### Medium
