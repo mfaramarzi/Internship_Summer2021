@@ -105,3 +105,7 @@ class TestQuestions(unittest.TestCase):
     def test11(self):
         '''Backspace'''
         self.run_tests('Backspace', 11)
+    @weight(10)
+    def test12(self):
+        '''ConquestCampaign'''
+        self.run_tests('ConquestCampaign', 12)
