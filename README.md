@@ -16,7 +16,7 @@ https://github.com/mpfeifer1/Kattis
 |Conformity|https://open.kattis.com/problems/conformity|Completed|Masoud|
 |Booking A Room| https://open.kattis.com/problems/bookingaroom|Completed|Masoud|
 |Secure Doors|https://open.kattis.com/problems/securedoors|Completed|Masoud|
-|Beat The Spread|https://open.kattis.com/problems/beatspread|Not Done|Masoud|
+|Beat The Spread|https://open.kattis.com/problems/beatspread|Completed|Masoud|
 |Button Bashing|https://open.kattis.com/problems/buttonbashing|Not Done|Masoud|
 |Brexit|https://open.kattis.com/problems/brexit|Not Done|Masoud|
 |Death And Taxes|https://open.kattis.com/problems/deathtaxes|Not Done|Masoud|
