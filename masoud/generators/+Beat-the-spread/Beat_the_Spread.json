@@ -1,0 +1,254 @@
+{
+    "tests": [
+        {
+            "case": 1,
+            "input": "816 186",
+            "output": " 501.0 315.0 "
+        },
+        {
+            "case": 2,
+            "input": "472 537",
+            "output": "impossible"
+        },
+        {
+            "case": 3,
+            "input": "972 82",
+            "output": " 527.0 445.0 "
+        },
+        {
+            "case": 4,
+            "input": "539 620",
+            "output": "impossible"
+        },
+        {
+            "case": 5,
+            "input": "592 7",
+            "output": " 299.5 292.5 "
+        },
+        {
+            "case": 6,
+            "input": "479 149",
+            "output": " 314.0 165.0 "
+        },
+        {
+            "case": 7,
+            "input": "261 785",
+            "output": "impossible"
+        },
+        {
+            "case": 8,
+            "input": "650 865",
+            "output": "impossible"
+        },
+        {
+            "case": 9,
+            "input": "774 911",
+            "output": "impossible"
+        },
+        {
+            "case": 10,
+            "input": "714 478",
+            "output": " 596.0 118.0 "
+        },
+        {
+            "case": 11,
+            "input": "384 964",
+            "output": "impossible"
+        },
+        {
+            "case": 12,
+            "input": "217 508",
+            "output": "impossible"
+        },
+        {
+            "case": 13,
+            "input": "820 738",
+            "output": " 779.0 41.0 "
+        },
+        {
+            "case": 14,
+            "input": "110 186",
+            "output": "impossible"
+        },
+        {
+            "case": 15,
+            "input": "347 903",
+            "output": "impossible"
+        },
+        {
+            "case": 16,
+            "input": "817 791",
+            "output": " 804.0 13.0 "
+        },
+        {
+            "case": 17,
+            "input": "584 614",
+            "output": "impossible"
+        },
+        {
+            "case": 18,
+            "input": "755 923",
+            "output": "impossible"
+        },
+        {
+            "case": 19,
+            "input": "810 488",
+            "output": " 649.0 161.0 "
+        },
+        {
+            "case": 20,
+            "input": "93 678",
+            "output": "impossible"
+        },
+        {
+            "case": 21,
+            "input": "18 969",
+            "output": "impossible"
+        },
+        {
+            "case": 22,
+            "input": "207 461",
+            "output": "impossible"
+        },
+        {
+            "case": 23,
+            "input": "338 565",
+            "output": "impossible"
+        },
+        {
+            "case": 24,
+            "input": "237 403",
+            "output": "impossible"
+        },
+        {
+            "case": 25,
+            "input": "407 180",
+            "output": " 293.5 113.5 "
+        },
+        {
+            "case": 26,
+            "input": "822 662",
+            "output": " 742.0 80.0 "
+        },
+        {
+            "case": 27,
+            "input": "301 587",
+            "output": "impossible"
+        },
+        {
+            "case": 28,
+            "input": "50 555",
+            "output": "impossible"
+        },
+        {
+            "case": 29,
+            "input": "941 894",
+            "output": " 917.5 23.5 "
+        },
+        {
+            "case": 30,
+            "input": "774 463",
+            "output": " 618.5 155.5 "
+        },
+        {
+            "case": 31,
+            "input": "70 772",
+            "output": "impossible"
+        },
+        {
+            "case": 32,
+            "input": "332 281",
+            "output": " 306.5 25.5 "
+        },
+        {
+            "case": 33,
+            "input": "458 539",
+            "output": "impossible"
+        },
+        {
+            "case": 34,
+            "input": "638 887",
+            "output": "impossible"
+        },
+        {
+            "case": 35,
+            "input": "314 753",
+            "output": "impossible"
+        },
+        {
+            "case": 36,
+            "input": "383 971",
+            "output": "impossible"
+        },
+        {
+            "case": 37,
+            "input": "136 283",
+            "output": "impossible"
+        },
+        {
+            "case": 38,
+            "input": "499 662",
+            "output": "impossible"
+        },
+        {
+            "case": 39,
+            "input": "119 693",
+            "output": "impossible"
+        },
+        {
+            "case": 40,
+            "input": "865 858",
+            "output": " 861.5 3.5 "
+        },
+        {
+            "case": 41,
+            "input": "911 624",
+            "output": " 767.5 143.5 "
+        },
+        {
+            "case": 42,
+            "input": "195 617",
+            "output": "impossible"
+        },
+        {
+            "case": 43,
+            "input": "378 62",
+            "output": " 220.0 158.0 "
+        },
+        {
+            "case": 44,
+            "input": "547 862",
+            "output": "impossible"
+        },
+        {
+            "case": 45,
+            "input": "943 967",
+            "output": "impossible"
+        },
+        {
+            "case": 46,
+            "input": "166 485",
+            "output": "impossible"
+        },
+        {
+            "case": 47,
+            "input": "382 863",
+            "output": "impossible"
+        },
+        {
+            "case": 48,
+            "input": "374 906",
+            "output": "impossible"
+        },
+        {
+            "case": 49,
+            "input": "343 802",
+            "output": "impossible"
+        },
+        {
+            "case": 50,
+            "input": "454 354",
+            "output": " 404.0 50.0 "
+        }
+    ]
+}
