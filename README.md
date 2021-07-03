@@ -13,7 +13,7 @@ https://github.com/mpfeifer1/Kattis
 |Battle Simulation|https://open.kattis.com/problems/battlesimulation|Not Done|Masoud|
 |Above Average|https://open.kattis.com/problems/aboveaverage|Completed|DJP|
 |Dot Product| Classify Angle between two vectors |Completed|DJP|
-|Conformity|https://open.kattis.com/problems/conformity|Not Done|Masoud|
+|Conformity|https://open.kattis.com/problems/conformity|Completed|Masoud|
 |Booking A Room| https://open.kattis.com/problems/bookingaroom|Completed|Masoud|
 |Secure Doors|https://open.kattis.com/problems/securedoors|Completed|Masoud|
 |Beat The Spread|https://open.kattis.com/problems/beatspread|Not Done|Masoud|
