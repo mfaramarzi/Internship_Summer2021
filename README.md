@@ -41,6 +41,7 @@ https://github.com/mpfeifer1/Kattis
 |Non-boring Sequence|https://open.kattis.com/problems/nonboringsequences|Not Done|---|
 |Paintings|https://open.kattis.com/problems/paintings|Not Done|---|
 |Queens|https://open.kattis.com/problems/queens|Not Done|DJP|
+|Counting Stars|https://open.kattis.com/problems/countingstars|Not Done|DJP|
 
 ### Hard
 |Question|Link|Status|Initial|
