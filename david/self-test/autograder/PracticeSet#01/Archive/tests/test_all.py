@@ -109,3 +109,8 @@ class TestQuestions(unittest.TestCase):
     def test12(self):
         '''ConquestCampaign'''
         self.run_tests('ConquestCampaign', 12)
+
+    @weight(10)
+    def test13(self):
+        '''CountingStars'''
+        self.run_tests('CountingStars', 13)
