@@ -31,6 +31,7 @@ https://github.com/mpfeifer1/Kattis
 |Apaxiaaaaaaaaaaaans|https://open.kattis.com/problems/apaxiaaans|Completed|Masoud|
 |Sibice|https://open.kattis.com/problems/sibice|Completed|Masoud|
 |Beat the Spread|https://open.kattis.com/problems/beatspread|Completed|Masoud|
+|Shattered Cake|https://open.kattis.com/problems/shatteredcake|Completed|Masoud|
 
 ### Medium
 |Question|Link|Status|Initial|
