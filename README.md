@@ -30,6 +30,8 @@ https://github.com/mpfeifer1/Kattis
 |Spavanac|https://open.kattis.com/problems/spavanac|Completed|Masoud|
 |Apaxiaaaaaaaaaaaans|https://open.kattis.com/problems/apaxiaaans|Completed|Masoud|
 |Sibice|https://open.kattis.com/problems/sibice|Completed|Masoud|
+|Beat the Spread|https://open.kattis.com/problems/beatspread|Completed|Masoud|
+
 ### Medium
 |Question|Link|Status|Initial|
 |---|---|---|---|
