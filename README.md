@@ -29,6 +29,7 @@ https://github.com/mpfeifer1/Kattis
 |Ladder|https://open.kattis.com/problems/ladder|Not Done|DJP|
 |Spavanac|https://open.kattis.com/problems/spavanac|Completed|Masoud|
 |Apaxiaaaaaaaaaaaans|https://open.kattis.com/problems/apaxiaaans|Completed|Masoud|
+|Sibice|https://open.kattis.com/problems/sibice|Completed|Masoud|
 ### Medium
 |Question|Link|Status|Initial|
 |---|---|---|---|
