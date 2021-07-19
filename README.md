@@ -23,9 +23,9 @@ https://github.com/mpfeifer1/Kattis
 |Not Amused|https://open.kattis.com/problems/notamused|Not Done|Masoud|
 |Recipes|https://open.kattis.com/problems/recipes|Not Done|Masoud|
 |IO Test|Take in variables as input, print to standard output|Completed|DJP|
-|License To Launch|https://open.kattis.com/problems/licensetolaunch|Not Done|DJP|
+|License To Launch|https://open.kattis.com/problems/licensetolaunch|Completed|DJP|
 |Course Scheduling|https://open.kattis.com/problems/coursescheduling|Not Done|DJP|
-|Hissing Microphone|https://open.kattis.com/problems/hissingmicrophone|Not Done|DJP|
+|Hissing Microphone|https://open.kattis.com/problems/hissingmicrophone|Completed|DJP|
 |Ladder|https://open.kattis.com/problems/ladder|Not Done|DJP|
 |Spavanac|https://open.kattis.com/problems/spavanac|Completed|Masoud|
 |Apaxiaaaaaaaaaaaans|https://open.kattis.com/problems/apaxiaaans|Completed|Masoud|
