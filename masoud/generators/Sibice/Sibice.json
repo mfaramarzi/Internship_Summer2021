@@ -1,0 +1,254 @@
+{
+    "tests": [
+        {
+            "case": 1,
+            "input": "30 24 4\n36\n525\n577\n560\n2\n806\n342\n744\n371\n362\n301\n396\n5\n975\n58\n735\n638\n966\n961\n502\n436\n777\n840\n638\n507\n574\n594\n638\n188\n688",
+            "output": "\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE"
+        },
+        {
+            "case": 2,
+            "input": "34 99 4\n240\n357\n24\n280\n82\n852\n92\n739\n56\n370\n818\n498\n740\n976\n716\n785\n64\n984\n352\n937\n221\n223\n652\n534\n184\n893\n397\n958\n766\n46\n282\n358\n348\n3",
+            "output": "\nNE\nNE\nDA\nNE\nDA\nNE\nDA\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nDA"
+        },
+        {
+            "case": 3,
+            "input": "38 77 23\n669\n251\n272\n176\n107\n521\n509\n776\n570\n504\n700\n538\n420\n455\n613\n51\n617\n702\n379\n925\n145\n898\n326\n478\n95\n386\n267\n885\n588\n208\n552\n44\n615\n901\n425\n380\n498\n344",
+            "output": "\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nNE"
+        },
+        {
+            "case": 4,
+            "input": "30 62 84\n373\n372\n357\n175\n367\n983\n76\n562\n853\n990\n653\n405\n133\n607\n613\n604\n951\n16\n570\n720\n493\n126\n904\n508\n601\n698\n779\n150\n829\n422",
+            "output": "\nNE\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE"
+        },
+        {
+            "case": 5,
+            "input": "17 85 51\n156\n233\n95\n245\n575\n795\n822\n949\n35\n196\n674\n18\n234\n314\n501\n584\n425",
+            "output": "\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE"
+        },
+        {
+            "case": 6,
+            "input": "41 58 78\n761\n244\n844\n940\n681\n590\n72\n286\n753\n54\n362\n837\n194\n890\n425\n95\n44\n129\n36\n651\n344\n245\n57\n813\n927\n771\n685\n618\n751\n22\n897\n780\n85\n339\n509\n521\n544\n257\n960\n334\n624",
+            "output": "\nNE\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nDA\nDA\nNE\nDA\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE"
+        },
+        {
+            "case": 7,
+            "input": "49 71 10\n45\n345\n522\n913\n323\n343\n189\n524\n755\n784\n545\n749\n649\n350\n681\n17\n862\n353\n544\n651\n302\n489\n245\n786\n864\n29\n142\n635\n371\n227\n367\n457\n373\n929\n487\n760\n85\n563\n126\n539\n152\n751\n274\n279\n119\n913\n641\n41\n788",
+            "output": "\nDA\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nDA\nNE"
+        },
+        {
+            "case": 8,
+            "input": "45 51 90\n757\n879\n842\n107\n169\n684\n918\n826\n531\n130\n115\n327\n784\n347\n972\n861\n211\n271\n538\n784\n217\n832\n469\n899\n687\n372\n518\n228\n495\n540\n800\n266\n921\n948\n309\n338\n37\n608\n390\n914\n13\n843\n316\n407\n964",
+            "output": "\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nNE"
+        },
+        {
+            "case": 9,
+            "input": "25 23 61\n649\n311\n897\n256\n594\n958\n807\n656\n732\n423\n274\n892\n354\n924\n401\n700\n289\n767\n714\n602\n492\n151\n160\n481\n416",
+            "output": "\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE"
+        },
+        {
+            "case": 10,
+            "input": "14 83 31\n467\n738\n533\n458\n772\n692\n170\n282\n464\n901\n421\n369\n88\n766",
+            "output": "\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nDA\nNE"
+        },
+        {
+            "case": 11,
+            "input": "7 74 31\n131\n705\n363\n186\n516\n805\n226",
+            "output": "\nNE\nNE\nNE\nNE\nNE\nNE\nNE"
+        },
+        {
+            "case": 12,
+            "input": "22 70 90\n661\n267\n704\n659\n108\n671\n735\n708\n616\n365\n75\n967\n994\n546\n654\n225\n754\n824\n448\n586\n937\n172",
+            "output": "\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE"
+        },
+        {
+            "case": 13,
+            "input": "37 58 35\n899\n234\n262\n18\n864\n407\n943\n572\n430\n419\n358\n373\n938\n973\n39\n245\n95\n242\n955\n640\n670\n332\n679\n93\n286\n947\n626\n756\n170\n900\n531\n27\n101\n558\n99\n439\n1",
+            "output": "\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nDA"
+        },
+        {
+            "case": 14,
+            "input": "48 97 79\n376\n393\n48\n704\n721\n305\n657\n750\n450\n977\n749\n663\n527\n721\n181\n213\n867\n387\n782\n51\n43\n491\n134\n763\n559\n536\n39\n96\n215\n810\n521\n543\n407\n349\n593\n785\n135\n772\n177\n574\n269\n56\n116\n619\n117\n496\n817\n175",
+            "output": "\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nDA\nDA\nNE\nNE\nNE\nNE\nNE\nDA\nDA\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nDA\nDA\nNE\nDA\nNE\nNE\nNE"
+        },
+        {
+            "case": 15,
+            "input": "6 36 50\n104\n526\n237\n813\n47\n431",
+            "output": "\nNE\nNE\nNE\nNE\nDA\nNE"
+        },
+        {
+            "case": 16,
+            "input": "2 68 37\n428\n966",
+            "output": "\nNE\nNE"
+        },
+        {
+            "case": 17,
+            "input": "13 95 61\n657\n137\n967\n184\n559\n496\n871\n681\n809\n185\n548\n953\n862",
+            "output": "\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE"
+        },
+        {
+            "case": 18,
+            "input": "22 36 60\n681\n270\n740\n380\n81\n579\n951\n29\n938\n790\n169\n734\n299\n274\n714\n520\n733\n717\n977\n216\n935\n806",
+            "output": "\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE"
+        },
+        {
+            "case": 19,
+            "input": "15 83 23\n329\n624\n241\n719\n467\n613\n233\n607\n715\n400\n341\n140\n66\n558\n334",
+            "output": "\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nNE"
+        },
+        {
+            "case": 20,
+            "input": "26 87 75\n722\n91\n182\n613\n356\n625\n542\n705\n405\n772\n693\n566\n67\n40\n418\n204\n410\n352\n776\n368\n405\n391\n195\n870\n572\n769",
+            "output": "\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nDA\nDA\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE"
+        },
+        {
+            "case": 21,
+            "input": "19 79 64\n475\n497\n114\n251\n310\n137\n760\n774\n701\n745\n912\n423\n125\n665\n745\n622\n376\n856\n356",
+            "output": "\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE"
+        },
+        {
+            "case": 22,
+            "input": "4 78 71\n864\n19\n738\n298",
+            "output": "\nNE\nDA\nNE\nNE"
+        },
+        {
+            "case": 23,
+            "input": "49 8 1\n427\n936\n236\n481\n944\n573\n785\n416\n313\n977\n199\n609\n310\n623\n27\n523\n961\n362\n692\n836\n501\n509\n403\n690\n661\n848\n162\n762\n26\n757\n815\n672\n528\n765\n524\n901\n747\n396\n938\n991\n467\n153\n892\n840\n597\n329\n420\n103\n402",
+            "output": "\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE"
+        },
+        {
+            "case": 24,
+            "input": "5 61 1\n892\n591\n375\n469\n885",
+            "output": "\nNE\nNE\nNE\nNE\nNE"
+        },
+        {
+            "case": 25,
+            "input": "21 45 19\n660\n311\n630\n703\n783\n534\n5\n103\n198\n782\n324\n894\n891\n823\n958\n664\n444\n112\n129\n353\n69",
+            "output": "\nNE\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE"
+        },
+        {
+            "case": 26,
+            "input": "29 35 84\n325\n6\n641\n667\n37\n892\n194\n38\n828\n508\n145\n416\n197\n94\n943\n58\n625\n141\n610\n872\n427\n570\n305\n868\n815\n183\n858\n50\n220",
+            "output": "\nNE\nDA\nNE\nNE\nDA\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nDA\nNE"
+        },
+        {
+            "case": 27,
+            "input": "40 100 11\n663\n91\n552\n659\n596\n243\n323\n992\n196\n251\n152\n112\n147\n68\n826\n830\n326\n987\n993\n860\n949\n229\n409\n639\n931\n555\n710\n385\n374\n289\n261\n100\n732\n467\n311\n240\n90\n743\n789\n820",
+            "output": "\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nNE"
+        },
+        {
+            "case": 28,
+            "input": "20 44 80\n284\n837\n66\n882\n539\n220\n603\n383\n21\n212\n421\n997\n13\n984\n210\n636\n505\n628\n674\n991",
+            "output": "\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nNE\nNE"
+        },
+        {
+            "case": 29,
+            "input": "24 46 65\n333\n243\n285\n530\n767\n606\n277\n55\n773\n344\n549\n331\n404\n66\n696\n123\n209\n715\n411\n6\n252\n208\n497\n147",
+            "output": "\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nNE"
+        },
+        {
+            "case": 30,
+            "input": "9 91 97\n274\n490\n245\n871\n199\n852\n297\n233\n53",
+            "output": "\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nDA"
+        },
+        {
+            "case": 31,
+            "input": "32 8 62\n451\n596\n523\n414\n564\n424\n959\n730\n950\n330\n934\n935\n456\n161\n856\n790\n58\n933\n162\n310\n297\n522\n94\n908\n469\n287\n539\n534\n923\n897\n716\n620",
+            "output": "\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE"
+        },
+        {
+            "case": 32,
+            "input": "8 14 15\n488\n710\n372\n202\n589\n744\n478\n780",
+            "output": "\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE"
+        },
+        {
+            "case": 33,
+            "input": "13 45 44\n498\n471\n126\n602\n322\n952\n346\n426\n215\n661\n85\n416\n421",
+            "output": "\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE"
+        },
+        {
+            "case": 34,
+            "input": "24 91 44\n85\n172\n572\n380\n853\n688\n17\n528\n395\n295\n430\n693\n709\n983\n719\n736\n107\n461\n134\n840\n811\n828\n778\n285",
+            "output": "\nDA\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE"
+        },
+        {
+            "case": 35,
+            "input": "35 72 54\n637\n128\n559\n588\n154\n525\n766\n241\n894\n316\n576\n778\n983\n105\n434\n789\n386\n993\n36\n962\n509\n615\n606\n840\n686\n766\n380\n458\n361\n274\n824\n929\n251\n711\n873",
+            "output": "\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE"
+        },
+        {
+            "case": 36,
+            "input": "11 34 91\n906\n547\n834\n391\n405\n595\n758\n988\n573\n235\n458",
+            "output": "\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE"
+        },
+        {
+            "case": 37,
+            "input": "24 78 19\n360\n809\n585\n355\n510\n518\n905\n261\n446\n140\n973\n227\n175\n322\n202\n308\n366\n134\n626\n525\n727\n956\n655\n114",
+            "output": "\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE"
+        },
+        {
+            "case": 38,
+            "input": "24 60 38\n567\n791\n229\n723\n326\n625\n407\n595\n79\n461\n964\n635\n548\n958\n622\n383\n113\n269\n230\n734\n244\n159\n452\n202",
+            "output": "\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE"
+        },
+        {
+            "case": 39,
+            "input": "22 24 48\n870\n278\n843\n620\n334\n355\n642\n55\n473\n918\n443\n434\n42\n391\n484\n363\n992\n340\n718\n921\n336\n381",
+            "output": "\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE"
+        },
+        {
+            "case": 40,
+            "input": "29 69 2\n506\n578\n143\n734\n180\n457\n338\n438\n404\n382\n412\n25\n973\n239\n990\n21\n427\n253\n878\n270\n189\n84\n620\n605\n780\n935\n887\n557\n113",
+            "output": "\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE"
+        },
+        {
+            "case": 41,
+            "input": "12 43 74\n532\n779\n593\n473\n928\n56\n389\n299\n614\n498\n459\n790",
+            "output": "\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nNE"
+        },
+        {
+            "case": 42,
+            "input": "34 90 83\n363\n406\n809\n240\n487\n668\n706\n165\n704\n770\n127\n19\n880\n471\n591\n954\n488\n47\n311\n550\n149\n516\n101\n602\n188\n889\n205\n279\n982\n901\n225\n650\n510\n24",
+            "output": "\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nDA"
+        },
+        {
+            "case": 43,
+            "input": "6 54 52\n29\n409\n91\n344\n853\n127",
+            "output": "\nDA\nNE\nNE\nNE\nNE\nNE"
+        },
+        {
+            "case": 44,
+            "input": "39 6 62\n263\n577\n790\n489\n679\n368\n285\n460\n188\n585\n303\n310\n631\n122\n239\n920\n146\n228\n944\n913\n557\n813\n886\n691\n905\n47\n661\n914\n397\n907\n947\n964\n95\n180\n886\n385\n484\n911\n784",
+            "output": "\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE"
+        },
+        {
+            "case": 45,
+            "input": "1 75 25\n650",
+            "output": "\nNE"
+        },
+        {
+            "case": 46,
+            "input": "10 47 89\n975\n640\n686\n325\n93\n392\n345\n660\n829\n818",
+            "output": "\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE"
+        },
+        {
+            "case": 47,
+            "input": "50 35 92\n737\n440\n7\n549\n415\n463\n904\n383\n594\n307\n864\n858\n187\n52\n694\n291\n71\n625\n916\n351\n110\n765\n424\n310\n997\n582\n692\n100\n713\n496\n145\n243\n60\n555\n137\n892\n838\n284\n974\n217\n280\n81\n643\n45\n593\n99\n481\n243\n909\n95",
+            "output": "\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nDA"
+        },
+        {
+            "case": 48,
+            "input": "30 3 7\n210\n416\n510\n56\n675\n687\n53\n230\n275\n88\n154\n167\n660\n900\n798\n437\n614\n893\n494\n548\n661\n30\n352\n571\n484\n855\n645\n385\n710\n392",
+            "output": "\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE"
+        },
+        {
+            "case": 49,
+            "input": "32 5 72\n491\n91\n916\n630\n357\n458\n160\n102\n828\n5\n879\n454\n817\n739\n467\n181\n117\n151\n250\n320\n302\n359\n246\n267\n351\n790\n190\n588\n247\n279\n891\n674",
+            "output": "\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE"
+        },
+        {
+            "case": 50,
+            "input": "47 4 96\n45\n655\n353\n559\n474\n671\n536\n868\n823\n745\n912\n680\n46\n226\n842\n166\n476\n242\n689\n537\n196\n481\n337\n332\n41\n926\n584\n428\n792\n498\n448\n457\n944\n437\n417\n449\n852\n376\n297\n630\n522\n1000\n645\n535\n261\n313\n757",
+            "output": "\nDA\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nDA\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE\nNE"
+        }
+    ]
+}
