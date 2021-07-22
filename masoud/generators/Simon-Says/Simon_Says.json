@@ -1,0 +1,254 @@
+{
+    "tests": [
+        {
+            "case": 1,
+            "input": "15\nsimon says odd foolishly.\nsimon jumps stupid occasionally.\npuppy says dirty foolishly.\nrabbit jumps adorable crazily.\nrabbit says dirty occasionally.\nsimon hits stupid foolishly.\nsimon runs stupid foolishly.\nrabbit runs adorable crazily.\npuppy runs clueless merrily.\nsimon runs odd dutifully.\ncar jumps stupid merrily.\nrabbit says odd dutifully.\nsimon says stupid crazily.\npuppy hits adorable occasionally.\nsimon says adorable foolishly.",
+            "output": "odd foolishly.\n\n\n\n\n\n\n\n\n\n\n\nstupid crazily.\n\nadorable foolishly."
+        },
+        {
+            "case": 2,
+            "input": "17\nrabbit says clueless foolishly.\nrabbit runs stupid merrily.\nsimon hits adorable occasionally.\npuppy says stupid occasionally.\npuppy jumps dirty foolishly.\nrabbit says adorable crazily.\nsimon says odd occasionally.\nsimon says stupid occasionally.\ncar hits dirty crazily.\nrabbit runs adorable crazily.\nrabbit says adorable foolishly.\ncar hits stupid dutifully.\nsimon runs dirty foolishly.\nrabbit runs clueless foolishly.\ncar runs stupid merrily.\nsimon says stupid merrily.\nsimon says adorable occasionally.",
+            "output": "odd occasionally.\nstupid occasionally.\n\n\n\n\n\n\n\nstupid merrily.\nadorable occasionally."
+        },
+        {
+            "case": 3,
+            "input": "19\nrabbit hits dirty merrily.\npuppy says dirty occasionally.\ncar says adorable occasionally.\nsimon jumps odd foolishly.\nrabbit jumps dirty dutifully.\nrabbit runs stupid merrily.\ncar says stupid occasionally.\npuppy says odd crazily.\nsimon says clueless merrily.\ncar hits adorable dutifully.\nsimon runs clueless crazily.\ncar jumps odd occasionally.\nsimon hits stupid crazily.\nrabbit runs dirty dutifully.\nsimon runs adorable dutifully.\npuppy jumps clueless crazily.\nsimon runs adorable foolishly.\nsimon says stupid foolishly.\nrabbit says adorable foolishly.",
+            "output": "clueless merrily.\n\n\n\n\n\n\n\n\nstupid foolishly."
+        },
+        {
+            "case": 4,
+            "input": "15\nsimon jumps dirty dutifully.\nsimon says dirty crazily.\nrabbit says dirty merrily.\ncar runs clueless occasionally.\nrabbit hits dirty merrily.\nrabbit says adorable occasionally.\npuppy says clueless foolishly.\nrabbit runs adorable crazily.\ncar says clueless crazily.\nrabbit jumps clueless foolishly.\nsimon hits odd foolishly.\nsimon hits odd occasionally.\nrabbit jumps dirty crazily.\nsimon says adorable foolishly.\nsimon jumps clueless occasionally.",
+            "output": "dirty crazily.\n\n\n\n\n\n\n\n\n\n\n\nadorable foolishly."
+        },
+        {
+            "case": 5,
+            "input": "9\nsimon jumps dirty merrily.\nrabbit says odd dutifully.\ncar says odd merrily.\nsimon says clueless foolishly.\nsimon says dirty crazily.\ncar jumps clueless occasionally.\ncar jumps adorable occasionally.\nrabbit runs stupid dutifully.\nsimon says clueless dutifully.",
+            "output": "clueless foolishly.\ndirty crazily.\n\n\n\nclueless dutifully."
+        },
+        {
+            "case": 6,
+            "input": "13\nrabbit runs odd occasionally.\nsimon says dirty foolishly.\npuppy hits adorable dutifully.\nsimon jumps adorable foolishly.\nsimon hits stupid crazily.\npuppy says adorable merrily.\npuppy jumps odd crazily.\nrabbit says stupid dutifully.\ncar says adorable crazily.\nsimon hits stupid occasionally.\npuppy runs clueless occasionally.\nsimon says dirty occasionally.\ncar hits stupid foolishly.",
+            "output": "dirty foolishly.\n\n\n\n\n\n\n\n\n\ndirty occasionally."
+        },
+        {
+            "case": 7,
+            "input": "7\npuppy runs stupid crazily.\nsimon hits adorable occasionally.\ncar runs odd merrily.\ncar hits stupid merrily.\ncar says dirty foolishly.\npuppy says adorable dutifully.\nrabbit jumps stupid dutifully.",
+            "output": ""
+        },
+        {
+            "case": 8,
+            "input": "4\nrabbit says clueless merrily.\nsimon hits stupid merrily.\nrabbit hits adorable occasionally.\nrabbit runs clueless occasionally.",
+            "output": ""
+        },
+        {
+            "case": 9,
+            "input": "11\nrabbit says stupid merrily.\nsimon runs adorable merrily.\ncar says dirty foolishly.\nsimon says clueless occasionally.\nsimon says adorable dutifully.\nrabbit hits odd crazily.\nsimon jumps dirty crazily.\nrabbit says clueless merrily.\nsimon says dirty dutifully.\nsimon jumps stupid crazily.\nsimon jumps odd merrily.",
+            "output": "clueless occasionally.\nadorable dutifully.\n\n\n\ndirty dutifully."
+        },
+        {
+            "case": 10,
+            "input": "19\nsimon hits adorable occasionally.\nsimon says odd dutifully.\nsimon jumps odd crazily.\nsimon says dirty merrily.\nrabbit says stupid crazily.\npuppy hits dirty merrily.\npuppy hits dirty crazily.\nrabbit runs adorable dutifully.\npuppy says clueless merrily.\ncar runs adorable occasionally.\ncar says odd occasionally.\nrabbit hits adorable dutifully.\npuppy says stupid dutifully.\nrabbit hits clueless dutifully.\npuppy hits adorable foolishly.\ncar says stupid occasionally.\nsimon jumps dirty foolishly.\npuppy says dirty dutifully.\npuppy jumps adorable occasionally.",
+            "output": "odd dutifully.\n\ndirty merrily."
+        },
+        {
+            "case": 11,
+            "input": "3\ncar says dirty crazily.\ncar says adorable dutifully.\nsimon says stupid foolishly.",
+            "output": "stupid foolishly."
+        },
+        {
+            "case": 12,
+            "input": "1\ncar jumps stupid occasionally.",
+            "output": ""
+        },
+        {
+            "case": 13,
+            "input": "7\nrabbit runs dirty occasionally.\nrabbit says adorable crazily.\ncar says adorable dutifully.\ncar says clueless foolishly.\nsimon hits clueless foolishly.\ncar runs odd occasionally.\nsimon says stupid merrily.",
+            "output": "stupid merrily."
+        },
+        {
+            "case": 14,
+            "input": "11\nrabbit says clueless crazily.\ncar jumps dirty occasionally.\npuppy says dirty occasionally.\nsimon says odd foolishly.\ncar says odd merrily.\nsimon runs stupid foolishly.\nrabbit says clueless crazily.\nsimon says adorable dutifully.\nsimon jumps adorable occasionally.\nsimon jumps odd crazily.\nsimon hits dirty occasionally.",
+            "output": "odd foolishly.\n\n\n\nadorable dutifully."
+        },
+        {
+            "case": 15,
+            "input": "8\npuppy says stupid dutifully.\nsimon hits dirty occasionally.\npuppy says odd crazily.\nsimon says stupid foolishly.\nsimon jumps dirty dutifully.\nsimon says odd occasionally.\nsimon hits odd foolishly.\nsimon jumps odd occasionally.",
+            "output": "stupid foolishly.\n\nodd occasionally."
+        },
+        {
+            "case": 16,
+            "input": "13\nrabbit says clueless dutifully.\ncar jumps clueless foolishly.\nrabbit hits stupid occasionally.\npuppy says clueless foolishly.\nsimon says stupid crazily.\nsimon says stupid occasionally.\nrabbit runs dirty dutifully.\ncar hits odd dutifully.\nrabbit says dirty foolishly.\npuppy says odd merrily.\npuppy says odd foolishly.\nrabbit jumps dirty merrily.\nsimon hits clueless merrily.",
+            "output": "stupid crazily.\nstupid occasionally."
+        },
+        {
+            "case": 17,
+            "input": "10\nrabbit says odd foolishly.\nsimon runs clueless crazily.\nsimon hits dirty dutifully.\npuppy says stupid occasionally.\npuppy says stupid merrily.\npuppy says dirty occasionally.\nsimon says dirty merrily.\ncar says clueless crazily.\npuppy says stupid merrily.\npuppy jumps stupid dutifully.",
+            "output": "dirty merrily."
+        },
+        {
+            "case": 18,
+            "input": "2\nsimon runs stupid dutifully.\ncar jumps clueless merrily.",
+            "output": ""
+        },
+        {
+            "case": 19,
+            "input": "3\npuppy runs odd crazily.\nrabbit runs dirty occasionally.\nsimon jumps dirty merrily.",
+            "output": ""
+        },
+        {
+            "case": 20,
+            "input": "11\ncar says dirty foolishly.\nsimon runs clueless dutifully.\ncar says adorable merrily.\npuppy hits odd merrily.\nsimon jumps adorable merrily.\nrabbit says adorable occasionally.\nsimon says dirty occasionally.\nrabbit hits adorable foolishly.\npuppy says dirty crazily.\nsimon jumps stupid crazily.\nsimon hits clueless crazily.",
+            "output": "dirty occasionally."
+        },
+        {
+            "case": 21,
+            "input": "15\nsimon hits dirty dutifully.\nrabbit runs adorable occasionally.\npuppy says clueless crazily.\ncar says odd crazily.\npuppy hits dirty crazily.\ncar hits odd occasionally.\nsimon says adorable foolishly.\nsimon says odd merrily.\nsimon runs stupid foolishly.\nsimon hits adorable crazily.\nsimon says clueless crazily.\ncar hits dirty foolishly.\nrabbit hits dirty foolishly.\ncar says clueless foolishly.\npuppy jumps stupid merrily.",
+            "output": "adorable foolishly.\nodd merrily.\n\n\nclueless crazily."
+        },
+        {
+            "case": 22,
+            "input": "20\nsimon runs clueless dutifully.\nsimon hits stupid dutifully.\nsimon jumps dirty crazily.\nsimon says odd merrily.\nsimon says odd merrily.\nrabbit jumps stupid occasionally.\nsimon jumps dirty occasionally.\nrabbit hits clueless merrily.\nsimon runs dirty dutifully.\nrabbit runs dirty crazily.\ncar jumps clueless foolishly.\nrabbit jumps odd foolishly.\ncar hits stupid foolishly.\ncar says dirty merrily.\nsimon says adorable crazily.\nsimon hits dirty foolishly.\npuppy jumps dirty crazily.\ncar says stupid merrily.\nsimon says stupid occasionally.\ncar says clueless merrily.",
+            "output": "odd merrily.\nodd merrily.\n\n\n\n\n\n\n\n\n\nadorable crazily.\n\n\n\nstupid occasionally."
+        },
+        {
+            "case": 23,
+            "input": "10\nsimon says clueless foolishly.\nsimon jumps odd dutifully.\nrabbit says odd foolishly.\nsimon hits dirty dutifully.\nsimon says stupid foolishly.\nsimon says adorable crazily.\npuppy says stupid foolishly.\ncar hits stupid crazily.\nsimon runs dirty foolishly.\nrabbit jumps stupid foolishly.",
+            "output": "clueless foolishly.\n\n\n\nstupid foolishly.\nadorable crazily."
+        },
+        {
+            "case": 24,
+            "input": "12\nrabbit runs adorable merrily.\ncar jumps stupid dutifully.\nsimon says dirty merrily.\nrabbit says adorable foolishly.\npuppy says odd merrily.\nrabbit runs clueless occasionally.\ncar runs dirty dutifully.\nsimon jumps clueless occasionally.\nsimon hits odd occasionally.\nsimon hits stupid merrily.\nsimon hits clueless occasionally.\nrabbit runs dirty dutifully.",
+            "output": "dirty merrily."
+        },
+        {
+            "case": 25,
+            "input": "5\nrabbit runs dirty occasionally.\nsimon runs clueless merrily.\ncar jumps stupid merrily.\nrabbit says adorable crazily.\nrabbit says adorable occasionally.",
+            "output": ""
+        },
+        {
+            "case": 26,
+            "input": "16\nsimon hits adorable dutifully.\nsimon jumps stupid merrily.\npuppy runs dirty dutifully.\ncar jumps stupid merrily.\nsimon hits stupid merrily.\nsimon runs clueless merrily.\nrabbit jumps odd dutifully.\ncar says dirty crazily.\nrabbit jumps dirty crazily.\ncar hits dirty merrily.\nsimon runs odd crazily.\nsimon says dirty crazily.\npuppy says stupid foolishly.\nsimon says clueless occasionally.\nsimon jumps odd dutifully.\ncar runs adorable dutifully.",
+            "output": "dirty crazily.\n\nclueless occasionally."
+        },
+        {
+            "case": 27,
+            "input": "4\nsimon jumps adorable crazily.\npuppy says stupid crazily.\nsimon says odd dutifully.\npuppy says clueless foolishly.",
+            "output": "odd dutifully."
+        },
+        {
+            "case": 28,
+            "input": "7\ncar jumps clueless occasionally.\nrabbit jumps stupid crazily.\npuppy jumps odd occasionally.\nsimon runs odd crazily.\nsimon hits adorable occasionally.\nsimon jumps clueless occasionally.\nsimon runs stupid crazily.",
+            "output": ""
+        },
+        {
+            "case": 29,
+            "input": "12\nsimon says odd dutifully.\npuppy says stupid merrily.\nsimon says clueless occasionally.\npuppy says adorable occasionally.\nrabbit jumps dirty foolishly.\nrabbit says stupid merrily.\nsimon says adorable crazily.\nsimon says stupid occasionally.\nrabbit says clueless occasionally.\nsimon hits adorable dutifully.\nsimon says dirty foolishly.\nsimon hits stupid foolishly.",
+            "output": "odd dutifully.\n\nclueless occasionally.\n\n\n\nadorable crazily.\nstupid occasionally.\n\n\ndirty foolishly."
+        },
+        {
+            "case": 30,
+            "input": "18\nrabbit says dirty foolishly.\ncar says dirty dutifully.\nrabbit jumps odd merrily.\nrabbit runs dirty crazily.\nrabbit says dirty foolishly.\nsimon says dirty dutifully.\nrabbit says stupid crazily.\npuppy jumps stupid occasionally.\npuppy hits stupid foolishly.\nrabbit runs odd occasionally.\ncar jumps stupid merrily.\nsimon says adorable merrily.\npuppy hits stupid dutifully.\nsimon runs adorable merrily.\nrabbit hits clueless occasionally.\nsimon says dirty dutifully.\nrabbit jumps stupid foolishly.\nsimon hits odd occasionally.",
+            "output": "dirty dutifully.\n\n\n\n\n\nadorable merrily.\n\n\n\ndirty dutifully."
+        },
+        {
+            "case": 31,
+            "input": "6\ncar says stupid occasionally.\nrabbit says dirty occasionally.\nrabbit says odd foolishly.\nsimon runs dirty occasionally.\nrabbit says stupid occasionally.\nsimon says stupid occasionally.",
+            "output": "stupid occasionally."
+        },
+        {
+            "case": 32,
+            "input": "12\nsimon says clueless occasionally.\npuppy runs clueless occasionally.\nsimon runs adorable occasionally.\npuppy hits dirty dutifully.\nrabbit runs stupid occasionally.\npuppy runs stupid crazily.\nrabbit says clueless crazily.\nsimon runs adorable dutifully.\nsimon hits clueless dutifully.\npuppy says adorable occasionally.\nrabbit says adorable dutifully.\nsimon jumps adorable dutifully.",
+            "output": "clueless occasionally."
+        },
+        {
+            "case": 33,
+            "input": "12\nsimon hits clueless crazily.\nsimon runs clueless merrily.\npuppy says dirty foolishly.\npuppy says odd dutifully.\npuppy jumps adorable merrily.\nsimon jumps adorable crazily.\nsimon says stupid merrily.\npuppy hits odd merrily.\ncar runs adorable dutifully.\npuppy says adorable occasionally.\ncar says odd merrily.\nsimon says adorable foolishly.",
+            "output": "stupid merrily.\n\n\n\n\nadorable foolishly."
+        },
+        {
+            "case": 34,
+            "input": "11\nsimon jumps adorable foolishly.\nrabbit jumps stupid crazily.\ncar hits adorable foolishly.\npuppy says dirty dutifully.\npuppy runs stupid foolishly.\npuppy hits adorable crazily.\nsimon jumps stupid occasionally.\nsimon hits clueless crazily.\nsimon hits adorable foolishly.\ncar hits clueless occasionally.\ncar hits stupid crazily.",
+            "output": ""
+        },
+        {
+            "case": 35,
+            "input": "15\ncar jumps clueless merrily.\nrabbit says stupid foolishly.\nsimon jumps odd foolishly.\nsimon hits adorable merrily.\nsimon says clueless foolishly.\nrabbit runs odd crazily.\nrabbit jumps stupid dutifully.\nrabbit says clueless crazily.\npuppy says clueless occasionally.\nrabbit says stupid crazily.\nsimon runs dirty dutifully.\nrabbit says clueless merrily.\nsimon says odd crazily.\nrabbit says clueless merrily.\nrabbit hits dirty occasionally.",
+            "output": "clueless foolishly.\n\n\n\n\n\n\n\nodd crazily."
+        },
+        {
+            "case": 36,
+            "input": "6\npuppy says stupid merrily.\nsimon runs dirty occasionally.\ncar jumps adorable occasionally.\nsimon says dirty crazily.\ncar runs odd crazily.\nsimon hits adorable merrily.",
+            "output": "dirty crazily."
+        },
+        {
+            "case": 37,
+            "input": "17\npuppy jumps odd merrily.\ncar hits stupid merrily.\nsimon runs stupid crazily.\nsimon runs dirty merrily.\nsimon runs odd crazily.\nsimon says adorable merrily.\nsimon jumps adorable crazily.\nsimon says clueless occasionally.\nsimon jumps adorable crazily.\nsimon runs stupid merrily.\nsimon says stupid occasionally.\ncar says clueless foolishly.\nsimon runs stupid occasionally.\nrabbit hits odd foolishly.\nrabbit hits odd foolishly.\nsimon hits dirty foolishly.\npuppy jumps odd occasionally.",
+            "output": "adorable merrily.\n\nclueless occasionally.\n\n\nstupid occasionally."
+        },
+        {
+            "case": 38,
+            "input": "3\nsimon hits dirty merrily.\nsimon jumps clueless foolishly.\nsimon hits adorable dutifully.",
+            "output": ""
+        },
+        {
+            "case": 39,
+            "input": "20\ncar hits adorable foolishly.\nrabbit runs clueless crazily.\nrabbit says odd occasionally.\nsimon says clueless merrily.\ncar jumps clueless dutifully.\npuppy says dirty occasionally.\nrabbit says clueless crazily.\nsimon says stupid dutifully.\npuppy says adorable foolishly.\nsimon says clueless occasionally.\nsimon says adorable dutifully.\nsimon hits dirty occasionally.\nsimon says clueless occasionally.\npuppy runs stupid merrily.\ncar jumps dirty merrily.\ncar jumps odd merrily.\nsimon says clueless foolishly.\ncar runs clueless merrily.\nsimon jumps stupid occasionally.\nsimon says adorable dutifully.",
+            "output": "clueless merrily.\n\n\n\nstupid dutifully.\n\nclueless occasionally.\nadorable dutifully.\n\nclueless occasionally.\n\n\n\nclueless foolishly.\n\n\nadorable dutifully."
+        },
+        {
+            "case": 40,
+            "input": "1\nsimon hits adorable dutifully.",
+            "output": ""
+        },
+        {
+            "case": 41,
+            "input": "5\nsimon hits adorable occasionally.\nsimon says clueless occasionally.\nsimon runs dirty dutifully.\ncar runs dirty crazily.\nrabbit runs clueless foolishly.",
+            "output": "clueless occasionally."
+        },
+        {
+            "case": 42,
+            "input": "15\nrabbit hits stupid foolishly.\nsimon hits adorable foolishly.\nsimon hits odd foolishly.\nsimon says dirty occasionally.\nrabbit hits clueless dutifully.\nrabbit jumps dirty crazily.\ncar says clueless dutifully.\nsimon jumps odd merrily.\nrabbit runs adorable crazily.\nrabbit says odd crazily.\npuppy says dirty crazily.\nsimon hits clueless crazily.\nsimon says stupid crazily.\nsimon hits stupid foolishly.\nsimon runs clueless crazily.",
+            "output": "dirty occasionally.\n\n\n\n\n\n\n\n\nstupid crazily."
+        },
+        {
+            "case": 43,
+            "input": "16\nrabbit runs adorable dutifully.\nsimon says adorable crazily.\nrabbit runs stupid crazily.\nsimon runs adorable occasionally.\nsimon hits odd crazily.\nsimon says odd dutifully.\nsimon jumps odd dutifully.\nrabbit jumps stupid foolishly.\ncar runs stupid merrily.\npuppy hits stupid dutifully.\nrabbit says clueless occasionally.\ncar jumps dirty occasionally.\nsimon jumps odd merrily.\nsimon says odd dutifully.\nsimon says adorable foolishly.\nsimon jumps dirty dutifully.",
+            "output": "adorable crazily.\n\n\n\nodd dutifully.\n\n\n\n\n\n\n\nodd dutifully.\nadorable foolishly."
+        },
+        {
+            "case": 44,
+            "input": "6\npuppy says odd occasionally.\nrabbit hits adorable dutifully.\nsimon hits stupid crazily.\npuppy says dirty foolishly.\nrabbit hits odd dutifully.\nrabbit says clueless dutifully.",
+            "output": ""
+        },
+        {
+            "case": 45,
+            "input": "20\ncar says odd occasionally.\npuppy jumps clueless merrily.\npuppy runs adorable merrily.\nrabbit runs dirty occasionally.\npuppy says stupid foolishly.\nsimon says stupid foolishly.\npuppy says dirty dutifully.\nsimon runs odd occasionally.\nsimon hits adorable crazily.\nsimon jumps stupid dutifully.\nsimon hits adorable crazily.\nrabbit says dirty crazily.\nrabbit runs clueless foolishly.\ncar jumps adorable merrily.\nrabbit runs adorable crazily.\npuppy says odd foolishly.\ncar says stupid dutifully.\nrabbit runs dirty foolishly.\nrabbit runs odd crazily.\nsimon hits clueless merrily.",
+            "output": "stupid foolishly."
+        },
+        {
+            "case": 46,
+            "input": "16\nsimon says stupid occasionally.\nrabbit hits stupid merrily.\nsimon says adorable dutifully.\ncar says stupid merrily.\npuppy hits stupid occasionally.\nsimon hits odd merrily.\nrabbit says stupid merrily.\nsimon says stupid occasionally.\nsimon says adorable dutifully.\nsimon hits stupid merrily.\nrabbit hits odd merrily.\nsimon hits odd foolishly.\ncar runs stupid foolishly.\npuppy hits adorable merrily.\nrabbit runs adorable foolishly.\npuppy runs odd dutifully.",
+            "output": "stupid occasionally.\n\nadorable dutifully.\n\n\n\n\nstupid occasionally.\nadorable dutifully."
+        },
+        {
+            "case": 47,
+            "input": "15\nsimon says dirty crazily.\nsimon says odd dutifully.\ncar jumps adorable crazily.\nsimon jumps adorable crazily.\ncar says adorable dutifully.\nsimon runs adorable occasionally.\nrabbit says dirty foolishly.\nrabbit says stupid occasionally.\npuppy runs adorable crazily.\ncar runs stupid merrily.\ncar jumps adorable crazily.\ncar says clueless foolishly.\nsimon jumps dirty merrily.\npuppy jumps odd foolishly.\npuppy jumps adorable occasionally.",
+            "output": "dirty crazily.\nodd dutifully."
+        },
+        {
+            "case": 48,
+            "input": "18\nsimon says adorable crazily.\nsimon says clueless merrily.\npuppy runs clueless dutifully.\ncar says dirty occasionally.\ncar jumps dirty foolishly.\nsimon hits clueless crazily.\nsimon says clueless dutifully.\nrabbit says odd dutifully.\nsimon hits adorable occasionally.\nsimon runs adorable dutifully.\nrabbit runs adorable crazily.\nsimon says dirty foolishly.\npuppy jumps odd dutifully.\nsimon says odd crazily.\nsimon jumps dirty occasionally.\nsimon runs odd merrily.\nsimon says adorable occasionally.\nsimon hits adorable foolishly.",
+            "output": "adorable crazily.\nclueless merrily.\n\n\n\n\nclueless dutifully.\n\n\n\n\ndirty foolishly.\n\nodd crazily.\n\n\nadorable occasionally."
+        },
+        {
+            "case": 49,
+            "input": "13\nsimon runs odd foolishly.\nsimon says clueless merrily.\nsimon hits stupid occasionally.\npuppy says stupid occasionally.\ncar hits dirty foolishly.\ncar hits adorable dutifully.\nsimon runs dirty merrily.\npuppy jumps adorable dutifully.\nrabbit runs clueless crazily.\npuppy says stupid dutifully.\ncar says adorable occasionally.\npuppy hits dirty occasionally.\ncar says dirty crazily.",
+            "output": "clueless merrily."
+        },
+        {
+            "case": 50,
+            "input": "6\ncar jumps clueless crazily.\nrabbit says dirty merrily.\nrabbit jumps odd occasionally.\nsimon hits adorable crazily.\ncar runs stupid foolishly.\nrabbit hits clueless foolishly.",
+            "output": ""
+        }
+    ]
+}

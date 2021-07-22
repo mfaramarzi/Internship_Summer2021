@@ -1,0 +1,254 @@
+{
+    "tests": [
+        {
+            "case": 1,
+            "input": "Melony",
+            "output": "Melony"
+        },
+        {
+            "case": 2,
+            "input": "Anna",
+            "output": "Ana"
+        },
+        {
+            "case": 3,
+            "input": "Deborah",
+            "output": "Deborah"
+        },
+        {
+            "case": 4,
+            "input": "Steven",
+            "output": "Steven"
+        },
+        {
+            "case": 5,
+            "input": "James",
+            "output": "James"
+        },
+        {
+            "case": 6,
+            "input": "Cynthia",
+            "output": "Cynthia"
+        },
+        {
+            "case": 7,
+            "input": "Linda",
+            "output": "Linda"
+        },
+        {
+            "case": 8,
+            "input": "Kenneth",
+            "output": "Keneth"
+        },
+        {
+            "case": 9,
+            "input": "Joan",
+            "output": "Joan"
+        },
+        {
+            "case": 10,
+            "input": "Dorothy",
+            "output": "Dorothy"
+        },
+        {
+            "case": 11,
+            "input": "Anthony",
+            "output": "Anthony"
+        },
+        {
+            "case": 12,
+            "input": "Kevin",
+            "output": "Kevin"
+        },
+        {
+            "case": 13,
+            "input": "Jacqueline",
+            "output": "Jacqueline"
+        },
+        {
+            "case": 14,
+            "input": "Aaron",
+            "output": "Aaron"
+        },
+        {
+            "case": 15,
+            "input": "Darrell",
+            "output": "Darel"
+        },
+        {
+            "case": 16,
+            "input": "Marty",
+            "output": "Marty"
+        },
+        {
+            "case": 17,
+            "input": "Shannon",
+            "output": "Shanon"
+        },
+        {
+            "case": 18,
+            "input": "Jessie",
+            "output": "Jesie"
+        },
+        {
+            "case": 19,
+            "input": "Maaaasoooood",
+            "output": "Masod"
+        },
+        {
+            "case": 20,
+            "input": "Sean",
+            "output": "Sean"
+        },
+        {
+            "case": 21,
+            "input": "Angie",
+            "output": "Angie"
+        },
+        {
+            "case": 22,
+            "input": "Vicki",
+            "output": "Vicki"
+        },
+        {
+            "case": 23,
+            "input": "Cody",
+            "output": "Cody"
+        },
+        {
+            "case": 24,
+            "input": "Caitlin",
+            "output": "Caitlin"
+        },
+        {
+            "case": 25,
+            "input": "Virginia",
+            "output": "Virginia"
+        },
+        {
+            "case": 26,
+            "input": "Evelyn",
+            "output": "Evelyn"
+        },
+        {
+            "case": 27,
+            "input": "Michael",
+            "output": "Michael"
+        },
+        {
+            "case": 28,
+            "input": "Patsy",
+            "output": "Patsy"
+        },
+        {
+            "case": 29,
+            "input": "Dolores",
+            "output": "Dolores"
+        },
+        {
+            "case": 30,
+            "input": "Albert",
+            "output": "Albert"
+        },
+        {
+            "case": 31,
+            "input": "Amparo",
+            "output": "Amparo"
+        },
+        {
+            "case": 32,
+            "input": "Linda",
+            "output": "Linda"
+        },
+        {
+            "case": 33,
+            "input": "Kathleen",
+            "output": "Kathlen"
+        },
+        {
+            "case": 34,
+            "input": "James",
+            "output": "James"
+        },
+        {
+            "case": 35,
+            "input": "David",
+            "output": "David"
+        },
+        {
+            "case": 36,
+            "input": "Beatrice",
+            "output": "Beatrice"
+        },
+        {
+            "case": 37,
+            "input": "Angela",
+            "output": "Angela"
+        },
+        {
+            "case": 38,
+            "input": "Audrey",
+            "output": "Audrey"
+        },
+        {
+            "case": 39,
+            "input": "Emily",
+            "output": "Emily"
+        },
+        {
+            "case": 40,
+            "input": "Bruce",
+            "output": "Bruce"
+        },
+        {
+            "case": 41,
+            "input": "James",
+            "output": "James"
+        },
+        {
+            "case": 42,
+            "input": "Chris",
+            "output": "Chris"
+        },
+        {
+            "case": 43,
+            "input": "Dorothy",
+            "output": "Dorothy"
+        },
+        {
+            "case": 44,
+            "input": "Tammy",
+            "output": "Tamy"
+        },
+        {
+            "case": 45,
+            "input": "Mark",
+            "output": "Mark"
+        },
+        {
+            "case": 46,
+            "input": "Benjamin",
+            "output": "Benjamin"
+        },
+        {
+            "case": 47,
+            "input": "Robin",
+            "output": "Robin"
+        },
+        {
+            "case": 48,
+            "input": "Willie",
+            "output": "Wilie"
+        },
+        {
+            "case": 49,
+            "input": "Carl",
+            "output": "Carl"
+        },
+        {
+            "case": 50,
+            "input": "Corey",
+            "output": "Corey"
+        }
+    ]
+}

@@ -1,0 +1,254 @@
+{
+    "tests": [
+        {
+            "case": 1,
+            "input": "60 24 4\nBCA",
+            "output": "24 60 4"
+        },
+        {
+            "case": 2,
+            "input": "68 99 4\nBAC",
+            "output": "68 4 99"
+        },
+        {
+            "case": 3,
+            "input": "75 77 23\nBCA",
+            "output": "75 77 23"
+        },
+        {
+            "case": 4,
+            "input": "60 62 84\nABC",
+            "output": "60 62 84"
+        },
+        {
+            "case": 5,
+            "input": "33 85 51\nCBA",
+            "output": "85 51 33"
+        },
+        {
+            "case": 6,
+            "input": "82 58 78\nCAB",
+            "output": "82 58 78"
+        },
+        {
+            "case": 7,
+            "input": "97 71 10\nACB",
+            "output": "10 97 71"
+        },
+        {
+            "case": 8,
+            "input": "90 51 90\nCAB",
+            "output": "90 51 90"
+        },
+        {
+            "case": 9,
+            "input": "49 23 61\nBCA",
+            "output": "49 61 23"
+        },
+        {
+            "case": 10,
+            "input": "28 83 31\nABC",
+            "output": "28 31 83"
+        },
+        {
+            "case": 11,
+            "input": "14 74 31\nBCA",
+            "output": "31 74 14"
+        },
+        {
+            "case": 12,
+            "input": "44 70 90\nBAC",
+            "output": "70 44 90"
+        },
+        {
+            "case": 13,
+            "input": "74 58 35\nABC",
+            "output": "35 58 74"
+        },
+        {
+            "case": 14,
+            "input": "95 97 79\nCAB",
+            "output": "97 79 95"
+        },
+        {
+            "case": 15,
+            "input": "12 36 50\nABC",
+            "output": "12 36 50"
+        },
+        {
+            "case": 16,
+            "input": "3 68 37\nCAB",
+            "output": "68 3 37"
+        },
+        {
+            "case": 17,
+            "input": "26 95 61\nCBA",
+            "output": "95 61 26"
+        },
+        {
+            "case": 18,
+            "input": "43 36 60\nACB",
+            "output": "36 60 43"
+        },
+        {
+            "case": 19,
+            "input": "30 83 23\nCAB",
+            "output": "83 23 30"
+        },
+        {
+            "case": 20,
+            "input": "51 87 75\nBCA",
+            "output": "75 87 51"
+        },
+        {
+            "case": 21,
+            "input": "38 79 64\nACB",
+            "output": "38 79 64"
+        },
+        {
+            "case": 22,
+            "input": "7 78 71\nACB",
+            "output": "7 78 71"
+        },
+        {
+            "case": 23,
+            "input": "97 8 1\nACB",
+            "output": "1 97 8"
+        },
+        {
+            "case": 24,
+            "input": "9 61 1\nBAC",
+            "output": "9 1 61"
+        },
+        {
+            "case": 25,
+            "input": "42 45 19\nBAC",
+            "output": "42 19 45"
+        },
+        {
+            "case": 26,
+            "input": "58 35 84\nCAB",
+            "output": "84 35 58"
+        },
+        {
+            "case": 27,
+            "input": "80 100 11\nBCA",
+            "output": "80 100 11"
+        },
+        {
+            "case": 28,
+            "input": "40 44 80\nBAC",
+            "output": "44 40 80"
+        },
+        {
+            "case": 29,
+            "input": "48 46 65\nABC",
+            "output": "46 48 65"
+        },
+        {
+            "case": 30,
+            "input": "18 91 97\nBAC",
+            "output": "91 18 97"
+        },
+        {
+            "case": 31,
+            "input": "63 8 62\nBAC",
+            "output": "62 8 63"
+        },
+        {
+            "case": 32,
+            "input": "15 14 15\nBCA",
+            "output": "15 15 14"
+        },
+        {
+            "case": 33,
+            "input": "25 45 44\nBAC",
+            "output": "44 25 45"
+        },
+        {
+            "case": 34,
+            "input": "48 91 44\nBCA",
+            "output": "48 91 44"
+        },
+        {
+            "case": 35,
+            "input": "69 72 54\nACB",
+            "output": "54 72 69"
+        },
+        {
+            "case": 36,
+            "input": "21 34 91\nBCA",
+            "output": "34 91 21"
+        },
+        {
+            "case": 37,
+            "input": "48 78 19\nCAB",
+            "output": "78 19 48"
+        },
+        {
+            "case": 38,
+            "input": "47 60 38\nCAB",
+            "output": "60 38 47"
+        },
+        {
+            "case": 39,
+            "input": "43 24 48\nBAC",
+            "output": "43 24 48"
+        },
+        {
+            "case": 40,
+            "input": "57 69 2\nABC",
+            "output": "2 57 69"
+        },
+        {
+            "case": 41,
+            "input": "24 43 74\nCAB",
+            "output": "74 24 43"
+        },
+        {
+            "case": 42,
+            "input": "68 90 83\nABC",
+            "output": "68 83 90"
+        },
+        {
+            "case": 43,
+            "input": "11 54 52\nBCA",
+            "output": "52 54 11"
+        },
+        {
+            "case": 44,
+            "input": "78 6 62\nCAB",
+            "output": "78 6 62"
+        },
+        {
+            "case": 45,
+            "input": "1 75 25\nBAC",
+            "output": "25 1 75"
+        },
+        {
+            "case": 46,
+            "input": "19 47 89\nBCA",
+            "output": "47 89 19"
+        },
+        {
+            "case": 47,
+            "input": "99 35 92\nCBA",
+            "output": "99 92 35"
+        },
+        {
+            "case": 48,
+            "input": "60 3 7\nBCA",
+            "output": "7 60 3"
+        },
+        {
+            "case": 49,
+            "input": "64 5 72\nABC",
+            "output": "5 64 72"
+        },
+        {
+            "case": 50,
+            "input": "93 4 96\nCAB",
+            "output": "96 4 93"
+        }
+    ]
+}
