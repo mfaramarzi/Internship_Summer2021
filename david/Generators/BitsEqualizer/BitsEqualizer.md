@@ -44,3 +44,4 @@ Case 1: 3
 Case 2: 1
 Case 3: -1
 ```
+source: https://open.kattis.com/problems/bitsequalizer
