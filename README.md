@@ -33,7 +33,8 @@ https://github.com/mpfeifer1/Kattis
 |Beat the Spread|https://open.kattis.com/problems/beatspread|Completed|Masoud|
 |Shattered Cake|https://open.kattis.com/problems/shatteredcake|Completed|Masoud|
 |ABC|https://open.kattis.com/problems/abc|Completed|Masoud|
-|A_Different_Problem|https://open.kattis.com/problems/different|Completed|Masoud|
+|A Different Problem|https://open.kattis.com/problems/different|Completed|Masoud|
+|Planting Trees|https://open.kattis.com/problems/plantingtrees|Completed|Masoud|
 
 ### Medium
 |Question|Link|Status|Initial|
