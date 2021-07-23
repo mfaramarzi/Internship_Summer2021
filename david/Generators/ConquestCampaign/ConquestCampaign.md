@@ -31,6 +31,36 @@ The figure below shows how the plan is operated for each day, where:
 
 - Cells occupied on previous days are in solid color.
 
-![image](https://user-images.githubusercontent.com/60362379/126816848-8000e367-6b50-4d70-803e-895dd744a3ea.png)
+![image](https://github.com/mfaramarzi/Internship_Summer2021/blob/master/david/Generators/ConquestCampaign/ConquestCampaign.png)
+
+### Sample Input 1
+```
+3 4 3
+2 2
+2 2
+3 4
+```
+
+# Sample Output 1
+```
+3
+```
+
+### Sample Input 2
+```
+2 3 6
+1 1
+1 2
+1 3
+2 1
+2 2
+2 3
+```
+# Sample Output 2
+```
+1
+```
 
 
+
+source: https://open.kattis.com/problems/conquestcampaign
