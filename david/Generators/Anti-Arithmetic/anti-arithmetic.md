@@ -27,3 +27,5 @@ yes
 no
 yes
 ```
+
+source: https://open.kattis.com/problems/antiarithmetic
