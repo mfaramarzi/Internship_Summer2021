@@ -33,3 +33,5 @@ a<a<a<aa<<
 # Sample Output 3
 ```
 ```
+
+source: https://open.kattis.com/problems/backspace
