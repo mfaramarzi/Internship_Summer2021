@@ -33,3 +33,5 @@ For each test case, print a line with the x and y coordinates of the average des
 97.1547 40.2334 7.63097
 30 45 0
 ```
+
+source: https://open.kattis.com/problems/alldifferentdirections
