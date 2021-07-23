@@ -23,3 +23,5 @@ For each case you are to output a line giving the percentage of students whose g
 66.667%
 55.556%
 ```
+
+source: https://open.kattis.com/problems/aboveaverage
