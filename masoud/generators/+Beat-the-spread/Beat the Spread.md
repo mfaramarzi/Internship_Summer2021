@@ -14,5 +14,9 @@ For each test case, output a line giving the two final scores, largest first. If
 
 | Sample Input 1 | Sample Output 1 |
 | -----------  | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| 2
+40 20
+20 40      |  	
+
+30 10
+impossible       |
