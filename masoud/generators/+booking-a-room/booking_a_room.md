@@ -12,7 +12,7 @@ The input consists of:
 
 * one line with two integers r and n (1≤r≤100, 0≤n≤r), the number of rooms in the hotel and the number of rooms that are already booked, respectively;
 
-n lines, each with an integer between 1 and r (inclusive), a room number that is already booked;
+* n lines, each with an integer between 1 and r (inclusive), a room number that is already booked;
 
 All n room numbers of the already booked rooms are distinct.
 
