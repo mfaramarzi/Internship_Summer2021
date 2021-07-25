@@ -10,12 +10,12 @@ You need to write a simple software auditor for tracking employees entering and 
 When your software sees someone enter a building (even if it’s an anomaly), that person is assumed to be inside the building from that point on, until he exits. Similarly, if your software sees someone exit the building (even if it’s an anomaly), that person is assumed to not be in the building from that point on, until he enters again. At the beginning of the log, everyone is assumed to be outside the building.
 
 ## Input
-Input starts with a number 1≤n≤1000 indicating the length of the log. This is followed by n
+Input starts with a number 1≤n≤1000 indicating the length of the log. This is followed by n lines, each line describing either an entry or exit by an employee. Each description is of the form ‘entry name’ or ‘exit name’, where name is a string of up to 20 uppercase and/or lowercase characters (a-z).
 
-lines, each line describing either an entry or exit by an employee. Each description is of the form ‘entry name’ or ‘exit name’, where name is a string of up to 20 uppercase and/or lowercase characters (a-z).
 ## Output
-
 For each person’s entry or exit, print the name of the person, followed by entered or exited. If the action is anomalous, print (ANOMALY) afterward.
+
+
 ## Sample Input 1
 ```
 
