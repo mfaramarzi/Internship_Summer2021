@@ -20,3 +20,10 @@ For each test case, output a line giving the two final scores, largest first. If
 
 30 10
 impossible       |
+
+
+```
+2
+40 20
+20 40
+```
