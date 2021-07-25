@@ -13,6 +13,6 @@ For each test case, output a line giving the two final scores, largest first. If
 
 
 | Sample Input 1 | Sample Output 1 |
-| --- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| -----------  | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
