@@ -2,9 +2,7 @@
 # Rating Problems
 
 Your judges are preparing a problem set, and they’re trying to evaluate a problem for inclusion in the set. Each judge rates the problem with an integer between −3
-and 3
-
-, where:
+and 3, where:
 
 3 means: I really like this problem!
 
