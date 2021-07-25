@@ -11,7 +11,7 @@ The first line of input contains n, the number of test cases. n lines follow, ea
 
 For each test case, output a line giving the two final scores, largest first. If there are no such scores, output a line containing “impossible”. Recall that football scores are always non-negative integers.
 
-##Sample Input 1
+## Sample Input 1
 ```
 2
 40 20
