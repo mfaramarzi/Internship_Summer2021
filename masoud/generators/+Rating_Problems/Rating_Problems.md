@@ -6,23 +6,11 @@ and 3
 
 , where:
 
-3
+3 means: I really like this problem!
 
-	
+−3 means: I really don’t like this problem!
 
-means: I really like this problem!
-
-−3
-
-	
-
-means: I really don’t like this problem!
-
-0
-
-	
-
-means: Meh. I don’t care if we use this problem or not.
+0 means: Meh. I don’t care if we use this problem or not.
 
 The overall rating of the problem is the average of all of the judges’ ratings—that is, the sum of the ratings divided by the number of judges providing a rating.
 
