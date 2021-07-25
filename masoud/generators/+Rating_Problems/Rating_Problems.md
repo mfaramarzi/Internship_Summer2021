@@ -26,9 +26,8 @@ lines contains a single integer r (−3≤r≤3). These are the ratings of the k
 judges that have already rated the problem.
 ## Output
 
-Output two space-separated floating point numbers on a single line, which are the minimum and maximum overall rating the problem could achieve after the remaining judges rate the problem, minimum first. These values must be accurate to an absolute or relative error of 10−4
+Output two space-separated floating point numbers on a single line, which are the minimum and maximum overall rating the problem could achieve after the remaining judges rate the problem, minimum first. These values must be accurate to an absolute or relative error of 10−4.
 
-.
 ## Sample Input 1 	
 ```
 
