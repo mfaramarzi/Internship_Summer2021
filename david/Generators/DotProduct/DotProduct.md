@@ -39,3 +39,5 @@ Length of v1: 1.0000
 Length of v2: 1.0000
 Their normalized dot product is 0.0000 and they are Perpendicular
 ```
+
+sources: “Chapter 2: Vectors.” 3D Math Primer for Graphics and Game Development, by Fletcher Dunn and Ian Parberry, CRC Press, 2012. 
