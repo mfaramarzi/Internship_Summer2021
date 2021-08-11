@@ -113,7 +113,7 @@ def generateRowColumnLists() -> (list[int],list[int]):
   numCols = [random.randint(3,8) for _ in range(50)]
   return numRows, numCols
 
-# Generates each individual test case
+# Generates each test case
 def generateCase(case : int, matrix : list[int], numRows : int, numCols : int):
   new_case = {}
   strMatrix = "" 
