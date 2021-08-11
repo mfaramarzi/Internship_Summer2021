@@ -25,4 +25,4 @@ Given an m x n matrix, return all elements of the matrix in spiral order.
 m == matrix.length<br>
 n == matrix[i].length<br>
 1 <= m, n <= 10<br>
--100 <= matrix[i][j] <= 100<br>
+-10000 <= matrix[i][j] <= 10000<br>
