@@ -1,0 +1,254 @@
+{
+    "tests": [
+        {
+            "case": 1,
+            "input": "amiss",
+            "output": "hiss"
+        },
+        {
+            "case": 2,
+            "input": "octopuses",
+            "output": "no hiss"
+        },
+        {
+            "case": 3,
+            "input": "hiss",
+            "output": "hiss"
+        },
+        {
+            "case": 4,
+            "input": "ssvnxqziytiawygxjmaucyvgqlh",
+            "output": "hiss"
+        },
+        {
+            "case": 5,
+            "input": "aonaatphfmhyldrq",
+            "output": "no hiss"
+        },
+        {
+            "case": 6,
+            "input": "ssxbgcvyetflmmnqxjdt",
+            "output": "hiss"
+        },
+        {
+            "case": 7,
+            "input": "xxanwedi",
+            "output": "no hiss"
+        },
+        {
+            "case": 8,
+            "input": "ssgixqkbmkg",
+            "output": "hiss"
+        },
+        {
+            "case": 9,
+            "input": "pydrsmknlbbhdgbmsvac",
+            "output": "no hiss"
+        },
+        {
+            "case": 10,
+            "input": "sstdyqdcqgbswl",
+            "output": "hiss"
+        },
+        {
+            "case": 11,
+            "input": "wnwxvjpvm",
+            "output": "no hiss"
+        },
+        {
+            "case": 12,
+            "input": "ssledfihsdzwoor",
+            "output": "hiss"
+        },
+        {
+            "case": 13,
+            "input": "hjmavoshk",
+            "output": "no hiss"
+        },
+        {
+            "case": 14,
+            "input": "sstseelka",
+            "output": "hiss"
+        },
+        {
+            "case": 15,
+            "input": "jtrxchfmcbuktlleuvxahoffqyi",
+            "output": "no hiss"
+        },
+        {
+            "case": 16,
+            "input": "ssgolckiclcuacugroz",
+            "output": "hiss"
+        },
+        {
+            "case": 17,
+            "input": "yj",
+            "output": "no hiss"
+        },
+        {
+            "case": 18,
+            "input": "ssjjojmhkqb",
+            "output": "hiss"
+        },
+        {
+            "case": 19,
+            "input": "yuwwmwsrhcrzpt",
+            "output": "no hiss"
+        },
+        {
+            "case": 20,
+            "input": "sszlhliicc",
+            "output": "hiss"
+        },
+        {
+            "case": 21,
+            "input": "heywrnicjeivdlc",
+            "output": "no hiss"
+        },
+        {
+            "case": 22,
+            "input": "sspjvuaggvo",
+            "output": "hiss"
+        },
+        {
+            "case": 23,
+            "input": "aowvpwebjxecmjiwgiwjydxnvjgjhe",
+            "output": "no hiss"
+        },
+        {
+            "case": 24,
+            "input": "sstsymsyzfufjqpkondccboswkp",
+            "output": "hiss"
+        },
+        {
+            "case": 25,
+            "input": "dfgzhxecdhrckickx",
+            "output": "no hiss"
+        },
+        {
+            "case": 26,
+            "input": "ssjgswbssfywc",
+            "output": "hiss"
+        },
+        {
+            "case": 27,
+            "input": "ptm",
+            "output": "no hiss"
+        },
+        {
+            "case": 28,
+            "input": "sscptwspf",
+            "output": "hiss"
+        },
+        {
+            "case": 29,
+            "input": "o",
+            "output": "no hiss"
+        },
+        {
+            "case": 30,
+            "input": "ssytcgbboaiegavowqxgi",
+            "output": "hiss"
+        },
+        {
+            "case": 31,
+            "input": "ztfarejlaaz",
+            "output": "no hiss"
+        },
+        {
+            "case": 32,
+            "input": "ssxgfzswvrzrpluhcwaih",
+            "output": "hiss"
+        },
+        {
+            "case": 33,
+            "input": "noekpbvbsqrtngkzul",
+            "output": "no hiss"
+        },
+        {
+            "case": 34,
+            "input": "ssvbsfjgsozdxldanrty",
+            "output": "hiss"
+        },
+        {
+            "case": 35,
+            "input": "zx",
+            "output": "no hiss"
+        },
+        {
+            "case": 36,
+            "input": "ssbl",
+            "output": "hiss"
+        },
+        {
+            "case": 37,
+            "input": "mctdfabwysajiftarwfuijdakuq",
+            "output": "no hiss"
+        },
+        {
+            "case": 38,
+            "input": "ssuvqcfbtrsqqjixqvpqmpc",
+            "output": "hiss"
+        },
+        {
+            "case": 39,
+            "input": "frcqxbhsfw",
+            "output": "no hiss"
+        },
+        {
+            "case": 40,
+            "input": "ssvvstqqcc",
+            "output": "hiss"
+        },
+        {
+            "case": 41,
+            "input": "bmgnrvkmxuoksjteendyvjbhhmdfu",
+            "output": "no hiss"
+        },
+        {
+            "case": 42,
+            "input": "ssbjjjqojepowwlrgmxcyreqq",
+            "output": "hiss"
+        },
+        {
+            "case": 43,
+            "input": "mqgoamwtrjgfuqttuufdffqwwhcyw",
+            "output": "no hiss"
+        },
+        {
+            "case": 44,
+            "input": "ssvia",
+            "output": "hiss"
+        },
+        {
+            "case": 45,
+            "input": "dhxxcmgvecoocntbhfinijsdjckmxi",
+            "output": "no hiss"
+        },
+        {
+            "case": 46,
+            "input": "sshvextmyzhn",
+            "output": "hiss"
+        },
+        {
+            "case": 47,
+            "input": "idhhefkwsnmvzorfqhnkcjnhrdyx",
+            "output": "no hiss"
+        },
+        {
+            "case": 48,
+            "input": "sstnbmycqim",
+            "output": "hiss"
+        },
+        {
+            "case": 49,
+            "input": "geprwuxmtivj",
+            "output": "no hiss"
+        },
+        {
+            "case": 50,
+            "input": "sscazqh",
+            "output": "hiss"
+        }
+    ]
+}

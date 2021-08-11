@@ -75,12 +75,12 @@ class TestQuestions(unittest.TestCase):
         self.run_tests('SpiralMatrix', 3)
     @weight(10)
     def test4(self):
-        '''Vector2D'''
-        self.run_tests('Vector2D', 4)
+        '''DotProduct'''
+        self.run_tests('DotProduct', 4)
     @weight(10)
     def test5(self):
         '''Anti-Arithmetic'''
-        self.run_tests('antiArithmetic', 5)
+        self.run_tests('Anti-Arithmetic', 5)
     @weight(10)
     def test6(self):
         '''AboveAverage'''
@@ -114,3 +114,15 @@ class TestQuestions(unittest.TestCase):
     def test13(self):
         '''CountingStars'''
         self.run_tests('CountingStars', 13)
+    @weight(10)
+    def test14(self):
+        '''CourseScheduling'''
+        self.run_tests('CourseScheduling', 14)
+    @weight(10)
+    def test15(self):
+        '''HissingMicrophone'''
+        self.run_tests('HissingMicrophone', 15)
+    @weight(10)
+    def test16(self):
+        '''LicenseToLaunch'''
+        self.run_tests('LicenseToLaunch', 16)

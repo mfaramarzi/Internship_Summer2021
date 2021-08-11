@@ -31,8 +31,9 @@ def generateCase(case, spaceJunkNumbers : list[int]):
 
   new_case = {}
   numDays = len(spaceJunkNumbers)
-
-  inStr = "".join([str(i) for i in spaceJunkNumbers])
+  inStr = ""
+  inStr += str(len(spaceJunkNumbers)) + '\n'
+  inStr += "".join([str(i) + ' ' for i in spaceJunkNumbers])
 
   new_case["case"] = case
   new_case["input"] = "%s" % (inStr)
