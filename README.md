@@ -24,7 +24,6 @@ https://github.com/mpfeifer1/Kattis
 |Recipes|https://open.kattis.com/problems/recipes|Not Done|Masoud|
 |IO Test|Take in variables as input, print to standard output|Completed|DJP|
 |License To Launch|https://open.kattis.com/problems/licensetolaunch|Completed|DJP|
-|Course Scheduling|https://open.kattis.com/problems/coursescheduling|Completed|DJP|
 |Hissing Microphone|https://open.kattis.com/problems/hissingmicrophone|Completed|DJP|
 |Ladder|https://open.kattis.com/problems/ladder|Not Done|DJP|
 |Spavanac|https://open.kattis.com/problems/spavanac|Completed|Masoud|
@@ -54,6 +53,7 @@ https://github.com/mpfeifer1/Kattis
 |Paintings|https://open.kattis.com/problems/paintings|Not Done|---|
 |Queens|https://open.kattis.com/problems/queens|Not Done|DJP|
 |Counting Stars|https://open.kattis.com/problems/countingstars|Completed|DJP|
+|Course Scheduling|https://open.kattis.com/problems/coursescheduling|Completed|DJP|
 
 ### Hard
 |Question|Link|Status|Initial|
