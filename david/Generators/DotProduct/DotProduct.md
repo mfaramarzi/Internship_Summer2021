@@ -1,8 +1,10 @@
 # Dot Product
 
+![image](https://github.com/mfaramarzi/Internship_Summer2021/blob/master/david/Generators/DotProduct/VectorImage_cropped.JPG)
+
 Calculating a dot product is a common practice in video game and graphics programming. 
 One useful application of the dot product is that it allows us to determine the angle between two vectors in space.
-![image](https://user-images.githubusercontent.com/60362379/129097920-1f879243-b085-4ac9-9213-5a56c4ffee5a.png)
+
 
 For this assignment, you will be calculating the length of two vectors, and then computing their normalized dot product and outputting if the angle between the vectors is acute, obtuse, or perpendicular.
 If the dot product of two vectors is 0, it means they are perpendicular.  If their dot product is greater than 0, it means the angle between them is acute.  If their dot product is less than 0, it means they are obtuse.
